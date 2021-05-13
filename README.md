@@ -9,6 +9,7 @@
 
 **Malware**
 
+    Browser         Browser Hijackers, Malvertising, Fake Alerts, etc  
     BruteForce      IPs used to download malware after system takeover
     Hackers         Executed commands on my honeypot, after a successful connection  
     RemoteScammer   IP Addresses used by remote scammers, found in remote logs
@@ -16,4 +17,3 @@
 <br />  
 
 Various lists to be used with an IP blocker.
-
