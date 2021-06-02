@@ -6,7 +6,7 @@
     Medium     5+ connects, but less than 20  
     Low        Less than 5 connects  
     _Source    IPs connected to my honeypot, sorted by number of new connections  
-
+<br />  
 
 **Malware**
 
@@ -14,7 +14,14 @@
     Hosting         IPs used to download malware after system takeover
     Hackers         Executed commands on my honeypot, after a successful connection  
     RemoteScammer   IP Addresses used by remote scammers, found in remote logs
+<br />  
 
+**Other**  
+
+    Tunnel          Proxies, and VPNs  
+
+
+<br />  
 <br />  
 
 Various lists to be used with an IP blocker.
