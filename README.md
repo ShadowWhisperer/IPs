@@ -1,10 +1,10 @@
 Various lists to be used with an IP blocker.
 
-Most of these come from several HoneyPots (Cowrie). The logs are uploaded to a main system, examined, and then automatically uploaded every hourly. The repo is compressed every 25 commits, to reduce the overall size. Logs, diff, etc. do not stay with the repo because of this.
+Most of these come from several HoneyPots (Cowrie). The logs are uploaded to a main system, examined, and then automatically uploaded hourly. The repo is compressed every 25 commits to reduce the overall size. Logs, diff, etc., do not stay with the repo because of this.
 
 This repo was created: 5/13/2021. https://api.github.com/repos/ShadowWhisperer/IPs  
 <br/>  
-**Brute Foce**
+**Brute Force**
 
     Extreme    100+ connects  
     High       20+ connects, but less than 100  
