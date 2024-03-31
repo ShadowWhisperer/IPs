@@ -4,7 +4,7 @@ Most of these come from several HoneyPots (Cowrie). The logs are uploaded to a m
 
 This repo was created: 5/13/2021. https://api.github.com/repos/ShadowWhisperer/IPs  
 <br/>  
-**Brute Foce**
+**Brute Force**
 
     Extreme    100+ connects  
     High       20+ connects, but less than 100  
