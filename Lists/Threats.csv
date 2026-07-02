@@ -6409,7 +6409,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 115.190.192.112,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-23,2026-06-26
 115.190.211.2,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-06,2026-07-01
 115.190.211.57,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-01,2026-06-26
-115.190.215.101,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-24,2026-05-24
+115.190.215.101,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-24,2026-07-01
 115.190.216.185,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-08,2026-04-25
 115.190.223.207,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-15,2026-06-25
 115.190.233.64,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-19,2026-04-19
@@ -12466,7 +12466,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 94.154.43.208,dropper host,,,,2026-06-30,2026-06-30
 94.156.71.55,dropper host,,,[busybox],2026-04-30,2026-04-30
 94.183.188.60,dropper host,,,[busybox],2026-06-06,2026-06-07
-94.183.232.247,dropper host,,,[busybox|mirai|huawei|iot|router],2026-06-06,2026-06-12
+94.183.232.247,dropper host,,,[busybox|mirai|huawei|iot|router],2026-06-06,2026-06-06
 107.189.3.150,dropper host,,,[docker],2026-03-31,2026-06-28
 121.176.14.102,dropper host,,,,2026-05-16,2026-05-18
 123.56.0.201,dropper host,,,[busybox|mirai|c2|ddos],2026-06-18,2026-06-18
@@ -17154,7 +17154,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 192.24.230.115,intrusion,remote,,[vnc|remote],2026-05-06,2026-05-06
 192.42.116.12,intrusion,software,Docker daemon takeover,[container|docker|rce],2026-06-16,2026-06-23
 192.42.116.18,intrusion,software,container filesystem credential extraction,[credential-harvest|docker],2026-06-24,2026-06-24
-192.42.116.19,intrusion,software,Docker daemon takeover,[docker|rce|credential-harvest],2026-06-17,2026-06-17
+192.42.116.19,intrusion,software,Docker daemon takeover,[docker|rce|credential-harvest],2026-06-17,2026-06-24
 192.42.116.21,intrusion,software,Docker daemon takeover,[container|docker|rce],2026-06-16,2026-06-16
 192.42.116.47,intrusion,software,Docker daemon takeover,[container|docker|rce],2026-06-14,2026-06-16
 192.42.116.54,intrusion,software,Docker daemon takeover,[container|docker|rce|credential-harvest],2026-06-23,2026-06-24
