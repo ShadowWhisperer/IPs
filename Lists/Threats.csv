@@ -2538,6 +2538,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 47.79.84.165,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-04,2026-06-04
 47.79.127.194,botnet node,,,[telnet],2026-04-30,2026-04-30
 47.79.144.211,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-21,2026-05-21
+47.80.30.149,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-02,2026-07-02
 47.80.62.159,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-02,2026-06-02
 47.80.66.144,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-05,2026-04-05
 47.80.240.38,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-29,2026-06-29
@@ -2588,6 +2589,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 47.88.52.78,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-01,2026-06-01
 47.88.106.237,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-30,2026-03-30
 47.89.154.219,botnet node,,,[infected],2026-05-23,2026-05-24
+47.89.231.206,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-02,2026-07-02
 47.90.151.211,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-12,2026-05-12
 47.90.178.26,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-11,2026-06-11
 47.90.214.76,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-16,2026-06-16
@@ -10013,6 +10015,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 182.44.4.202,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-24,2026-05-24
 182.44.12.151,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-26,2026-06-06
 182.44.12.249,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-04,2026-05-04
+182.44.26.211,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-30,2026-07-02
 182.44.38.181,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-21,2026-04-21
 182.44.82.212,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-27,2026-04-25
 182.44.116.87,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-13,2026-06-22
@@ -12483,7 +12486,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 121.176.14.102,dropper host,,,,2026-05-16,2026-05-18
 123.56.0.201,dropper host,,,[busybox|mirai|c2|ddos],2026-06-18,2026-06-18
 125.135.169.171,dropper host,,,,2026-04-30,2026-05-12
-141.11.88.108,dropper host,,,[busybox],2026-06-26,2026-07-01
+141.11.88.108,dropper host,,,[busybox],2026-06-26,2026-07-02
 142.248.80.144,dropper host,,,,2026-04-29,2026-04-29
 144.172.88.127,dropper host,,,[busybox],2026-05-31,2026-06-01
 154.38.182.18,dropper host,,,[busybox],2026-06-16,2026-06-17
