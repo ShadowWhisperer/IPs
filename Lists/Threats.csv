@@ -12582,6 +12582,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 3.238.234.32,intrusion,remote,,[vnc|remote],2026-05-06,2026-05-06
 3.239.44.25,intrusion,remote,,[vnc|remote],2026-05-06,2026-05-06
 4.145.113.4,intrusion,remote,VNC session established,[vnc|remote],2026-05-06,2026-04-19
+4.193.109.6,intrusion,software,Docker daemon takeover,[container|docker|rce],2026-07-24,2026-07-24
 4.210.253.44,intrusion,remote,,[vnc|remote],2026-05-06,2026-05-06
 4.227.187.190,intrusion,remote,,[vnc|remote],2026-05-06,2026-05-06
 4.246.190.45,intrusion,remote,,[vnc|remote],2026-05-06,2026-05-06
@@ -13866,6 +13867,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 66.56.215.97,intrusion,connect,,[smb],2026-05-15,2026-05-15
 66.179.10.139,intrusion,remote,,[vnc|remote],2026-05-06,2026-05-06
 66.181.182.167,intrusion,connect,,[smb],2026-04-15,2026-04-15
+66.235.168.219,intrusion,remote,VNC session established,[remote|vnc],2026-07-24,2026-07-24
 67.205.147.147,intrusion,remote,,[vnc|remote],2026-05-06,2026-05-06
 67.205.151.169,intrusion,remote,,[vnc|remote],2026-05-06,2026-05-06
 67.207.92.25,intrusion,remote,VNC session established,[remote|vnc],2026-05-20,2026-05-28
@@ -17470,6 +17472,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 2.27.8.154,recon,,,[vnc],2026-05-06,2026-05-06
 2.56.137.107,recon,,,[vnc],2026-05-06,2026-05-06
 2.56.164.231,recon,,,[vnc],2026-05-06,2026-05-06
+2.57.70.117,recon,docker,Docker daemon recon sweep,[docker|credential-harvest],2026-07-24,2026-07-24
 2.57.122.98,recon,,,[vnc],2026-05-06,2026-05-06
 2.57.122.150,recon,cryptominer,Probes CPU + GPU,[crypto],2026-06-26,2026-06-26
 2.57.122.173,recon,http,HTTP-only sweep (39 requests),[http|credential-harvest],2026-06-07,2026-06-09
@@ -18663,7 +18666,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 51.68.151.168,recon,voip,,[sipvicious],2026-04-30,2026-04-30
 51.68.151.169,recon,voip,,[sipvicious],2026-04-30,2026-04-30
 51.75.104.160,recon,,,[vnc],2026-05-06,2026-05-06
-51.75.106.116,recon,voip,pplsip SIP bruteforce tool,[bruteforce|pplsip|sip|voip],2026-06-27,2026-07-22
+51.75.106.116,recon,voip,pplsip SIP bruteforce tool,[bruteforce|pplsip|sip|voip],2026-06-27,2026-07-24
 51.75.107.40,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-07-13,2026-07-13
 51.75.120.177,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-07-09,2026-07-24
 51.75.125.229,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-07-14,2026-07-24
@@ -18689,7 +18692,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 51.161.140.170,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-07-04,2026-07-06
 51.178.54.166,recon,docker,Docker daemon recon sweep,[docker],2026-06-23,2026-06-23
 51.178.100.208,recon,voip,,[sipvicious],2026-04-30,2026-05-02
-51.178.122.178,recon,voip,pplsip SIP bruteforce tool,[bruteforce|pplsip|sip|voip],2026-06-07,2026-07-23
+51.178.122.178,recon,voip,pplsip SIP bruteforce tool,[bruteforce|pplsip|sip|voip],2026-06-07,2026-07-24
 51.178.198.251,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-06-01,2026-06-15
 51.178.242.28,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-07-19,2026-07-21
 51.190.108.2,recon,docker,Docker Swarm secrets enumeration,[credential-harvest|docker],2026-07-19,2026-07-19
@@ -18739,6 +18742,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 64.7.147.93,recon,docker,Docker daemon recon sweep,[docker],2026-07-21,2026-07-21
 64.23.137.131,recon,voip,,[sipvicious],2026-05-15,2026-05-15
 64.31.4.52,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-07-24,2026-07-24
+64.31.4.72,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-07-24,2026-07-24
 64.31.17.118,recon,,,[vnc],2026-05-06,2026-05-06
 64.44.104.51,recon,docker,,[docker],2026-04-23,2026-04-23
 64.44.104.100,recon,docker,Docker daemon recon sweep,[docker],2026-04-16,2026-04-17
@@ -20014,7 +20018,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 108.165.230.177,recon,,,[vnc],2026-05-06,2026-05-06
 108.165.230.186,recon,,,[vnc],2026-05-06,2026-05-06
 108.165.230.227,recon,,,[vnc],2026-05-06,2026-05-06
-108.165.233.13,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-07-09,2026-07-23
+108.165.233.13,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-07-09,2026-07-24
 108.173.164.164,recon,docker,Docker Swarm secrets enumeration,[credential-harvest|docker],2026-06-24,2026-06-24
 108.178.17.26,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-06-02,2026-07-04
 108.179.23.254,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-03-31,2026-04-18
@@ -21454,6 +21458,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 193.122.253.109,recon,docker,Docker daemon recon sweep,[docker],2026-05-26,2026-05-26
 193.124.180.215,recon,,,[vnc],2026-05-06,2026-05-06
 193.124.183.250,recon,,,[vnc],2026-05-06,2026-05-06
+193.141.65.199,recon,docker,Docker daemon recon sweep,[docker],2026-07-24,2026-07-24
 193.162.143.16,recon,,,[vnc],2026-05-06,2026-05-06
 193.181.35.209,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-04-18,2026-04-18
 193.181.46.3,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-06-22,2026-06-21
