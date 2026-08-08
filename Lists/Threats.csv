@@ -15806,6 +15806,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 186.208.147.40,intrusion,connect,,[smb],2026-05-02,2026-05-02
 186.212.210.170,intrusion,connect,,[smb],2026-05-15,2026-05-15
 187.14.82.51,intrusion,software,Docker daemon takeover,[docker|rce],2026-07-31,2026-07-31
+187.14.82.54,intrusion,software,Docker daemon takeover,[docker|rce],2026-08-08,2026-08-08
 187.14.82.60,intrusion,software,Docker daemon takeover,[docker|rce],2026-08-07,2026-08-07
 187.14.82.64,intrusion,remote,VNC session established,[remote|vnc],2026-08-03,2026-08-03
 187.14.82.69,intrusion,remote,VNC session established,[remote|vnc],2026-08-01,2026-08-01
