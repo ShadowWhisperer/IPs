@@ -5654,7 +5654,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 114.217.10.60,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-22,2026-07-19
 114.217.21.253,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-25,2026-05-30
 114.217.149.27,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-27,2026-05-25
-114.219.157.97,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-21,2026-07-30
+114.219.157.97,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-21,2026-08-08
 114.220.176.69,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-06,2026-07-05
 114.220.238.21,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-25,2026-08-01
 114.220.238.30,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-14,2026-06-30
@@ -7551,7 +7551,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 155.4.244.107,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-20,2026-08-02
 155.4.244.169,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-20,2026-08-03
 155.4.244.179,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-10,2026-06-12
-155.4.245.222,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-06,2026-07-04
+155.4.245.222,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-06,2026-08-08
 155.94.147.146,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-24,2026-06-29
 155.103.71.32,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-29,2026-05-06
 155.103.71.46,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-13,2026-06-13
@@ -11982,6 +11982,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 153.117.1.206,exploit,router,CVE-2018-10561,[gpon|iot|mozi|router|rce],2026-06-11,2026-06-11
 153.117.6.25,exploit,router,CVE-2020-25506,[dlink|iot|mozi|router|rce],2026-07-09,2026-07-09
 153.117.6.31,exploit,router,CVE-2016-6277,[iot|mozi|netgear|router|rce],2026-07-29,2026-07-29
+153.117.15.179,exploit,router,CVE-2018-10561,[gpon|iot|mozi|router|rce],2026-08-08,2026-08-08
 153.117.33.178,exploit,router,CVE-2018-10561,[gpon|iot|mozi|router|rce],2026-07-13,2026-07-13
 153.117.40.198,exploit,router,CVE-2018-10561,[gpon|iot|mozi|router|rce],2026-07-16,2026-07-16
 156.225.1.13,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-07-23,2026-07-23
@@ -16414,7 +16415,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 213.136.78.240,intrusion,remote,,[vnc|remote],2026-05-06,2026-05-06
 213.136.94.66,intrusion,remote,,[rdp],2026-05-15,2026-05-15
 213.163.113.54,intrusion,connect,,[smb],2026-05-15,2026-05-15
-213.177.179.27,intrusion,connect,,[pptp],2026-05-06,2026-08-05
+213.177.179.27,intrusion,connect,,[pptp],2026-05-06,2026-08-07
 213.177.179.97,intrusion,connect,PPTP tunnel established,[pptp],2026-05-21,2026-05-21
 213.177.179.119,intrusion,remote,,[vnc|remote],2026-05-14,2026-05-14
 213.177.179.120,intrusion,remote,,[vnc|remote],2026-05-14,2026-05-14
@@ -17681,7 +17682,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 45.229.91.34,recon,credentials,SSH credential stuffing (high auth / low shell-open rate),[credential stuffing],2026-06-11,2026-06-24
 45.230.61.73,recon,specs,Probes CPU,,2026-05-06,2026-05-06
 45.252.191.33,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-05-17,2026-05-20
-46.19.138.10,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-08-05,2026-08-06
+46.19.138.10,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-08-05,2026-08-08
 46.90.14.139,recon,docker,Docker daemon recon sweep,[docker],2026-07-29,2026-07-29
 46.99.130.42,recon,specs,Probes CPU,,2026-05-06,2026-05-06
 46.105.160.250,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-06-29,2026-08-05
@@ -20114,7 +20115,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 153.75.89.150,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-07-01,2026-07-03
 153.75.90.249,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-06-14,2026-06-20
 153.75.91.117,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-07-30,2026-08-03
-153.75.91.173,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-07-31,2026-08-01
+153.75.91.173,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-07-31,2026-08-08
 153.75.91.175,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-07-30,2026-08-03
 154.5.181.66,recon,docker,Docker daemon recon sweep,[docker],2026-07-25,2026-07-25
 154.6.23.156,recon,,,[vnc],2026-05-06,2026-05-06
