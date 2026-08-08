@@ -5218,6 +5218,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 107.170.212.206,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-19,2026-07-26
 107.172.219.179,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-23,2026-05-23
 107.173.50.221,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-22,2026-05-23
+107.173.155.92,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-08,2026-08-08
 107.173.199.134,botnet node,,,[infected],2026-05-01,2026-05-01
 107.174.53.252,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-01,2026-06-02
 107.174.82.77,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-27,2026-07-08
@@ -17671,7 +17672,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 45.154.215.167,recon,,,[vnc],2026-05-06,2026-05-06
 45.155.52.138,recon,docker,Docker daemon recon sweep,[docker],2026-07-28,2026-07-28
 45.164.251.106,recon,credentials,SSH credential stuffing (high auth / low shell-open rate),[credential stuffing],2026-06-11,2026-06-23
-45.194.67.120,recon,ddos,,[amplification|ddos|dns],2026-07-01,2026-08-07
+45.194.67.120,recon,ddos,,[amplification|ddos|dns],2026-07-01,2026-08-08
 45.194.70.252,recon,voip,,[sipvicious],2026-05-15,2026-05-15
 45.194.91.149,recon,docker,Docker daemon recon sweep,[docker],2026-07-08,2026-07-08
 45.194.98.4,recon,,,[http],2026-05-29,2026-05-29
