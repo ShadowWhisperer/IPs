@@ -6285,6 +6285,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 120.48.178.72,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-14,2026-07-07
 120.48.181.192,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-10,2026-07-09
 120.52.12.202,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-25,2026-06-12
+120.52.18.19,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-08,2026-08-08
 120.52.18.75,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-10,2026-07-10
 120.52.18.116,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-13,2026-07-15
 120.52.18.252,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-12,2026-07-12
@@ -14445,7 +14446,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 119.3.55.71,intrusion,remote,,[vnc|remote],2026-05-06,2026-05-06
 119.3.228.16,intrusion,remote,,[vnc|remote],2026-05-06,2026-05-06
 119.8.100.155,intrusion,remote,,[vnc|remote],2026-05-06,2026-05-06
-119.13.189.108,intrusion,remote,VNC session established,[remote|vnc],2026-07-27,2026-08-07
+119.13.189.108,intrusion,remote,VNC session established,[remote|vnc],2026-07-27,2026-08-08
 119.23.66.6,intrusion,remote,VNC session established,[vnc|remote],2026-05-06,2026-07-25
 119.27.187.26,intrusion,remote,,[vnc|remote],2026-05-06,2026-05-06
 119.28.67.63,intrusion,remote,,[vnc|remote],2026-05-06,2026-05-06
@@ -16635,7 +16636,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 5.39.45.200,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-06-03,2026-06-03
 5.39.49.245,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-06-01,2026-06-28
 5.39.53.85,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-04-28,2026-06-26
-5.39.57.91,recon,voip,pplsip SIP bruteforce tool,[bruteforce|pplsip|sip|voip],2026-08-03,2026-08-04
+5.39.57.91,recon,voip,pplsip SIP bruteforce tool,[bruteforce|pplsip|sip|voip],2026-08-03,2026-08-08
 5.39.74.17,recon,voip,pplsip SIP bruteforce tool,[bruteforce|pplsip|sip|voip],2026-05-14,2026-06-12
 5.49.35.191,recon,docker,Docker daemon recon sweep,[docker],2026-06-23,2026-06-23
 5.49.59.230,recon,docker,Docker daemon recon sweep,[docker],2026-06-24,2026-06-24
