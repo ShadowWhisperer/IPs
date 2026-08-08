@@ -13786,7 +13786,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 91.92.33.198,intrusion,connect,PPTP tunnel established,[pptp],2026-07-15,2026-07-29
 91.92.47.9,intrusion,software,Docker daemon takeover,[docker|container|rce],2026-07-22,2026-07-22
 91.92.240.82,intrusion,remote,,[vnc|remote],2026-05-06,2026-05-06
-91.92.240.84,intrusion,connect,,[pptp],2026-05-06,2026-07-29
+91.92.240.84,intrusion,connect,,[pptp],2026-05-06,2026-08-07
 91.103.143.74,intrusion,remote,,[vnc|remote],2026-05-06,2026-05-06
 91.108.243.237,intrusion,remote,,[vnc|remote],2026-05-14,2026-05-14
 91.113.135.250,intrusion,remote,,[vnc|remote],2026-05-06,2026-05-06
@@ -19842,7 +19842,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 135.136.55.61,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-08-07,2026-08-07
 135.148.26.144,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-06-18,2026-06-24
 135.148.160.225,recon,,,[vnc],2026-05-06,2026-05-06
-135.181.4.158,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-07-19,2026-08-06
+135.181.4.158,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-07-19,2026-08-07
 136.0.27.56,recon,docker,Docker daemon recon sweep,[docker|credential-harvest],2026-07-27,2026-07-27
 136.0.120.230,recon,,,[vnc],2026-05-06,2026-05-06
 136.0.147.65,recon,docker,Docker daemon recon sweep,[docker|credential-harvest],2026-07-18,2026-07-18
