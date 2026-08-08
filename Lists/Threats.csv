@@ -2968,7 +2968,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 61.219.156.91,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-10,2026-07-21
 61.219.232.138,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-01,2026-07-10
 61.220.189.187,botnet node,,,[busybox],2026-06-03,2026-06-03
-61.220.235.10,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-20,2026-07-25
+61.220.235.10,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-20,2026-08-08
 61.222.157.15,botnet node,,,[busybox],2026-05-26,2026-05-26
 61.222.211.114,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-08,2026-06-18
 61.223.67.238,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-25,2026-07-25
@@ -16645,7 +16645,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 5.49.133.61,recon,docker,Docker Swarm secrets enumeration,[credential-harvest|docker],2026-06-28,2026-06-28
 5.61.209.44,recon,exploit,CVE-2021-36260,[hikvision|iot|rce|http],2026-07-23,2026-08-01
 5.61.209.88,recon,exploit,CVE-2021-36260,[hikvision|iot|rce],2026-05-07,2026-05-07
-5.61.209.92,recon,exploit,CVE-2021-36260,[hikvision|iot|rce|http],2026-06-13,2026-08-07
+5.61.209.92,recon,exploit,CVE-2021-36260,[hikvision|iot|rce|http],2026-06-13,2026-08-08
 5.61.209.96,recon,exploit,CVE-2021-36260,[hikvision|iot|rce],2026-03-14,2026-06-11
 5.61.209.102,recon,exploit,CVE-2021-36260,[hikvision|iot|rce],2026-05-08,2026-05-10
 5.61.209.126,recon,exploit,CVE-2021-36260,[hikvision|iot|rce|http],2026-05-22,2026-06-06
