@@ -6758,7 +6758,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 4.193.109.6,intrusion,software,Docker daemon takeover,[container|docker|rce],2026-07-24,2026-07-24
 5.83.143.40,intrusion,remote,VNC session established,[remote|vnc],2026-05-27,2026-06-23
 5.83.143.80,intrusion,remote,VNC session established,[vnc|remote],2026-05-06,2026-06-03
-8.131.74.250,intrusion,remote,VNC session established,[remote|vnc],2026-08-15,2026-09-04
+8.131.74.250,intrusion,remote,VNC session established,[remote|vnc],2026-08-15,2026-09-05
 8.134.203.138,intrusion,remote,VNC session established,[vnc|remote],2026-05-06,2026-08-16
 8.137.126.20,intrusion,remote,VNC session established,[remote|vnc],2026-07-27,2026-08-20
 8.137.167.111,intrusion,remote,VNC session established,[vnc|remote],2026-05-06,2026-06-08
@@ -7194,6 +7194,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 70.64.52.236,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce],2026-06-07,2026-06-07
 71.6.134.236,intrusion,remote,VNC session established,[remote|vnc],2026-07-04,2026-07-04
 71.28.72.249,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce],2026-08-18,2026-08-18
+71.30.205.149,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce],2026-09-05,2026-09-05
 71.230.72.124,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce],2026-07-06,2026-07-11
 72.51.56.6,intrusion,remote,VNC session established,[vnc|remote],2026-05-06,2026-06-23
 72.51.57.6,intrusion,remote,VNC session established,[remote|vnc],2026-08-29,2026-08-29
@@ -10318,6 +10319,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 104.55.84.189,recon,docker,Docker daemon recon sweep,[docker],2026-07-24,2026-07-24
 104.58.199.146,recon,docker,Docker daemon recon sweep,[docker],2026-07-15,2026-07-15
 104.129.1.194,recon,docker,Docker daemon recon sweep,[docker],2026-09-04,2026-09-04
+104.129.171.167,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-09-05,2026-09-05
 104.136.44.15,recon,docker,Docker daemon recon sweep,[docker],2026-07-24,2026-07-24
 104.140.145.148,recon,,40+ password attempts,[credential stuffing|telnet],2026-06-24,2026-06-24
 104.158.11.61,recon,docker,Docker daemon recon sweep,[docker],2026-06-26,2026-06-26
@@ -10476,6 +10478,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 117.172.226.189,recon,docker,Docker daemon recon sweep,[docker],2026-07-19,2026-07-19
 117.172.226.240,recon,docker,Docker daemon recon sweep,[docker],2026-06-03,2026-06-03
 117.175.51.134,recon,docker,Docker daemon recon sweep,[docker],2026-06-30,2026-06-30
+117.184.200.182,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-09-04,2026-09-05
 118.36.233.228,recon,docker,Docker daemon recon sweep,[docker],2026-07-07,2026-07-07
 118.248.218.109,recon,credentials,,[credential stuffing|telnet],2026-06-19,2026-06-19
 119.12.40.14,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-07-31,2026-08-07
@@ -11283,7 +11286,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 185.243.5.146,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-07-01,2026-09-05
 185.243.5.150,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-06-23,2026-07-12
 185.243.5.152,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-03-31,2026-09-04
-185.243.5.164,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-08-14,2026-09-03
+185.243.5.164,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-08-14,2026-09-05
 185.243.5.205,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-05-29,2026-07-17
 185.243.12.49,recon,docker,Docker Swarm secrets enumeration,[credential-harvest|docker],2026-06-30,2026-06-30
 185.244.149.178,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-07-07,2026-07-26
