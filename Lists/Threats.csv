@@ -2790,13 +2790,13 @@ ip,category,detail,note,tags,first_seen,last_seen
 112.158.200.53,botnet node,,,[busybox],2026-05-31,2026-05-31
 112.164.20.69,botnet node,,SSH dropper deployment (scp + chmod + exec),[dropper|rce|scp|ssh],2026-09-05,2026-09-05
 112.184.83.131,botnet node,,,[busybox],2026-06-03,2026-06-03
-112.216.108.62,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-30,2026-08-29
+112.216.108.62,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-30,2026-09-06
 112.216.120.67,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-12,2026-09-05
 112.217.188.122,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-09,2026-07-03
 112.219.151.50,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-22,2026-08-16
 112.248.244.142,botnet node,ddos,mozi,[download|infected|iot|worm],2026-08-03,2026-08-03
 113.16.199.63,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-02,2026-06-02
-113.20.0.58,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-30,2026-06-29
+113.20.0.58,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-30,2026-09-06
 113.20.4.9,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-03,2026-06-10
 113.30.177.170,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-16,2026-07-16
 113.31.103.129,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-28,2026-07-07
@@ -5779,6 +5779,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 16.5.0.130,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-08-20,2026-08-20
 16.5.0.132,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-08-21,2026-08-21
 16.5.0.133,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-08-26,2026-08-26
+16.5.0.245,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-09-06,2026-09-06
 18.97.5.31,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-07-29,2026-07-29
 18.97.5.54,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-08-17,2026-08-17
 18.117.195.208,exploit,ssrf,CVE-2024-34351 (Next.js SSRF),[nextjs|rce|software|ssrf|http|credential-harvest],2026-07-12,2026-07-12
@@ -5818,7 +5819,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 31.59.160.12,exploit,ssrf,CVE-2024-34351 (Next.js SSRF),[hikvision|iot|rce|http|nextjs|software|ssrf],2026-06-12,2026-07-09
 31.59.160.32,exploit,router,CVE-2023-1389 (TP-Link Archer Luci RCE),[iot|luci|rce|router|tplink],2026-07-08,2026-07-21
 31.76.46.226,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http],2026-06-22,2026-06-22
-31.132.90.3,exploit,rce,CVE-2017-9841 (redtail),[docker|crypto|php|rce|redtail|software|apache|traversal],2026-06-07,2026-07-26
+31.132.90.3,exploit,rce,CVE-2017-9841 (redtail),[docker|crypto|php|rce|redtail|software|apache|traversal],2026-06-07,2026-09-06
 31.220.96.108,exploit,rce,CVE-2025-57819 (FreePBX),[freepbx|rce|sql],2026-06-02,2026-06-02
 34.14.5.244,exploit,rce,CVE-2017-0144,[eternalblue|rce|smb|windows],2026-07-31,2026-07-31
 34.14.17.197,exploit,rce,CVE-2017-0144,[eternalblue|rce|smb|windows],2026-07-24,2026-07-24
@@ -6533,6 +6534,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 185.233.247.245,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|freepbx|sql],2026-08-17,2026-09-06
 185.242.3.191,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail],2026-07-27,2026-07-27
 185.242.3.233,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail],2026-07-31,2026-07-31
+185.255.126.82,exploit,rce,CVE-2015-8103,[java|jenkins|rce|software],2026-09-06,2026-09-06
 186.246.47.50,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http],2026-07-08,2026-07-08
 188.40.47.81,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http|infected],2026-09-05,2026-09-05
 188.166.74.87,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-08-26,2026-08-26
@@ -7949,7 +7951,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 187.14.82.65,intrusion,remote,VNC session established,[remote|vnc],2026-08-22,2026-08-22
 187.14.82.66,intrusion,remote,VNC session established,[remote|vnc|docker|rce],2026-08-11,2026-08-31
 187.14.82.67,intrusion,software,Docker daemon takeover,[container|docker|rce],2026-08-11,2026-08-11
-187.14.82.68,intrusion,remote,VNC session established,[remote|vnc],2026-08-22,2026-08-22
+187.14.82.68,intrusion,remote,VNC session established,[remote|vnc|docker|rce],2026-08-22,2026-09-06
 187.14.82.69,intrusion,remote,VNC session established,[remote|vnc],2026-08-01,2026-09-01
 187.14.82.70,intrusion,software,Docker daemon takeover,[docker|rce|container],2026-08-05,2026-08-05
 187.14.82.71,intrusion,software,Docker daemon takeover,[container|docker|rce],2026-07-31,2026-08-15
@@ -10744,7 +10746,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 160.119.76.85,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-06-20,2026-07-18
 160.119.76.86,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-06-20,2026-06-30
 160.119.76.106,recon,http,HTTP-only sweep (58 requests),[http],2026-07-04,2026-07-11
-160.119.76.118,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-08-06,2026-09-01
+160.119.76.118,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-08-06,2026-09-06
 160.119.76.119,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-08-14,2026-08-29
 160.119.76.188,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-08-30,2026-08-31
 160.153.175.87,recon,,20+ password attempts,[credential stuffing|telnet],2026-06-04,2026-06-04
@@ -10758,6 +10760,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 161.35.216.178,recon,software,Apache Solr enumeration,[http|java|solr],2026-06-22,2026-06-22
 161.97.104.25,recon,,,[http],2026-05-29,2026-05-29
 161.118.205.28,recon,software,Spring Boot Actuator sweep,[actuator|http|java|spring|credential-harvest],2026-09-05,2026-09-05
+161.118.247.140,recon,ddos,,[amplification|ddos|dns],2026-08-31,2026-09-06
 161.132.47.68,recon,docker,Docker daemon recon sweep,[docker],2026-07-10,2026-07-10
 161.153.121.253,recon,http,HTTP-only sweep (124 requests),[http|credential-harvest],2026-06-25,2026-06-26
 161.184.148.185,recon,docker,Docker daemon recon sweep,[docker],2026-07-25,2026-07-25
@@ -11518,7 +11521,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 217.142.20.128,recon,docker,Docker Swarm secrets enumeration,[credential-harvest|docker],2026-07-28,2026-07-28
 217.148.141.29,recon,docker,Docker daemon recon sweep,[docker],2026-07-15,2026-07-15
 217.154.146.41,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-05-30,2026-07-06
-217.154.152.20,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-08-01,2026-09-03
+217.154.152.20,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-08-01,2026-09-06
 217.154.152.137,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-05-31,2026-07-13
 217.154.196.154,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-05-28,2026-07-03
 217.154.196.156,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-05-28,2026-07-02
