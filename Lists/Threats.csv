@@ -1174,6 +1174,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 47.80.62.205,botnet node,,,[infected],2026-07-19,2026-07-19
 47.80.240.38,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-29,2026-06-29
 47.81.32.84,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-11,2026-08-14
+47.81.57.253,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-06,2026-09-06
 47.82.67.36,botnet node,,,[infected],2026-06-06,2026-06-06
 47.82.73.133,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-29,2026-05-29
 47.82.82.6,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-13,2026-06-13
@@ -2138,7 +2139,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 101.96.233.202,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-07,2026-06-09
 101.100.194.181,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-14,2026-08-19
 101.109.183.215,botnet node,,,[busybox],2026-06-01,2026-06-01
-101.126.11.137,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-26,2026-08-07
+101.126.11.137,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-26,2026-09-06
 101.126.14.37,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-07,2026-06-15
 101.126.17.55,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-13,2026-06-26
 101.126.17.72,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-29,2026-06-30
@@ -3424,6 +3425,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 125.76.228.194,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-10,2026-07-06
 125.88.225.11,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-11,2026-08-10
 125.91.33.72,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-10,2026-08-21
+125.91.35.169,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-06,2026-09-06
 125.113.67.197,botnet node,,,[busybox],2026-05-29,2026-05-29
 125.114.203.176,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-12,2026-06-12
 125.120.80.113,botnet node,,,[busybox],2026-06-03,2026-06-03
@@ -4500,7 +4502,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 180.93.32.181,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-25,2026-06-17
 180.93.43.146,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-05,2026-07-05
 180.93.43.225,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-20,2026-06-13
-180.93.172.213,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-26,2026-09-01
+180.93.172.213,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-26,2026-09-06
 180.100.217.164,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-14,2026-08-31
 180.103.119.98,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-11,2026-08-23
 180.106.80.16,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-13,2026-09-05
@@ -7186,6 +7188,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 89.124.72.216,intrusion,connect,PPTP tunnel established,[pptp],2026-07-27,2026-08-16
 89.218.25.130,intrusion,remote,VNC session established,[remote|vnc],2026-09-01,2026-09-01
 89.222.98.114,intrusion,remote,VNC session established,[remote|vnc],2026-07-03,2026-07-03
+89.222.103.101,intrusion,remote,VNC session established,[remote|vnc],2026-09-06,2026-09-06
 89.238.185.19,intrusion,remote,VNC session established,[remote|vnc],2026-06-28,2026-06-28
 89.252.184.43,intrusion,remote,VNC session established,[remote|vnc],2026-07-17,2026-07-17
 89.252.184.157,intrusion,remote,VNC session established,[remote|vnc],2026-06-17,2026-06-17
@@ -8513,6 +8516,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 38.62.135.95,recon,docker,Docker daemon recon sweep,[docker],2026-08-03,2026-08-03
 38.62.143.222,recon,docker,Docker daemon recon sweep,[docker],2026-07-25,2026-07-25
 38.64.19.86,recon,docker,Docker daemon recon sweep,[docker],2026-07-15,2026-07-15
+38.64.62.59,recon,docker,Docker daemon recon sweep,[docker],2026-09-06,2026-09-06
 38.64.221.21,recon,docker,Docker Swarm secrets enumeration,[credential-harvest|docker],2026-07-21,2026-07-25
 38.70.242.139,recon,docker,Docker daemon recon sweep,[docker],2026-07-15,2026-07-15
 38.76.182.117,recon,docker,Docker daemon recon sweep,[docker],2026-06-27,2026-06-27
@@ -9617,6 +9621,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 87.98.177.56,recon,voip,pplsip SIP bruteforce tool,[bruteforce|pplsip|sip|voip],2026-07-07,2026-07-07
 87.106.48.189,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-09-06,2026-09-06
 87.106.78.3,recon,voip,"SIP-only, high connect volume",[sip|voip|bruteforce|pplsip],2026-05-06,2026-06-29
+87.106.88.170,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-09-06,2026-09-06
 87.106.90.250,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-05-28,2026-06-30
 87.106.98.147,recon,voip,"SIP-only, high connect volume",[sip|voip|bruteforce|pplsip],2026-05-05,2026-06-14
 87.106.105.132,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-05-30,2026-06-30
@@ -10807,7 +10812,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 169.58.170.93,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-08-17,2026-08-17
 169.58.170.94,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-08-17,2026-08-17
 169.58.170.95,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-08-17,2026-08-17
-169.58.170.96,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-08-14,2026-08-17
+169.58.170.96,recon,voip,"SIP-only, high connect volume",[sip|voip|tftp],2026-08-14,2026-09-06
 169.58.172.195,recon,docker,Docker daemon recon sweep,[docker],2026-08-16,2026-08-16
 169.58.203.42,recon,docker,Docker daemon recon sweep,[docker],2026-09-05,2026-09-05
 169.133.247.22,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-07-31,2026-07-31
