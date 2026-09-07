@@ -561,7 +561,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 31.56.209.229,botnet node,,,[busybox],2026-06-03,2026-06-03
 31.57.27.21,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-28,2026-08-30
 31.57.63.117,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-03,2026-06-03
-31.58.78.194,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-30,2026-08-30
+31.58.78.194,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-30,2026-09-06
 31.58.87.216,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-26,2026-06-25
 31.59.40.94,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-10,2026-06-18
 31.59.89.180,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-09,2026-08-01
@@ -587,7 +587,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 34.18.141.120,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-24,2026-07-24
 34.34.223.108,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-28,2026-06-28
 34.40.145.110,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-16,2026-08-22
-34.58.124.191,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-06,2026-08-23
+34.58.124.191,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-06,2026-09-06
 34.63.42.56,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-27,2026-08-27
 34.71.30.159,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-15,2026-08-04
 34.73.9.119,botnet node,,75+ password attempts,[credential stuffing|telnet|busybox],2026-06-10,2026-06-10
@@ -1459,7 +1459,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 59.179.31.237,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-26,2026-09-01
 60.19.240.82,botnet node,,,[busybox],2026-06-03,2026-06-03
 60.53.155.135,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-04,2026-07-04
-60.167.165.58,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-11,2026-06-30
+60.167.165.58,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-11,2026-09-06
 60.167.166.161,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-08,2026-06-05
 60.174.72.198,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-28,2026-08-14
 60.174.205.133,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-27,2026-07-05
@@ -3305,7 +3305,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 121.227.152.250,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-17,2026-08-27
 121.229.9.97,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-07,2026-08-10
 121.229.9.110,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-22,2026-06-15
-121.229.13.210,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-17,2026-07-31
+121.229.13.210,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-17,2026-09-06
 121.229.25.10,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-09,2026-06-27
 121.229.98.120,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-27,2026-06-27
 121.229.191.90,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-14,2026-06-14
@@ -3428,6 +3428,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 125.88.225.11,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-11,2026-08-10
 125.91.33.72,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-10,2026-08-21
 125.91.35.169,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-06,2026-09-06
+125.94.109.237,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-06,2026-09-06
 125.113.67.197,botnet node,,,[busybox],2026-05-29,2026-05-29
 125.114.203.176,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-12,2026-06-12
 125.120.80.113,botnet node,,,[busybox],2026-06-03,2026-06-03
@@ -3818,7 +3819,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 152.53.185.81,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-16,2026-08-24
 152.67.46.203,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-25,2026-06-11
 152.70.18.38,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-25,2026-06-03
-152.89.12.101,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-13,2026-08-28
+152.89.12.101,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-13,2026-09-06
 152.169.154.26,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-01,2026-06-01
 152.172.100.254,botnet node,,,[busybox],2026-05-29,2026-05-29
 152.200.181.42,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-14,2026-07-12
@@ -8411,6 +8412,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 31.151.44.4,recon,docker,Docker daemon recon sweep,[docker],2026-07-21,2026-07-21
 32.216.152.104,recon,docker,Docker daemon recon sweep,[docker],2026-07-25,2026-07-25
 34.12.226.254,recon,http,HTTP-only sweep (360 requests),[http|credential-harvest],2026-08-23,2026-08-23
+34.13.209.163,recon,http,HTTP-only sweep (240 requests),[http|credential-harvest],2026-09-06,2026-09-06
 34.14.190.15,recon,http,HTTP-only sweep (29 requests),[http|credential-harvest],2026-06-14,2026-06-14
 34.17.128.76,recon,http,HTTP-only sweep (49 requests),[http|credential-harvest],2026-05-29,2026-05-29
 34.24.73.38,recon,,,[http],2026-06-04,2026-06-04
@@ -11277,6 +11279,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 192.241.250.102,recon,software,Spring Boot Actuator sweep,[actuator|http|java|spring|credential-harvest],2026-07-30,2026-07-30
 192.249.137.86,recon,docker,Docker daemon recon sweep,[docker],2026-06-26,2026-06-26
 192.253.248.169,recon,,,[http|credential-harvest],2026-04-07,2026-06-09
+192.255.228.141,recon,voip,pplsip SIP bruteforce tool,[bruteforce|pplsip|sip|voip],2026-09-06,2026-09-06
 193.24.211.204,recon,credentials,SSH credential stuffing (high auth / low shell-open rate),[credential stuffing],2026-08-02,2026-08-20
 193.29.107.38,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-07-19,2026-07-19
 193.29.107.147,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-07-20,2026-07-20
