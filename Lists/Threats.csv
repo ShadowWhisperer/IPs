@@ -1030,7 +1030,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 45.78.206.111,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-08,2026-06-07
 45.78.207.244,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-14,2026-06-02
 45.78.235.96,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-30,2026-06-14
-45.78.235.121,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-24,2026-09-04
+45.78.235.121,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-24,2026-09-06
 45.81.243.62,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-23,2026-06-23
 45.82.138.201,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-28,2026-06-28
 45.84.88.32,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-05,2026-06-05
@@ -4064,10 +4064,10 @@ ip,category,detail,note,tags,first_seen,last_seen
 163.7.6.74,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-26,2026-07-25
 163.7.6.114,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-17,2026-08-29
 163.7.8.79,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-25,2026-06-28
-163.7.9.55,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-07,2026-08-27
+163.7.9.55,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-07,2026-09-06
 163.7.9.84,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-14,2026-05-30
 163.7.11.126,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-15,2026-08-07
-163.7.11.155,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-03,2026-06-29
+163.7.11.155,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-03,2026-09-06
 163.7.12.183,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-08,2026-07-21
 163.44.101.215,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-22,2026-07-15
 163.44.193.24,botnet node,,,[infected],2026-07-07,2026-07-24
@@ -5720,7 +5720,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 209.92.170.225,dropper host,,,[busybox],2026-05-30,2026-05-30
 210.208.106.68,dropper host,,,[busybox],2026-08-28,2026-08-28
 212.83.160.70,dropper host,,,,2026-09-02,2026-09-06
-213.232.114.14,dropper host,,,[busybox],2026-08-25,2026-09-04
+213.232.114.14,dropper host,,,[busybox],2026-08-25,2026-09-06
 216.146.25.110,dropper host,,,[busybox],2026-07-22,2026-07-22
 217.60.195.113,dropper host,,,,2026-06-09,2026-09-06
 1.20.172.57,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http],2026-07-07,2026-07-07
@@ -6266,6 +6266,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 103.118.29.32,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http],2026-09-04,2026-09-04
 103.141.5.140,exploit,router,CVE-2016-6277,[iot|mozi|netgear|router|rce],2026-07-12,2026-07-12
 103.167.88.166,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http],2026-07-21,2026-07-21
+103.182.45.75,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http],2026-09-06,2026-09-06
 103.195.236.35,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|apache|software|traversal],2026-05-29,2026-05-29
 103.213.112.99,exploit,router,CVE-2018-10561,[gpon|iot|mozi|router|rce],2026-07-04,2026-07-04
 103.218.241.245,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-06-04,2026-06-04
