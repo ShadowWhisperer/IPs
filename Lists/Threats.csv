@@ -926,7 +926,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 45.117.168.226,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-01,2026-06-08
 45.117.177.47,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-14,2026-06-26
 45.117.179.232,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-29,2026-07-03
-45.119.81.245,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-22,2026-07-25
+45.119.81.245,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-22,2026-09-12
 45.119.84.196,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-22,2026-06-05
 45.119.212.99,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-31,2026-06-29
 45.120.115.150,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-25,2026-07-09
@@ -3395,7 +3395,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 152.32.163.183,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-10,2026-09-08
 152.32.171.99,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-10,2026-06-13
 152.32.171.184,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-30,2026-07-09
-152.32.171.213,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-19,2026-08-25
+152.32.171.213,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-19,2026-09-12
 152.32.172.177,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-18,2026-08-08
 152.32.182.8,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-27,2026-09-10
 152.32.182.41,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-30,2026-09-10
@@ -5893,6 +5893,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 176.65.139.158,exploit,router,CVE-2023-1389 (TP-Link Archer Luci RCE),[iot|luci|rce|router|tplink],2026-06-24,2026-06-24
 176.65.139.206,exploit,router,CVE-2023-1389 (TP-Link Archer Luci RCE),[iot|luci|rce|router|tplink],2026-08-31,2026-08-31
 176.112.128.143,exploit,rce,CVE-2017-9841 (redtail),[infected|crypto|php|rce|redtail|software|apache|traversal],2026-06-08,2026-06-26
+176.125.242.75,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-09-12,2026-09-12
 177.22.44.30,exploit,router,CVE-2025-34037,[router|http|telnet|linksys|cve|iot],2026-08-19,2026-08-19
 178.16.53.180,exploit,router,CVE-2024-23108 (SonicWall SSL-VPN RCE),[cve|router|sonicwall|vpn],2026-06-19,2026-06-21
 178.62.194.240,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-08-26,2026-08-26
@@ -7634,6 +7635,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 8.221.121.6,recon,docker,Docker daemon recon sweep,[docker],2026-06-28,2026-06-28
 8.228.11.18,recon,software,Spring Boot Actuator sweep,[actuator|http|java|spring|credential-harvest],2026-06-14,2026-06-14
 8.229.27.68,recon,http,HTTP-only sweep (78 requests),[http|credential-harvest|actuator|java|spring],2026-09-12,2026-09-12
+8.235.72.41,recon,http,HTTP-only sweep (120 requests),[http|credential-harvest],2026-09-12,2026-09-12
 9.245.24.215,recon,docker,Docker Swarm secrets enumeration,[credential-harvest|docker],2026-07-27,2026-07-27
 9.246.41.98,recon,docker,Docker daemon recon sweep,[docker],2026-09-10,2026-09-10
 9.246.41.119,recon,docker,Docker daemon recon sweep,[docker],2026-09-09,2026-09-09
