@@ -2492,7 +2492,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 112.216.108.62,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-30,2026-09-06
 112.216.120.67,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-12,2026-09-05
 112.217.188.122,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-09,2026-07-03
-112.219.151.50,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-22,2026-08-16
+112.219.151.50,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-22,2026-09-12
 112.220.250.20,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-07,2026-09-07
 112.248.244.142,botnet node,ddos,mozi,[download|infected|iot|worm],2026-08-03,2026-08-03
 113.20.0.58,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-30,2026-09-06
@@ -3246,6 +3246,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 139.198.29.172,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-23,2026-07-06
 139.198.113.29,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-09,2026-07-27
 139.199.57.228,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-14,2026-07-14
+139.255.48.54,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-12,2026-09-12
 139.255.254.163,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-25,2026-08-24
 140.83.33.115,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-14,2026-06-14
 140.246.137.102,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-13,2026-08-06
@@ -6771,6 +6772,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 118.178.229.234,intrusion,remote,VNC session established,[vnc|remote],2026-05-06,2026-06-08
 118.193.73.8,intrusion,remote,VNC session established,[remote|vnc],2026-07-27,2026-07-27
 118.196.36.59,intrusion,remote,VNC session established,[remote|vnc],2026-07-31,2026-09-08
+119.13.188.249,intrusion,remote,VNC session established,[remote|vnc],2026-09-12,2026-09-12
 119.13.189.108,intrusion,remote,VNC session established,[remote|vnc],2026-07-27,2026-09-12
 119.23.66.6,intrusion,remote,VNC session established,[vnc|remote],2026-05-06,2026-07-25
 119.28.238.164,intrusion,remote,VNC session established,[remote|vnc],2026-08-04,2026-09-08
