@@ -1366,6 +1366,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 45.126.84.83,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-06-16,2026-06-16
 45.127.73.6,botnet node,,,[infected],2026-09-14,2026-09-14
 45.129.9.251,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-06-16,2026-06-16
+45.129.56.140,botnet node,,,[cron|download|dropper|persistence|rce|worm],2026-09-15,2026-09-15
 45.129.56.222,botnet node,,,[cron|download|dropper|persistence|rce|worm],2026-09-15,2026-09-15
 45.129.185.4,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-14,2026-06-15
 45.129.242.233,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-01,2026-06-30
@@ -1765,7 +1766,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 52.224.109.126,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-22,2026-09-06
 52.233.193.61,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-10,2026-08-07
 52.237.80.79,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-12,2026-08-20
-54.36.99.29,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-13,2026-09-12
+54.36.99.29,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-13,2026-09-15
 54.37.10.124,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-29,2026-07-29
 54.37.74.179,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-27,2026-06-22
 54.37.235.85,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-25,2026-09-13
@@ -4644,8 +4645,9 @@ ip,category,detail,note,tags,first_seen,last_seen
 123.201.91.128,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-06-16,2026-07-16
 123.207.200.188,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-28,2026-07-28
 123.209.64.50,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-06-08,2026-06-08
+123.244.62.87,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-15,2026-09-15
 123.247.7.25,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-06-16,2026-06-16
-123.253.162.254,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-21,2026-09-13
+123.253.162.254,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-21,2026-09-15
 124.6.178.98,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-25,2026-06-25
 124.18.182.99,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-19,2026-09-03
 124.29.193.114,botnet node,mikrotik,MikroTik RouterOS cloud DDNS enabled (persistence),[ddns|mikrotik|persistence|router],2026-06-14,2026-06-14
@@ -7827,6 +7829,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 85.209.9.194,dropper host,,,,2026-09-13,2026-09-13
 89.208.84.1,dropper host,,,,2026-08-23,2026-08-23
 91.92.40.142,dropper host,,,,2026-06-23,2026-06-23
+91.92.42.84,dropper host,,,[busybox],2026-09-15,2026-09-15
 91.199.133.133,dropper host,,,[busybox],2026-07-28,2026-07-30
 93.152.221.22,dropper host,,,,2026-09-10,2026-09-10
 94.75.223.245,dropper host,,,[docker],2026-08-18,2026-08-18
@@ -10567,6 +10570,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 31.57.62.245,recon,docker,Docker daemon recon sweep,[docker],2026-09-07,2026-09-07
 31.58.214.24,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-08-29,2026-08-29
 31.70.66.9,recon,voip,"SIP-only, high connect volume",[sip|voip|bruteforce|pplsip],2026-05-06,2026-07-10
+31.70.73.121,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-09-15,2026-09-15
 31.70.75.104,recon,voip,"SIP-only, high connect volume",[sip|voip|bruteforce|pplsip],2026-05-08,2026-06-26
 31.70.75.109,recon,voip,"SIP-only, high connect volume",[sip|voip|bruteforce|pplsip],2026-05-08,2026-07-17
 31.70.75.115,recon,voip,"SIP-only, high connect volume",[sip|voip|bruteforce|pplsip],2026-05-08,2026-06-08
@@ -12276,6 +12280,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 87.106.149.37,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-05-31,2026-09-09
 87.106.189.67,recon,voip,"SIP-only, high connect volume",[sip|voip|bruteforce|pplsip],2026-05-06,2026-06-14
 87.106.201.232,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-09-04,2026-09-11
+87.106.206.31,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-09-15,2026-09-15
 87.106.206.249,recon,voip,"SIP-only, high connect volume",[sip|voip|bruteforce|pplsip],2026-05-06,2026-06-14
 87.106.215.167,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-05-02,2026-07-10
 87.106.223.228,recon,voip,"SIP-only, high connect volume",[sip|voip|bruteforce|pplsip],2026-05-06,2026-06-14
