@@ -5642,6 +5642,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 45.79.207.129,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce],2026-05-21,2026-08-01
 45.79.207.252,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce],2026-05-21,2026-09-09
 45.79.211.97,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce],2026-05-21,2026-09-01
+45.82.78.100,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-05-21,2026-09-15
 45.82.78.102,exploit,rce,CVE-2017-0144,[multi-port|eternalblue|rce|smb|windows],2026-05-21,2026-06-15
 45.82.78.103,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|eternalblue|smb|windows],2026-05-21,2026-07-08
 45.82.78.105,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|ics|modbus|write],2026-05-21,2026-06-07
@@ -6896,7 +6897,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 118.193.73.8,intrusion,remote,VNC session established,[remote|vnc],2026-07-27,2026-07-27
 118.196.36.59,intrusion,remote,VNC session established,[remote|vnc],2026-07-31,2026-09-08
 119.13.188.249,intrusion,remote,VNC session established,[remote|vnc],2026-09-12,2026-09-12
-119.13.189.108,intrusion,remote,VNC session established,[remote|vnc],2026-07-27,2026-09-14
+119.13.189.108,intrusion,remote,VNC session established,[remote|vnc],2026-07-27,2026-09-15
 119.23.66.6,intrusion,remote,VNC session established,[vnc|remote],2026-05-06,2026-07-25
 119.28.238.164,intrusion,remote,VNC session established,[remote|vnc],2026-08-04,2026-09-08
 119.29.154.86,intrusion,remote,VNC session established,[remote|vnc],2026-07-31,2026-09-08
@@ -8417,7 +8418,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 51.161.137.195,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-04-10,2026-06-19
 51.161.140.170,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-07-04,2026-08-10
 51.178.54.166,recon,docker,Docker daemon recon sweep,[docker],2026-06-23,2026-06-23
-51.178.122.178,recon,voip,pplsip SIP bruteforce tool,[bruteforce|pplsip|sip|voip],2026-06-07,2026-09-14
+51.178.122.178,recon,voip,pplsip SIP bruteforce tool,[bruteforce|pplsip|sip|voip],2026-06-07,2026-09-15
 51.178.198.251,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-06-01,2026-06-15
 51.178.242.28,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-07-19,2026-07-24
 51.190.99.185,recon,docker,Docker daemon recon sweep,[docker],2026-07-30,2026-07-30
@@ -10363,6 +10364,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 94.154.43.203,recon,http,HTTP-only sweep (20 requests),[http],2026-09-06,2026-09-08
 94.154.43.224,recon,ddos,,[amplification|ddos|dns],2026-07-02,2026-07-10
 94.154.46.243,recon,http,HTTP-only sweep (70 requests),[http|credential-harvest],2026-09-13,2026-09-13
+94.154.46.246,recon,http,HTTP-only sweep (90 requests),[http|credential-harvest],2026-09-15,2026-09-15
 94.154.138.7,recon,docker,Docker daemon recon sweep,[docker],2026-07-20,2026-07-20
 94.156.152.234,recon,http,HTTP-only sweep (20 requests),[http],2026-05-08,2026-07-01
 94.173.235.241,recon,docker,Docker daemon recon sweep,[docker],2026-07-25,2026-07-25
@@ -11960,7 +11962,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 195.178.110.227,recon,cryptominer,Probes CPU + GPU,[crypto],2026-06-24,2026-06-26
 195.178.110.228,recon,cryptominer,Probes CPU + GPU,[crypto],2026-06-25,2026-06-26
 195.178.110.247,recon,http,HTTP-only sweep (244 requests),[http],2026-08-04,2026-08-19
-195.182.16.23,recon,exploit,CVE-2021-36260,[hikvision|iot|rce|http],2026-07-18,2026-09-14
+195.182.16.23,recon,exploit,CVE-2021-36260,[hikvision|iot|rce|http],2026-07-18,2026-09-15
 195.184.232.200,recon,docker,Docker daemon recon sweep,[docker|credential-harvest|image-enum],2026-08-18,2026-08-18
 195.213.138.18,recon,docker,Docker daemon recon sweep,[docker],2026-08-16,2026-08-16
 195.213.253.232,recon,docker,Docker daemon recon sweep,[docker],2026-08-02,2026-08-02
