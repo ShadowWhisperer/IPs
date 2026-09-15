@@ -89,7 +89,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 5.250.176.125,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-14,2026-09-14
 5.252.226.244,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-31,2026-08-02
 5.253.38.54,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-04,2026-09-04
-5.253.38.188,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-14,2026-09-12
+5.253.38.188,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-14,2026-09-15
 5.253.59.68,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-25,2026-07-03
 5.255.124.21,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-21,2026-07-21
 8.130.102.89,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-26,2026-08-26
@@ -2437,7 +2437,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 107.211.37.253,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-10,2026-09-10
 108.167.176.145,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-07,2026-06-07
 108.167.177.224,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-18,2026-06-29
-108.174.147.36,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-05,2026-09-05
+108.174.147.36,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-05,2026-09-15
 108.174.156.122,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-23,2026-09-12
 108.175.5.23,botnet node,,,[infected],2026-08-26,2026-08-27
 109.50.185.153,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-07,2026-07-06
@@ -2731,7 +2731,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 115.190.181.18,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-05,2026-08-05
 115.190.185.14,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-03,2026-07-08
 115.190.188.197,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-11,2026-07-07
-115.190.192.112,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-23,2026-06-26
+115.190.192.112,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-23,2026-09-15
 115.190.192.114,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-30,2026-08-26
 115.190.197.74,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-18,2026-07-16
 115.190.197.138,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-31,2026-09-06
@@ -5657,7 +5657,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 45.142.154.113,exploit,router,CVE-2018-14847,[smb|cve|mikrotik|router|rce],2026-04-15,2026-06-20
 45.142.154.114,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-06-27,2026-06-27
 45.142.193.149,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-06-11,2026-06-11
-45.148.9.14,exploit,router,CVE-2018-14847,[sip|voip|cve|mikrotik|router|rce],2026-08-22,2026-09-12
+45.148.9.14,exploit,router,CVE-2018-14847,[sip|voip|cve|mikrotik|router|rce],2026-08-22,2026-09-15
 45.153.34.231,exploit,router,CVE-2020-25506,[http|dlink|iot|mozi|router|rce],2026-07-09,2026-07-09
 45.154.155.23,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-07-09,2026-07-09
 45.194.67.41,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-08-25,2026-08-25
@@ -7477,7 +7477,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 187.14.82.69,intrusion,remote,VNC session established,[remote|vnc],2026-08-01,2026-09-01
 187.14.82.70,intrusion,software,Docker daemon takeover,[docker|rce|container],2026-08-05,2026-08-05
 187.14.82.71,intrusion,software,Docker daemon takeover,[container|docker|rce],2026-07-31,2026-08-15
-187.14.82.105,intrusion,software,Docker daemon takeover,[docker|rce],2026-08-11,2026-09-08
+187.14.82.105,intrusion,software,Docker daemon takeover,[docker|rce|container],2026-08-11,2026-09-15
 187.158.16.104,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce],2026-08-09,2026-08-09
 187.174.162.164,intrusion,remote,VNC session established,[remote|vnc],2026-08-31,2026-08-31
 188.63.56.231,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce],2026-07-12,2026-07-12
@@ -11076,7 +11076,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 147.194.199.231,recon,docker,Docker daemon recon sweep,[docker],2026-06-26,2026-06-26
 147.194.233.38,recon,docker,Docker Swarm secrets enumeration,[credential-harvest|docker],2026-07-29,2026-07-29
 147.253.38.89,recon,docker,Docker daemon recon sweep,[docker],2026-06-24,2026-06-24
-148.66.153.237,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-09-09,2026-09-14
+148.66.153.237,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-09-09,2026-09-15
 148.72.211.148,recon,docker,Docker daemon recon sweep,[docker],2026-06-10,2026-06-10
 148.113.24.217,recon,docker,Docker daemon recon sweep,[docker],2026-06-10,2026-06-10
 148.113.228.77,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-07-18,2026-08-05
