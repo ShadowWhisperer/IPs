@@ -3989,6 +3989,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 103.173.99.226,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-17,2026-07-17
 103.173.154.45,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-28,2026-07-12
 103.174.129.24,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-09-28,2026-09-28
+103.175.225.238,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-12,2026-10-02
 103.176.20.115,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-08,2026-09-14
 103.176.24.57,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-25,2026-06-27
 103.176.64.36,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-27,2026-09-19
@@ -6002,7 +6003,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 154.51.40.141,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-16,2026-09-16
 154.57.216.142,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-04,2026-09-26
 154.68.18.72,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-08-04,2026-08-04
-154.70.102.114,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-16,2026-09-30
+154.70.102.114,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-16,2026-10-02
 154.83.14.204,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-22,2026-09-24
 154.83.15.101,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-21,2026-09-23
 154.83.16.14,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-03,2026-09-25
@@ -8337,6 +8338,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 212.83.160.70,dropper host,,,,2026-09-02,2026-09-06
 213.232.114.14,dropper host,,handshakebins.sh,[busybox],2026-08-25,2026-10-02
 216.146.25.110,dropper host,,,[busybox],2026-07-22,2026-07-22
+217.60.102.5,dropper host,,,,2026-10-02,2026-10-02
 217.60.103.56,dropper host,,,,2026-09-11,2026-10-02
 217.60.195.113,dropper host,,,,2026-06-09,2026-09-11
 1.20.172.57,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http],2026-07-07,2026-07-07
@@ -10945,7 +10947,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 192.241.141.178,intrusion,remote,VNC session established,[remote|vnc],2026-06-27,2026-08-09
 192.241.145.174,intrusion,software,Docker daemon takeover,[container|docker|rce|alpine],2026-07-13,2026-07-13
 192.253.248.180,intrusion,remote,VNC session established,[multi-port|vnc|remote],2026-05-21,2026-07-17
-192.253.248.251,intrusion,remote,VNC session established,[vnc|remote],2026-08-11,2026-09-08
+192.253.248.251,intrusion,remote,VNC session established,[vnc|remote],2026-08-11,2026-10-02
 193.8.186.29,intrusion,remote,VNC session established,[multi-port|vnc|remote],2026-05-21,2026-08-21
 193.29.13.164,intrusion,remote,VNC session established,[vnc|remote],2026-05-06,2026-09-22
 193.29.13.167,intrusion,remote,VNC session established,[vnc|remote],2026-05-06,2026-08-29
@@ -13284,7 +13286,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 80.94.95.66,recon,vpn,Fortinet SSL-VPN login page recon,[fortinet|recon|vpn],2026-06-28,2026-06-28
 80.94.95.88,recon,rdp,Microsoft RDS web client probe,[rds|rdweb|windows],2026-08-01,2026-08-01
 80.94.95.112,recon,vpn,Fortinet SSL-VPN login page recon,[fortinet|recon|vpn],2026-06-28,2026-06-28
-80.94.95.146,recon,rdp,Microsoft RDS web client probe,[rds|rdweb|windows],2026-09-23,2026-09-23
+80.94.95.146,recon,rdp,Microsoft RDS web client probe,[rds|rdweb|windows|cisco|vpn|fortinet|globalprotect|paloalto],2026-09-23,2026-09-23
 80.94.95.217,recon,http,HTTP-only sweep (20 requests),[http],2026-07-06,2026-07-22
 80.94.95.226,recon,http,HTTP-only sweep (20 requests),[http],2026-06-10,2026-10-02
 80.114.5.187,recon,docker,Docker image enumeration sweep,[docker|image-enum],2026-07-20,2026-07-20
@@ -13334,7 +13336,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 81.19.216.117,recon,ics,Modbus device identification,[ics|modbus],2026-09-12,2026-09-12
 81.19.216.118,recon,dns,DNS server version fingerprint (CHAOS TXT query),[dns|fingerprint],2026-09-18,2026-09-18
 81.19.216.119,recon,router,Zyxel gateway info disclosure probe,[router|zyxel],2026-09-15,2026-09-15
-81.19.216.122,recon,ics,Modbus device identification,[ics|modbus],2026-07-05,2026-07-05
+81.19.216.122,recon,ics,Modbus device identification,[ics|modbus],2026-07-05,2026-10-02
 81.22.193.161,recon,sip,SIP VoIP toll-fraud scanner,[friendly-scanner|sip|sipvicious|voip],2026-10-01,2026-10-01
 81.31.194.72,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-08-30,2026-09-09
 81.51.99.172,recon,docker,Docker daemon recon sweep,[docker],2026-06-24,2026-06-24
