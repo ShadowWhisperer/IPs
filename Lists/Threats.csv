@@ -1301,7 +1301,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 4.211.84.189,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-05,2026-09-19
 4.221.162.168,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-01,2026-09-25
 4.221.186.70,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-08,2026-09-27
-4.224.40.94,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-25,2026-08-30
+4.224.40.94,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-25,2026-10-02
 4.224.59.75,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-05,2026-09-27
 4.224.61.94,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-02,2026-08-27
 4.227.177.11,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-03,2026-09-25
@@ -2503,7 +2503,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 46.172.142.157,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-08-05,2026-08-05
 46.174.127.229,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-08-06,2026-08-06
 46.186.50.120,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-08-24,2026-08-24
-46.188.119.26,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-10,2026-10-01
+46.188.119.26,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-10,2026-10-02
 46.191.141.152,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-08,2026-09-23
 46.200.36.98,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-08-09,2026-08-09
 46.200.107.69,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-08-08,2026-08-08
@@ -2550,6 +2550,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 47.80.63.229,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-06-04,2026-08-25
 47.80.68.74,botnet node,,,[infected],2026-09-11,2026-09-16
 47.80.240.38,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-29,2026-06-29
+47.81.29.100,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-02,2026-10-02
 47.81.32.84,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-11,2026-08-14
 47.81.57.253,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-06,2026-09-06
 47.82.64.129,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-17,2026-09-17
@@ -2611,6 +2612,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 47.243.146.14,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-28,2026-09-28
 47.243.167.193,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-17,2026-09-17
 47.243.211.170,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-05,2026-09-05
+47.245.40.28,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-02,2026-10-02
 47.245.95.0,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-18,2026-09-18
 47.245.98.98,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-29,2026-06-29
 47.245.110.233,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-06-20,2026-06-25
@@ -3331,7 +3333,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 85.114.195.106,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-08-13,2026-08-13
 85.114.197.89,botnet node,gafgyt,Gafgyt/BASHLITE bot identification marker (GAYFGT hex echo),[bashlite|fingerprint|gafgyt|telnet|worm],2026-09-05,2026-09-05
 85.130.136.193,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-08-04,2026-08-04
-85.133.193.72,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-07,2026-09-30
+85.133.193.72,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-07,2026-10-02
 85.133.221.139,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-31,2026-08-31
 85.133.221.158,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-11,2026-07-11
 85.133.221.170,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-20,2026-07-20
@@ -5067,7 +5069,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 118.250.65.4,botnet node,gafgyt,Gafgyt/BASHLITE bot identification marker (GAYFGT hex echo),[bashlite|fingerprint|gafgyt|telnet|worm],2026-08-28,2026-08-28
 118.251.49.115,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-09-23,2026-09-23
 119.3.162.103,botnet node,,,[infected],2026-07-02,2026-07-02
-119.15.169.38,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-23,2026-09-24
+119.15.169.38,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-23,2026-10-02
 119.18.48.74,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-17,2026-09-15
 119.18.52.5,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-10,2026-08-19
 119.28.46.114,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-18,2026-10-01
@@ -10041,7 +10043,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 91.92.33.196,intrusion,connect,PPTP tunnel established,[pptp],2026-09-10,2026-09-10
 91.92.33.198,intrusion,connect,PPTP tunnel established,[pptp],2026-07-15,2026-07-29
 91.92.47.9,intrusion,software,Docker daemon takeover,[docker|container|rce],2026-07-22,2026-07-22
-91.92.240.84,intrusion,connect,,[pptp],2026-05-06,2026-09-26
+91.92.240.84,intrusion,connect,,[pptp],2026-05-06,2026-10-02
 91.130.48.195,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce],2026-08-04,2026-08-04
 91.150.160.38,intrusion,software,Docker daemon takeover,[container|docker|rce],2026-07-17,2026-07-17
 91.185.84.136,intrusion,remote,VNC session established,[vnc|remote],2026-05-06,2026-09-20
@@ -11524,7 +11526,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 31.25.239.45,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-08-11,2026-08-11
 31.25.239.70,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-09-22,2026-10-02
 31.25.239.90,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-08-16,2026-08-16
-31.25.239.91,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-08-08,2026-10-01
+31.25.239.91,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-08-08,2026-10-02
 31.25.239.178,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-08-08,2026-08-09
 31.25.239.221,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-09-10,2026-09-16
 31.25.239.225,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-09-10,2026-09-27
@@ -15379,6 +15381,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 136.175.82.178,recon,docker,Docker daemon recon sweep,[docker],2026-07-16,2026-07-16
 136.243.12.170,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-09-20,2026-10-02
 136.244.34.242,recon,docker,Docker daemon recon sweep,[docker],2026-09-09,2026-09-09
+137.74.207.105,recon,software,Redis INFO probe,[info|redis],2026-10-02,2026-10-02
 137.103.40.212,recon,docker,Docker daemon recon sweep,[docker],2026-09-09,2026-09-09
 137.118.83.119,recon,docker,Docker image enumeration sweep,[docker|image-enum],2026-07-24,2026-07-24
 137.135.124.92,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-08-25,2026-08-27
