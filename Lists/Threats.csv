@@ -174,6 +174,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 39.59.74.185,abuse,proxy-abuse,SSH port-forward abuse (external IP-check tunnel),[abuse|proxy|ssh-tunnel],2026-09-17,2026-09-17
 39.59.92.85,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-09-24,2026-09-24
 39.61.27.121,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-09-24,2026-09-24
+39.61.102.151,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-10-08,2026-10-08
 39.61.133.124,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-09-29,2026-09-29
 39.61.143.71,abuse,proxy-abuse,SSH port-forward abuse (external IP-check tunnel),[abuse|proxy|ssh-tunnel],2026-09-17,2026-09-17
 39.61.146.217,abuse,proxy-abuse,SSH port-forward abuse (external IP-check tunnel),[abuse|proxy|ssh-tunnel],2026-09-18,2026-09-18
@@ -803,6 +804,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 134.209.15.209,abuse,ddos-reflector,DNS amplification query (confirmed non-spoofed via prior fingerprint/query),[amplification|ddos|dns|reflector],2026-06-13,2026-07-10
 135.129.163.191,abuse,proxy-abuse,SSH port-forward abuse (external IP-check tunnel),[abuse|proxy|ssh-tunnel],2026-09-18,2026-09-18
 136.70.149.140,abuse,ddos-reflector,DNS amplification query (confirmed non-spoofed via prior fingerprint/query),[amplification|ddos|dns|reflector],2026-08-05,2026-08-05
+138.19.75.243,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-10-08,2026-10-08
 138.84.37.13,abuse,proxy-abuse,SSH port-forward abuse (relay pivot to external host),[abuse|pivot|proxy|ssh-tunnel|ssh],2026-08-14,2026-08-14
 138.186.93.89,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-10-03,2026-10-03
 138.226.239.233,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-09-12,2026-10-03
@@ -834,6 +836,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 155.212.17.174,abuse,proxy-abuse,SSH port-forward abuse (relay pivot to external host),[abuse|pivot|proxy|ssh-tunnel|ssh],2026-08-14,2026-08-15
 156.215.233.2,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-09-29,2026-09-29
 156.232.56.9,abuse,proxy-abuse,SSH port-forward abuse (external IP-check tunnel),[abuse|proxy|ssh-tunnel],2026-09-19,2026-09-19
+156.252.139.242,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-10-08,2026-10-08
 157.254.192.31,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-09-20,2026-09-20
 158.173.79.67,abuse,proxy-abuse,SSH port-forward abuse (external IP-check tunnel),[abuse|proxy|ssh-tunnel],2026-07-13,2026-07-13
 158.173.89.50,abuse,proxy-abuse,SSH port-forward abuse (external IP-check tunnel),[abuse|proxy|ssh-tunnel],2026-10-06,2026-10-06
@@ -1329,6 +1332,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 221.164.53.62,abuse,proxy-abuse,SSH port-forward abuse (external IP-check tunnel),[abuse|proxy|ssh-tunnel],2026-09-12,2026-09-12
 221.167.26.159,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-10-03,2026-10-03
 221.167.130.178,abuse,proxy-abuse,SSH port-forward abuse (external IP-check tunnel),[abuse|proxy|ssh-tunnel],2026-09-18,2026-09-18
+221.167.131.167,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-10-08,2026-10-08
 221.199.172.66,abuse,proxy-abuse,SSH port-forward abuse (relay pivot to external host),[abuse|pivot|proxy|ssh-tunnel|ssh],2026-08-15,2026-08-15
 222.77.5.151,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-10-06,2026-10-06
 222.86.168.224,abuse,proxy-abuse,SSH port-forward abuse (relay pivot to external host),[abuse|pivot|proxy|ssh-tunnel|ssh],2026-08-16,2026-08-16
@@ -1338,6 +1342,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 222.103.38.94,abuse,proxy-abuse,SSH port-forward abuse (external IP-check tunnel),[abuse|proxy|ssh-tunnel],2026-09-17,2026-09-17
 222.103.100.198,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-10-02,2026-10-02
 222.103.246.159,abuse,proxy-abuse,SSH port-forward abuse (external IP-check tunnel),[abuse|proxy|ssh-tunnel],2026-09-12,2026-09-12
+222.104.120.151,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-10-08,2026-10-08
 222.104.161.160,abuse,proxy-abuse,SSH port-forward abuse (external IP-check tunnel),[abuse|proxy|ssh-tunnel],2026-09-18,2026-09-18
 222.104.162.193,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-10-03,2026-10-03
 222.104.175.150,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-09-20,2026-09-20
@@ -2031,7 +2036,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 36.52.183.188,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-01,2026-08-01
 36.52.187.68,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-07,2026-07-07
 36.64.68.99,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-15,2026-10-06
-36.64.131.68,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-12,2026-10-03
+36.64.131.68,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-12,2026-10-08
 36.66.16.233,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-07,2026-09-13
 36.67.227.242,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-20,2026-10-02
 36.70.237.96,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-08-06,2026-08-06
@@ -2261,7 +2266,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 41.203.213.8,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-24,2026-09-28
 41.204.63.118,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-13,2026-10-07
 41.204.82.238,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-23,2026-07-09
-41.208.147.131,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-21,2026-06-30
+41.208.147.131,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-21,2026-10-08
 41.214.55.235,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-24,2026-07-24
 41.214.58.86,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-01,2026-09-01
 41.215.133.245,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-31,2026-09-22
@@ -2356,6 +2361,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 43.153.81.43,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-02,2026-10-02
 43.153.96.204,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-20,2026-09-16
 43.153.99.170,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-30,2026-06-30
+43.153.119.168,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-08,2026-10-08
 43.153.124.181,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-29,2026-09-29
 43.153.150.130,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-23,2026-09-26
 43.153.185.56,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-14,2026-07-04
@@ -3589,7 +3595,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 92.118.112.176,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-24,2026-08-24
 92.168.39.37,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-10,2026-08-12
 92.205.57.72,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-19,2026-08-12
-92.207.4.157,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-21,2026-09-26
+92.207.4.157,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-21,2026-10-08
 92.209.215.59,botnet node,,used printf to build a binary file,[telnet|base64],2026-07-28,2026-07-28
 92.222.189.15,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-04,2026-09-04
 92.244.107.231,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-08-08,2026-08-08
@@ -3870,7 +3876,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 103.31.233.213,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-08-07,2026-08-07
 103.38.182.49,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-17,2026-06-30
 103.38.219.22,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-03,2026-09-27
-103.43.191.43,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-08,2026-06-30
+103.43.191.43,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-08,2026-10-08
 103.44.14.24,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-20,2026-09-20
 103.47.15.49,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-07-10,2026-07-10
 103.48.192.48,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-18,2026-09-01
@@ -3936,6 +3942,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 103.91.120.219,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-27,2026-07-27
 103.91.246.101,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-10,2026-10-05
 103.93.99.65,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-07-19,2026-07-19
+103.94.129.7,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-08,2026-10-08
 103.95.40.58,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-24,2026-10-04
 103.98.176.164,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-08,2026-10-07
 103.99.38.142,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-07,2026-07-07
@@ -4125,6 +4132,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 103.216.170.48,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-26,2026-10-05
 103.216.170.129,botnet node,,,[infected],2026-09-29,2026-09-29
 103.216.170.143,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-26,2026-09-26
+103.216.170.144,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-08,2026-10-08
 103.216.170.145,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-07,2026-10-07
 103.217.186.187,botnet node,,,[infected],2026-09-06,2026-09-06
 103.224.85.70,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-06,2026-10-06
@@ -4176,7 +4184,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 104.238.110.208,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-09-14,2026-09-15
 104.243.42.167,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-25,2026-09-07
 104.244.74.84,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-02,2026-10-07
-104.248.132.98,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-21,2026-10-03
+104.248.132.98,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-21,2026-10-08
 104.248.132.191,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-21,2026-07-21
 104.248.159.127,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-14,2026-07-14
 104.248.160.169,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-29,2026-10-05
@@ -5282,7 +5290,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 121.134.141.122,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-08-28,2026-08-28
 121.134.151.223,botnet node,,,[busybox|ddos|miori|telnet],2026-05-19,2026-07-07
 121.139.211.160,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-09-24,2026-09-24
-121.142.87.218,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-14,2026-10-06
+121.142.87.218,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-14,2026-10-08
 121.142.204.4,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-09-25,2026-09-25
 121.142.244.108,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-08-16,2026-08-16
 121.150.234.205,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-09-28,2026-09-28
@@ -5629,7 +5637,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 129.121.123.165,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-27,2026-07-27
 129.121.126.30,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-28,2026-08-02
 129.121.133.176,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-03,2026-10-03
-129.121.136.31,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-07,2026-10-07
+129.121.136.31,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-07,2026-10-08
 129.121.136.179,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-05,2026-10-05
 129.121.139.106,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-03,2026-10-03
 129.121.139.110,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-29,2026-10-05
@@ -5691,6 +5699,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 135.148.121.204,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-27,2026-08-27
 135.181.196.5,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-06,2026-08-06
 135.235.138.43,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-29,2026-10-03
+135.235.181.231,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-08,2026-10-08
 135.235.196.148,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-23,2026-09-23
 135.237.122.43,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-14,2026-09-25
 135.237.130.226,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-07-03,2026-07-03
@@ -5913,6 +5922,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 150.5.131.119,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-31,2026-06-30
 150.5.141.198,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-24,2026-07-13
 150.5.148.103,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-01,2026-07-01
+150.5.154.160,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-26,2026-10-08
 150.5.157.20,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-21,2026-10-03
 150.5.169.138,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-10,2026-07-30
 150.5.169.176,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-15,2026-09-16
@@ -6048,7 +6058,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 154.83.196.237,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-20,2026-10-06
 154.84.242.115,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-30,2026-06-30
 154.86.30.22,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-06,2026-07-06
-154.91.170.52,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-30,2026-09-30
+154.91.170.52,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-30,2026-10-08
 154.92.22.13,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-23,2026-07-05
 154.92.23.249,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-03,2026-08-02
 154.116.254.157,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-13,2026-10-06
@@ -6401,6 +6411,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 170.82.145.196,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-08-12,2026-08-12
 170.106.67.167,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-30,2026-09-30
 170.106.74.215,botnet node,,,[infected],2026-08-29,2026-08-29
+170.106.106.125,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-08,2026-10-08
 170.106.140.35,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-30,2026-09-30
 170.106.153.232,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-15,2026-10-06
 170.106.169.228,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-30,2026-10-01
@@ -6750,6 +6761,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 180.76.138.16,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-08,2026-10-08
 180.76.143.203,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-31,2026-10-06
 180.76.146.178,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-12,2026-10-07
+180.76.146.235,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-08,2026-10-08
 180.76.170.111,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-28,2026-07-10
 180.76.173.228,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-19,2026-09-24
 180.76.174.141,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-12,2026-08-05
@@ -7207,6 +7219,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 187.84.114.143,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-08-15,2026-08-15
 187.85.188.216,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-17,2026-07-28
 187.94.255.130,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-10,2026-09-03
+187.103.105.17,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-08,2026-10-08
 187.103.117.19,botnet node,gafgyt,Gafgyt/BASHLITE bot identification marker (GAYFGT hex echo),[bashlite|fingerprint|gafgyt|telnet|worm],2026-08-22,2026-08-22
 187.110.238.50,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-08,2026-09-25
 187.111.28.131,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-28,2026-07-07
@@ -7860,7 +7873,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 203.195.82.4,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-15,2026-07-10
 203.200.74.18,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-29,2026-07-27
 203.205.37.233,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-31,2026-08-18
-203.212.9.221,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-03,2026-10-07
+203.212.9.221,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-03,2026-10-08
 203.212.9.248,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-27,2026-09-26
 204.76.203.81,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-06-20,2026-07-02
 204.116.34.34,botnet node,gafgyt,Gafgyt/BASHLITE bot identification marker (GAYFGT hex echo),[bashlite|fingerprint|gafgyt|telnet|worm],2026-09-02,2026-09-10
@@ -7976,7 +7989,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 211.253.31.30,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-07,2026-09-22
 211.253.37.225,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-18,2026-10-05
 211.254.212.59,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-14,2026-09-27
-212.3.155.8,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-19,2026-09-29
+212.3.155.8,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-19,2026-10-08
 212.8.39.62,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-07-19,2026-07-19
 212.33.198.115,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-28,2026-09-28
 212.47.68.32,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-21,2026-07-21
@@ -8363,7 +8376,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 8.147.64.214,exploit,rce,Redis replication hijack RCE (MODULE LOAD + system.exec),[module-load|rce|redis|reverse-shell|cron|persistence|info],2026-08-21,2026-08-21
 8.148.232.209,exploit,rce,Redis replication hijack RCE (MODULE LOAD + system.exec),[module-load|rce|redis|reverse-shell|cron|persistence|info],2026-07-21,2026-07-21
 8.154.38.224,exploit,rce,Redis unauthenticated persistence write (cron),[cron|persistence|rce|redis|module-load|reverse-shell|info],2026-07-23,2026-07-23
-8.208.44.152,exploit,rce,CVE-2017-9841 (redtail),[docker|infected|crypto|php|rce|redtail|software|apache|traversal],2026-07-21,2026-09-07
+8.208.44.152,exploit,rce,CVE-2017-9841 (redtail),[docker|infected|crypto|php|rce|redtail|software|apache|traversal],2026-07-21,2026-09-04
 8.209.236.13,exploit,rce,CVE-2021-41773 / CVE-2021-42013,[infected|apache|rce|software|traversal|php],2026-04-25,2026-07-11
 8.211.28.212,exploit,rce,Redis replication hijack RCE (MODULE LOAD + system.exec),[module-load|rce|redis|reverse-shell|cron|persistence|info],2026-07-05,2026-07-05
 8.211.42.24,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-07-19,2026-07-19
@@ -8717,6 +8730,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 35.241.202.5,exploit,rce,CVE-2017-0144,[eternalblue|rce|smb|windows],2026-10-08,2026-10-08
 35.241.223.141,exploit,rce,CVE-2017-0144,[eternalblue|rce|smb|windows],2026-09-18,2026-09-18
 35.241.228.83,exploit,rce,CVE-2017-0144,[eternalblue|rce|smb|windows],2026-07-30,2026-07-30
+35.241.235.231,exploit,rce,CVE-2017-0144,[eternalblue|rce|smb|windows],2026-10-08,2026-10-08
 35.244.122.184,exploit,ssrf,CVE-2024-34351 (Next.js SSRF),[nextjs|rce|software|ssrf|credential-theft|git|http|credential-harvest|nodejs],2026-09-29,2026-09-29
 36.70.111.95,exploit,wordpress,CVE-2026-4020,[gravitysmtp|info-disclosure|wordpress],2026-09-01,2026-09-01
 36.106.167.147,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|credential-disclosure|winbox],2026-09-14,2026-09-14
@@ -8727,6 +8741,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 36.255.33.219,exploit,router,CVE-2016-6277,[iot|mozi|netgear|router|rce],2026-08-11,2026-08-11
 37.49.224.154,exploit,router,CVE-2023-1389 (TP-Link Archer Luci RCE),[iot|luci|rce|router|tplink],2026-08-17,2026-08-18
 37.49.225.20,exploit,ssrf,CVE-2024-34351 (Next.js SSRF),[nextjs|rce|software|ssrf|nodejs],2026-08-20,2026-08-21
+37.120.213.13,exploit,rce,CVE-2021-41773 / CVE-2021-42013,[crypto|rce|apache|redtail|software|traversal|infected],2026-03-15,2026-09-11
 37.140.223.161,exploit,wordpress,CVE-2026-63030,[rce|sql|wordpress|api|http],2026-08-03,2026-08-03
 37.220.86.215,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal],2026-06-30,2026-06-30
 37.221.66.136,exploit,wordpress,CVE-2026-63030,[rce|sql|wordpress],2026-07-21,2026-07-30
@@ -8736,7 +8751,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 39.34.186.21,exploit,router,CVE-2016-6277,[iot|mozi|netgear|router|rce],2026-08-24,2026-08-24
 39.96.5.195,exploit,rce,Redis replication hijack RCE (MODULE LOAD + system.exec),[module-load|rce|redis|reverse-shell|cron|persistence|info],2026-07-15,2026-07-15
 39.105.204.188,exploit,rce,Redis unauthenticated persistence write (cron),[cron|persistence|rce|redis|module-load|reverse-shell|info],2026-08-07,2026-08-07
-39.107.142.38,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|infected],2026-08-12,2026-09-25
+39.107.142.38,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|infected],2026-08-12,2026-08-21
 39.130.240.177,exploit,rce,Redis replication hijack RCE (MODULE LOAD + system.exec),[module-load|rce|redis|reverse-shell|cron|persistence|info],2026-08-01,2026-08-01
 41.92.19.108,exploit,wordpress,CVE-2026-63030,[rce|sql|wordpress|api|http],2026-08-01,2026-08-01
 42.119.235.174,exploit,rce,Redis unauthenticated persistence write (cron),[cron|persistence|rce|redis],2026-08-22,2026-08-22
@@ -8746,7 +8761,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 43.106.50.168,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-08-19,2026-08-19
 43.106.62.205,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox],2026-10-01,2026-10-01
 43.110.37.217,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|infected],2026-06-24,2026-06-30
-43.110.38.5,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http|infected],2026-06-06,2026-09-20
+43.110.38.5,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http|infected],2026-06-06,2026-07-26
 43.133.80.51,exploit,rce,Redis replication hijack RCE (MODULE LOAD + system.exec),[info|redis|module-load|rce|reverse-shell|cron|persistence],2026-09-25,2026-09-25
 43.134.232.102,exploit,rce,CVE-2019-0708,[bluekeep|rdp|rce|windows|scanner],2026-06-04,2026-07-08
 43.165.170.19,exploit,rce,CVE-2021-41773 / CVE-2021-42013,[apache|rce|software|traversal|infected],2026-04-27,2026-07-19
@@ -8823,11 +8838,12 @@ ip,category,detail,note,tags,first_seen,last_seen
 47.84.117.91,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox],2026-09-20,2026-09-20
 47.84.134.255,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-08-20,2026-08-20
 47.84.206.235,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-07-08,2026-07-08
-47.85.8.171,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|infected|software|apache|traversal],2026-03-31,2026-07-26
+47.85.8.171,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|infected|software|apache|traversal],2026-03-31,2026-08-24
 47.86.30.141,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox],2026-07-21,2026-07-21
 47.88.2.163,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-07-30,2026-07-30
 47.88.8.116,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-07-06,2026-07-06
 47.93.0.228,exploit,rce,Redis replication hijack RCE (MODULE LOAD + system.exec),[module-load|rce|redis|reverse-shell|cron|persistence|ssh-key],2026-07-01,2026-07-01
+47.95.234.23,exploit,rce,CVE-2017-9841 (redtail),[infected|crypto|php|rce|redtail|software|apache|traversal|handshake|mirai|worm],2026-05-17,2026-09-18
 47.96.23.157,exploit,rce,Redis replication hijack RCE (MODULE LOAD + system.exec),[module-load|rce|redis|reverse-shell|cron|persistence|info],2026-07-07,2026-07-07
 47.99.146.188,exploit,rce,CVE-2017-9841 (redtail),[infected|crypto|php|rce|redtail|software|apache|traversal],2026-07-07,2026-07-11
 47.101.130.57,exploit,rce,Redis replication hijack RCE (MODULE LOAD + system.exec),[module-load|rce|redis|reverse-shell|cron|persistence|info],2026-09-09,2026-09-09
@@ -8852,8 +8868,8 @@ ip,category,detail,note,tags,first_seen,last_seen
 47.251.95.226,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-07-30,2026-07-30
 47.251.127.130,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-08-02,2026-08-02
 47.251.251.105,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox],2026-10-05,2026-10-05
-47.252.16.44,exploit,rce,CVE-2017-9841 (redtail),[infected|crypto|php|rce|redtail|software|apache|traversal],2026-07-07,2026-08-01
-47.253.5.130,exploit,rce,CVE-2017-9841 (redtail),[infected|crypto|php|rce|redtail|software|apache|traversal],2026-03-12,2026-08-12
+47.252.16.44,exploit,rce,CVE-2017-9841 (redtail),[infected|crypto|php|rce|redtail|software|apache|traversal],2026-07-07,2026-08-02
+47.253.5.130,exploit,rce,CVE-2017-9841 (redtail),[infected|crypto|php|rce|redtail|software|apache|traversal],2026-03-12,2026-08-26
 47.254.56.125,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox],2026-09-26,2026-09-26
 49.234.51.180,exploit,rce,Redis unauthenticated persistence write (cron),[cron|persistence|rce|redis|module-load|reverse-shell|info],2026-09-05,2026-09-05
 50.6.251.8,exploit,rce,CVE-2021-41773 / CVE-2021-42013,[apache|rce|software|traversal],2026-09-01,2026-09-01
@@ -8867,6 +8883,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 60.165.53.91,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal],2026-07-06,2026-07-06
 60.209.104.4,exploit,router,CVE-2016-6277,[iot|mozi|netgear|router|rce],2026-08-09,2026-08-09
 61.53.86.1,exploit,rce,HTTP path command injection (Mirai-family router RCE),[download|infected|iot|worm|mirai|rce|router],2026-07-21,2026-07-21
+61.146.235.54,exploit,rce,CVE-2021-41773 / CVE-2021-42013,[infected|apache|rce|software|traversal],2026-05-28,2026-09-15
 61.240.138.157,exploit,rce,Redis replication hijack RCE (MODULE LOAD + system.exec),[module-load|rce|redis|reverse-shell|cron|persistence|ssh-key],2026-09-24,2026-09-24
 62.146.232.110,exploit,wordpress,CVE-2026-63030,[rce|sql|wordpress|api|http],2026-09-24,2026-09-24
 62.210.127.48,exploit,wordpress,CVE-2026-63030,[rce|sql|wordpress|api|http],2026-07-22,2026-07-22
@@ -8891,7 +8908,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 72.255.18.54,exploit,router,CVE-2018-10561,[gpon|iot|mozi|router|rce],2026-07-23,2026-07-23
 72.255.32.165,exploit,router,CVE-2016-6277,[iot|mozi|netgear|router|rce],2026-07-20,2026-07-20
 73.138.96.88,exploit,wordpress,CVE-2026-63030,[rce|sql|wordpress|api|http],2026-07-31,2026-07-31
-74.208.31.43,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http|infected],2026-09-13,2026-09-14
+74.208.31.43,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http|infected],2026-09-13,2026-09-13
 77.40.53.84,exploit,router,Tenda router unauthenticated debug config,[rce|router|tenda],2026-08-24,2026-08-24
 77.46.215.21,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox],2026-07-08,2026-07-08
 77.83.240.70,exploit,router,CVE-2018-14847,[sip|voip|cve|mikrotik|router|rce|friendly-scanner|recon|sipvicious|nmap|scanner|vnc|remote|masscan|fuzz|ics|modbus|credential-disclosure|winbox],2026-04-08,2026-10-04
@@ -8915,7 +8932,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 80.94.92.20,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|vnc|remote|masscan|scanner|ics|modbus|info|redis|dns|fingerprint],2026-06-06,2026-08-10
 81.19.216.97,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox],2026-10-03,2026-10-03
 81.19.216.121,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|ics|modbus],2026-04-28,2026-10-07
-81.226.129.67,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|infected],2026-06-13,2026-08-03
+81.226.129.67,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|infected],2026-06-13,2026-07-23
 82.6.240.153,exploit,rce,CVE-2018-11776,[java|ognl|rce|struts2],2026-08-12,2026-08-12
 82.7.42.167,exploit,rce,CVE-2018-11776,[java|ognl|rce|struts2],2026-08-12,2026-08-12
 82.25.35.230,exploit,rce,CVE-2019-0708,[bluekeep|rdp|rce|windows|scanner],2026-07-17,2026-07-17
@@ -8931,7 +8948,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 85.114.55.134,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox],2026-09-17,2026-09-18
 86.31.13.111,exploit,rce,CVE-2018-11776,[java|ognl|rce|struts2],2026-08-12,2026-08-12
 87.107.108.189,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http],2026-08-15,2026-08-15
-87.192.253.110,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http|infected|handshake|mirai|worm],2026-08-22,2026-08-22
+87.192.253.110,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http|infected|handshake|mirai|worm],2026-08-22,2026-09-27
 87.250.60.182,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox],2026-08-16,2026-08-16
 88.97.188.179,exploit,rce,CVE-2018-11776,[java|ognl|rce|struts2],2026-08-12,2026-08-12
 88.151.33.203,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal],2026-06-26,2026-07-28
@@ -8956,7 +8973,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 93.170.233.245,exploit,router,Tenda router unauthenticated debug config,[rce|router|tenda],2026-08-24,2026-08-24
 94.2.1.170,exploit,rce,CVE-2018-11776,[java|ognl|rce|struts2],2026-08-12,2026-08-12
 94.154.43.7,exploit,rce,Redis unauthenticated persistence write (cron),[cron|persistence|rce|redis|info],2026-09-21,2026-09-21
-94.154.43.60,exploit,router,CVE-2023-1389 (TP-Link Archer Luci RCE),[busybox|iot|luci|rce|router|tplink|infected],2026-07-16,2026-10-08
+94.154.43.60,exploit,router,CVE-2023-1389 (TP-Link Archer Luci RCE),[busybox|iot|luci|rce|router|tplink|infected],2026-07-16,2026-07-25
 94.154.43.64,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|http|apache|software|traversal|geoserver|ognl],2026-07-07,2026-07-21
 94.154.43.87,exploit,router,CVE-2018-10561,[gpon|iot|mozi|router|rce|http|path-traversal],2026-06-28,2026-09-03
 94.154.43.120,exploit,rce,HTTP path command injection (Mirai-family router RCE),[iot|mirai|rce|router],2026-07-19,2026-07-19
@@ -8971,12 +8988,12 @@ ip,category,detail,note,tags,first_seen,last_seen
 95.155.151.155,exploit,router,CVE-2018-10561,[gpon|iot|mozi|router|rce],2026-09-15,2026-09-15
 98.80.4.50,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-07-26,2026-07-26
 98.80.4.102,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-07-21,2026-07-21
-101.36.104.242,exploit,rce,CVE-2017-9841 (redtail),[infected|crypto|php|rce|redtail|software|apache|traversal],2026-03-26,2026-07-31
+101.36.104.242,exploit,rce,CVE-2017-9841 (redtail),[infected|crypto|php|rce|redtail|software|apache|traversal],2026-03-26,2026-08-21
 101.36.122.183,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|credential-disclosure|winbox],2026-07-12,2026-07-12
 101.42.1.32,exploit,rce,CVE-2021-41773 / CVE-2021-42013,[docker|apache|rce|software|traversal|infected],2026-06-26,2026-07-09
 101.47.8.187,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|infected|http|software|apache|traversal],2026-04-03,2026-08-20
 101.47.15.119,exploit,rce,CVE-2021-41773 / CVE-2021-42013,[infected|apache|rce|software|traversal],2026-06-11,2026-07-14
-101.51.157.107,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http|infected],2026-08-19,2026-08-19
+101.51.157.107,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http|infected],2026-08-19,2026-08-24
 101.53.225.68,exploit,router,CVE-2016-6277,[iot|mozi|netgear|router|rce],2026-08-31,2026-08-31
 101.68.50.126,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-07-26,2026-07-26
 101.96.192.198,exploit,rce,Redis replication hijack RCE (MODULE LOAD + system.exec),[module-load|rce|redis|reverse-shell|cron|persistence|info],2026-10-07,2026-10-07
@@ -9023,7 +9040,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 105.157.139.80,exploit,wordpress,CVE-2026-63030,[rce|sql|wordpress|api|http],2026-07-28,2026-07-28
 105.190.201.159,exploit,wordpress,CVE-2026-63030,[rce|sql|wordpress|api|http],2026-07-28,2026-07-28
 105.225.132.112,exploit,router,CVE-2016-6277,[iot|mozi|netgear|router|rce],2026-08-01,2026-08-01
-106.13.122.198,exploit,rce,CVE-2021-41773 / CVE-2021-42013,[apache|rce|software|traversal|infected],2026-07-07,2026-07-07
+106.13.122.198,exploit,rce,CVE-2021-41773 / CVE-2021-42013,[apache|rce|software|traversal|infected],2026-07-07,2026-09-03
 106.53.190.101,exploit,rce,Redis replication hijack RCE (MODULE LOAD + system.exec),[module-load|rce|redis|reverse-shell|cron|persistence|info],2026-07-16,2026-07-16
 106.55.17.69,exploit,wordpress,CVE-2026-63030,[rce|sql|wordpress|api|http],2026-09-07,2026-09-07
 106.58.237.189,exploit,rce,Redis unauthenticated persistence write (cron),[info|redis|cron|persistence|rce],2026-09-23,2026-09-23
@@ -9031,7 +9048,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 106.225.235.90,exploit,rce,Redis replication hijack RCE (MODULE LOAD + system.exec),[module-load|rce|redis|reverse-shell|cron|persistence|ssh-key],2026-09-26,2026-09-26
 107.150.97.10,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal],2026-09-05,2026-09-13
 107.150.106.156,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|credential-disclosure|winbox],2026-09-16,2026-09-16
-107.155.48.46,exploit,rce,CVE-2012-1823 (PHP-CGI argument injection),[infected|php|rce|software|crypto|redtail|apache|traversal],2026-03-26,2026-09-19
+107.155.48.46,exploit,rce,CVE-2012-1823 (PHP-CGI argument injection),[infected|php|rce|software|crypto|redtail|apache|traversal],2026-03-26,2026-10-07
 107.175.65.215,exploit,rce,CVE-2017-9841 (redtail),[docker|crypto|php|rce|redtail|software|apache|traversal],2026-07-06,2026-07-12
 107.189.10.124,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http|infected],2026-07-07,2026-07-07
 108.17.61.64,exploit,router,CVE-2016-20017 (D-Link DSL login.cgi RCE),[dlink|iot|rce|router|scanner],2026-07-02,2026-07-02
@@ -9045,9 +9062,9 @@ ip,category,detail,note,tags,first_seen,last_seen
 112.94.252.4,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-07-26,2026-07-26
 112.248.244.142,exploit,rce,HTTP path command injection (Mirai-family router RCE),[download|infected|iot|worm|mirai|rce|router],2026-08-03,2026-08-03
 113.142.73.219,exploit,rce,Redis unauthenticated persistence write (cron),[cron|persistence|rce|redis|module-load|reverse-shell|info],2026-07-30,2026-07-30
-114.215.202.153,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http|infected],2026-07-19,2026-07-24
+114.215.202.153,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http|infected],2026-07-19,2026-08-01
 115.84.178.56,exploit,router,CVE-2025-34037,[router|http|linksys|cve|iot|scanner],2026-08-19,2026-07-29
-115.191.32.57,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|infected|handshake|mirai|worm],2026-06-27,2026-08-15
+115.191.32.57,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|infected|handshake|mirai|worm],2026-06-27,2026-09-20
 115.227.26.85,exploit,router,CVE-2025-34037,[router|http|linksys|cve|iot|scanner],2026-08-19,2026-07-25
 115.248.8.65,exploit,rce,CVE-2021-41773 / CVE-2021-42013,[apache|rce|software|traversal|crypto|php|redtail],2026-04-04,2026-07-28
 116.62.163.56,exploit,rce,CVE-2021-41773 / CVE-2021-42013,[apache|rce|software|traversal],2026-07-23,2026-07-23
@@ -9055,26 +9072,28 @@ ip,category,detail,note,tags,first_seen,last_seen
 117.72.175.151,exploit,rce,Redis unauthenticated persistence write (cron),[cron|persistence|rce|redis|ssh-key|module-load|reverse-shell],2026-07-17,2026-07-17
 117.89.252.141,exploit,rce,HTTP path command injection (Mirai-family router RCE),[iot|mirai|rce|router],2026-07-22,2026-07-22
 117.133.182.154,exploit,rce,Redis unauthenticated persistence write (cron),[cron|persistence|rce|redis|module-load|reverse-shell|info],2026-07-18,2026-07-18
-117.164.191.217,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|infected|apache|software|traversal],2026-05-12,2026-07-20
+117.164.191.217,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|infected|apache|software|traversal],2026-05-12,2026-08-04
 117.175.140.121,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|infected|apache|software|traversal],2026-05-11,2026-07-09
 117.251.75.65,exploit,rce,CVE-2019-0708,[bluekeep|rdp|rce|windows|scanner],2026-07-07,2026-07-07
-118.26.111.107,exploit,rce,CVE-2017-9841 (redtail),[worm|crypto|infected|backdoor|php|rce|redtail|software|http|apache|traversal],2026-05-01,2026-08-11
+118.26.111.107,exploit,rce,CVE-2017-9841 (redtail),[worm|crypto|infected|backdoor|php|rce|redtail|software|http|apache|traversal],2026-05-01,2026-08-15
 118.31.112.172,exploit,rce,Redis replication hijack RCE (MODULE LOAD + system.exec),[module-load|rce|redis|reverse-shell|cron|persistence|info],2026-08-23,2026-08-23
 118.70.85.24,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal],2026-08-17,2026-08-17
 118.89.120.186,exploit,rce,Redis unauthenticated persistence write (cron),[cron|persistence|rce|redis|module-load|reverse-shell|info],2026-07-17,2026-07-17
+118.145.104.37,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|http|software|apache|traversal|infected|handshake|mirai|worm],2026-05-31,2026-09-22
 118.145.104.105,exploit,rce,CVE-2017-9841 (redtail),[infected|crypto|php|rce|redtail|software|apache|traversal],2026-04-21,2026-07-05
 118.179.19.31,exploit,wordpress,CVE-2026-63030,[rce|sql|wordpress|api|http],2026-07-28,2026-07-28
 118.193.38.178,exploit,router,CVE-2018-14847,[vnc|remote|cve|mikrotik|router|rce|credential-disclosure|winbox|ai|api],2026-05-06,2026-07-05
 118.193.47.114,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|credential-disclosure|winbox],2026-08-25,2026-08-25
 118.193.59.194,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|credential-disclosure|winbox|info|redis],2026-04-16,2026-07-27
 118.194.248.4,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|config|credential-theft|http],2026-03-29,2026-08-03
-118.196.56.74,exploit,rce,CVE-2012-1823 (PHP-CGI argument injection),[php|rce|software|infected|apache|traversal],2026-05-02,2026-08-03
+118.196.56.74,exploit,rce,CVE-2012-1823 (PHP-CGI argument injection),[php|rce|software|infected|apache|traversal],2026-05-02,2026-08-01
 119.160.215.115,exploit,rce,Redis replication hijack RCE (MODULE LOAD + system.exec),[module-load|rce|redis|reverse-shell|cron|persistence|info],2026-09-15,2026-09-15
 120.26.225.191,exploit,rce,Redis replication hijack RCE (MODULE LOAD + system.exec),[module-load|rce|redis|reverse-shell|cron|persistence|info],2026-07-29,2026-07-29
 120.27.153.162,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http],2026-09-21,2026-09-21
 120.41.86.95,exploit,router,Tenda router unauthenticated debug config,[rce|router|tenda],2026-08-17,2026-08-17
+120.48.22.219,exploit,rce,CVE-2021-41773 / CVE-2021-42013,[infected|apache|rce|software|traversal],2026-03-31,2026-07-23
 120.48.32.130,exploit,rce,CVE-2017-9841 (redtail),[infected|crypto|php|rce|redtail|software|apache|traversal],2026-03-28,2026-07-06
-120.77.238.126,exploit,rce,CVE-2021-41773 / CVE-2021-42013,[infected|apache|rce|software|traversal],2026-07-24,2026-08-03
+120.77.238.126,exploit,rce,CVE-2021-41773 / CVE-2021-42013,[infected|apache|rce|software|traversal],2026-07-24,2026-07-28
 120.77.252.239,exploit,rce,Redis unauthenticated persistence write (cron),[cron|persistence|rce|redis|module-load|reverse-shell|info],2026-08-01,2026-08-01
 120.85.112.155,exploit,router,CVE-2016-6277,[iot|mozi|netgear|router|rce],2026-08-26,2026-08-26
 120.85.115.85,exploit,router,CVE-2018-10561,[gpon|iot|mozi|router|rce],2026-09-05,2026-09-05
@@ -9130,7 +9149,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 141.98.10.12,exploit,rce,CVE-2024-36401,[geoserver|ognl|rce|software],2026-07-26,2026-07-29
 143.20.185.242,exploit,router,CVE-2025-67074 (Tenda AdvSetMacMtuWan overflow),[http|rce|router|tenda],2026-05-26,2026-07-06
 144.48.130.108,exploit,router,CVE-2018-10561,[gpon|iot|mozi|router|rce],2026-07-31,2026-07-31
-144.225.6.182,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http|infected],2026-07-28,2026-07-28
+144.225.6.182,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http|infected],2026-07-28,2026-08-26
 144.225.8.52,exploit,rce,Redis replication hijack RCE (MODULE LOAD + system.exec),[module-load|rce|redis|reverse-shell|cron|persistence|info],2026-08-27,2026-08-27
 145.249.109.110,exploit,rce,CVE-2012-1823 (PHP-CGI argument injection),[php|rce|software|apache|traversal|crypto|redtail|http],2026-07-21,2026-08-21
 146.70.198.136,exploit,rce,Redis unauthenticated persistence write (cron),[cron|persistence|rce|redis|info],2026-08-11,2026-08-11
@@ -9139,7 +9158,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 146.148.13.217,exploit,rce,CVE-2017-0144,[eternalblue|rce|smb|windows],2026-07-18,2026-07-18
 146.148.125.103,exploit,rce,CVE-2017-0144,[eternalblue|rce|smb|windows],2026-07-14,2026-07-14
 146.190.100.196,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|actuator|http|java|spring|recon],2026-07-20,2026-07-20
-148.66.142.9,exploit,rce,CVE-2021-41773 / CVE-2021-42013,[infected|apache|rce|software|traversal],2026-06-04,2026-07-05
+148.66.142.9,exploit,rce,CVE-2021-41773 / CVE-2021-42013,[infected|apache|rce|software|traversal],2026-06-04,2026-08-09
 148.153.56.170,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox|dns|fingerprint],2026-05-12,2026-08-18
 149.104.110.163,exploit,wordpress,CVE-2026-63030,[http|rce|sql|wordpress|api],2026-08-13,2026-08-14
 149.255.175.138,exploit,rce,CVE-2017-10271,[deserialization|rce|weblogic],2026-08-12,2026-08-12
@@ -9225,10 +9244,10 @@ ip,category,detail,note,tags,first_seen,last_seen
 159.89.207.161,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http],2026-08-10,2026-08-10
 160.119.71.4,exploit,router,CVE-2023-1389 (TP-Link Archer Luci RCE),[iot|luci|rce|router|tplink],2026-07-19,2026-07-20
 160.154.31.234,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http],2026-08-15,2026-08-15
-160.250.132.238,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http|infected|handshake|mirai|worm],2026-08-25,2026-09-19
+160.250.132.238,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http|infected|handshake|mirai|worm],2026-08-25,2026-10-07
 161.97.120.153,exploit,rce,Redis unauthenticated persistence write (cron),[cron|persistence|rce|redis],2026-09-13,2026-09-13
 162.243.242.176,exploit,wordpress,CVE-2026-63030,[rce|sql|wordpress|api|http],2026-07-18,2026-07-18
-163.7.1.156,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|infected|apache|software|traversal],2026-05-30,2026-09-29
+163.7.1.156,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|infected|apache|software|traversal],2026-05-30,2026-08-02
 163.7.13.221,exploit,wordpress,CVE-2026-63030,[rce|sql|wordpress],2026-07-31,2026-07-31
 164.52.24.186,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-05-15,2026-07-23
 165.99.207.153,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http],2026-09-14,2026-09-20
@@ -9328,7 +9347,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 191.83.175.237,exploit,wordpress,CVE-2026-63030,[rce|sql|wordpress|api|http],2026-07-28,2026-07-28
 192.3.67.114,exploit,rce,CVE-2017-9841 (redtail),[docker|crypto|php|rce|redtail|software|apache|traversal],2026-07-06,2026-07-07
 192.42.116.61,exploit,rce,CVE-2012-1823 (PHP-CGI argument injection),[php|rce|software|credential-harvest|docker|freepbx|http|pbx|voip],2026-06-24,2026-08-13
-192.42.116.116,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox|docker|rce|vnc|remote|masscan|scanner|fuzz|ics|modbus|infected],2026-06-17,2026-08-07
+192.42.116.116,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox|docker|rce|vnc|remote|masscan|scanner|fuzz|ics|modbus|infected],2026-06-17,2026-09-04
 192.42.116.145,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus|freepbx|http|pbx|voip],2026-06-27,2026-08-07
 192.99.0.154,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|friendly-scanner|recon|sip|sipvicious|voip|nmap|scanner],2026-09-01,2026-08-10
 193.8.186.31,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|nmap|scanner],2026-06-01,2026-10-05
@@ -9364,7 +9383,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 197.231.201.185,exploit,wordpress,CVE-2026-63030,[rce|sql|wordpress|api|http],2026-07-28,2026-07-28
 198.11.180.16,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-08-09,2026-08-09
 198.74.56.6,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|fuzz|ics|modbus],2026-07-06,2026-09-05
-198.98.53.110,exploit,rce,CVE-2021-41773 / CVE-2021-42013,[apache|rce|software|traversal|infected],2026-07-20,2026-08-03
+198.98.53.110,exploit,rce,CVE-2021-41773 / CVE-2021-42013,[apache|rce|software|traversal|infected],2026-07-20,2026-08-18
 201.42.39.7,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-08-21,2026-08-24
 202.47.54.60,exploit,router,CVE-2016-6277,[iot|mozi|netgear|router|rce],2026-10-05,2026-10-05
 202.61.130.55,exploit,wordpress,CVE-2026-63030,[rce|sql|wordpress|api|http],2026-08-02,2026-08-22
@@ -9381,7 +9400,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 204.76.203.43,exploit,router,CVE-2023-1389 (TP-Link Archer Luci RCE),[iot|luci|rce|router|tplink],2026-08-01,2026-08-31
 205.237.105.132,exploit,ssrf,CVE-2024-34351 (Next.js SSRF),[nextjs|rce|software|ssrf|nodejs],2026-08-14,2026-08-14
 206.189.0.59,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-08-23,2026-08-23
-207.57.124.34,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http|infected],2026-08-06,2026-09-12
+207.57.124.34,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http|infected],2026-08-06,2026-08-06
 207.175.19.113,exploit,rce,CVE-2017-0144,[eternalblue|rce|smb|windows],2026-08-04,2026-08-04
 207.175.21.150,exploit,rce,CVE-2017-0144,[eternalblue|rce|smb|windows],2026-07-16,2026-07-16
 207.175.28.107,exploit,rce,CVE-2017-0144,[eternalblue|rce|smb|windows],2026-07-16,2026-07-16
@@ -9436,7 +9455,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 222.170.126.219,exploit,rce,CVE-2017-9841 (redtail),[docker|crypto|php|rce|redtail|software|apache|traversal],2026-07-12,2026-07-14
 222.211.66.28,exploit,rce,CVE-2010-0738 / CVE-2015-7501 (JBoss jmx-console/invoker RCE),[http|deserialization|jboss|rce],2026-06-01,2026-07-07
 222.213.23.56,exploit,rce,Redis replication hijack RCE (MODULE LOAD + system.exec),[module-load|rce|redis|reverse-shell|cron|persistence|ssh-key],2026-07-19,2026-07-19
-223.85.251.55,exploit,rce,CVE-2021-41773 / CVE-2021-42013,[infected|apache|rce|software|traversal],2026-06-02,2026-08-29
+223.85.251.55,exploit,rce,CVE-2021-41773 / CVE-2021-42013,[infected|apache|rce|software|traversal],2026-06-02,2026-08-30
 223.123.43.202,exploit,rce,HTTP path command injection (Mirai-family router RCE),[download|infected|iot|worm|mirai|rce|router],2026-09-11,2026-09-11
 223.123.65.54,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http],2026-09-07,2026-09-28
 223.123.73.74,exploit,router,CVE-2016-6277,[iot|mozi|netgear|router|rce],2026-09-01,2026-09-01
@@ -10139,12 +10158,12 @@ ip,category,detail,note,tags,first_seen,last_seen
 103.200.24.11,intrusion,remote,VNC session established,[remote|vnc],2026-07-27,2026-08-06
 103.241.42.234,intrusion,remote,VNC session established,[remote|vnc],2026-08-04,2026-08-04
 103.249.201.41,intrusion,remote,,[vnc|remote],2026-05-06,2026-08-26
-103.250.11.156,intrusion,remote,VNC session established,[worm|crypto|infected|backdoor|vnc|remote],2026-03-14,2026-08-17
+103.250.11.156,intrusion,remote,VNC session established,[worm|crypto|infected|backdoor|vnc|remote],2026-03-14,2026-09-22
 103.252.72.150,intrusion,software,Docker daemon takeover,[container|docker|rce|info|redis],2026-09-10,2026-09-13
 104.28.156.13,intrusion,software,Docker daemon takeover,[container|docker|rce],2026-07-21,2026-07-21
 104.28.206.119,intrusion,software,Docker daemon takeover,[container|docker|rce|alpine],2026-07-15,2026-07-15
 104.28.211.28,intrusion,software,container filesystem credential extraction,[credential-harvest|docker],2026-09-19,2026-09-19
-104.28.233.73,intrusion,remote,VNC session established,[worm|crypto|infected|backdoor|vnc|remote],2026-03-15,2026-07-17
+104.28.233.73,intrusion,remote,VNC session established,[worm|crypto|infected|backdoor|vnc|remote],2026-03-15,2026-09-06
 104.152.187.4,intrusion,software,container filesystem credential extraction,[docker|image-enum|credential-harvest],2026-09-25,2026-10-02
 104.156.151.17,intrusion,remote,VNC session established,[remote|vnc],2026-09-27,2026-09-27
 104.193.135.117,intrusion,software,container filesystem credential extraction,[credential-harvest|docker],2026-10-07,2026-10-07
@@ -10157,7 +10176,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 104.251.181.51,intrusion,connect,PPTP tunnel established,[pptp],2026-05-28,2026-09-28
 104.251.181.55,intrusion,connect,PPTP tunnel established,[pptp],2026-05-28,2026-09-11
 104.251.181.63,intrusion,connect,PPTP tunnel established,[pptp],2026-05-20,2026-09-28
-106.12.127.112,intrusion,remote,VNC session established,[remote|vnc|worm|crypto|infected|backdoor],2026-06-04,2026-09-06
+106.12.127.112,intrusion,remote,VNC session established,[remote|vnc|worm|crypto|infected|backdoor],2026-06-04,2026-10-08
 106.14.14.65,intrusion,remote,VNC session established,[vnc|remote],2026-05-06,2026-09-20
 106.14.123.114,intrusion,remote,VNC session established,[vnc|remote],2026-05-06,2026-09-20
 106.14.160.8,intrusion,remote,VNC session established,[vnc|remote],2026-05-06,2026-08-16
@@ -10259,7 +10278,6 @@ ip,category,detail,note,tags,first_seen,last_seen
 118.196.36.59,intrusion,remote,VNC session established,[remote|vnc],2026-07-31,2026-09-08
 119.13.188.249,intrusion,remote,VNC session established,[remote|vnc],2026-09-12,2026-09-12
 119.13.189.108,intrusion,remote,VNC session established,[remote|vnc],2026-07-27,2026-10-08
-119.18.55.118,intrusion,remote,VNC session established,[worm|crypto|infected|backdoor|vnc|remote],2026-03-13,2026-07-22
 119.23.66.6,intrusion,remote,VNC session established,[vnc|remote],2026-05-06,2026-07-25
 119.28.238.164,intrusion,remote,VNC session established,[remote|vnc],2026-08-04,2026-09-08
 119.29.154.86,intrusion,remote,VNC session established,[remote|vnc],2026-07-31,2026-09-08
@@ -10917,19 +10935,22 @@ ip,category,detail,note,tags,first_seen,last_seen
 191.101.59.133,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce],2026-08-12,2026-08-12
 191.101.130.221,intrusion,remote,VNC session established,[remote|vnc],2026-07-18,2026-07-18
 191.209.31.253,intrusion,remote,VNC session established,[remote|vnc],2026-08-13,2026-09-06
-192.42.116.12,intrusion,software,Docker daemon takeover,[container|docker|rce|infected|freepbx|http|pbx|voip],2026-06-16,2026-08-18
-192.42.116.20,intrusion,ics,Modbus coil register polling (unauthorized ICS read),[infected|fuzz|ics|modbus],2026-04-21,2026-07-13
-192.42.116.21,intrusion,software,Docker daemon takeover,[container|docker|rce|infected|freepbx|http|pbx|voip],2026-06-16,2026-09-13
+192.42.116.12,intrusion,software,Docker daemon takeover,[container|docker|rce|infected|freepbx|http|pbx|voip],2026-06-16,2026-09-04
+192.42.116.20,intrusion,ics,Modbus coil register polling (unauthorized ICS read),[infected|fuzz|ics|modbus],2026-04-21,2026-09-06
+192.42.116.21,intrusion,software,Docker daemon takeover,[container|docker|rce|infected|freepbx|http|pbx|voip],2026-06-16,2026-09-06
+192.42.116.56,intrusion,software,Docker daemon takeover,[container|docker|rce|alpine|infected|fuzz|ics|modbus],2026-06-17,2026-09-04
+192.42.116.58,intrusion,software,Docker daemon takeover,[docker|rce|infected],2026-06-25,2026-09-06
 192.42.116.64,intrusion,software,Docker daemon takeover,[container|docker|rce|fuzz|ics|modbus],2026-06-16,2026-07-13
 192.42.116.66,intrusion,software,Docker daemon takeover,[container|docker|rce|infected],2026-06-14,2026-09-06
 192.42.116.68,intrusion,software,Docker daemon takeover,[docker|rce|fuzz|ics|modbus],2026-06-17,2026-08-07
 192.42.116.92,intrusion,software,Docker daemon takeover,[container|docker|rce|ics|modbus],2026-06-14,2026-07-14
-192.42.116.103,intrusion,software,Docker daemon takeover,[container|docker|rce|infected|fuzz|ics|modbus],2026-06-16,2026-07-13
+192.42.116.100,intrusion,software,Docker daemon takeover,[container|docker|rce|alpine|infected|vnc|remote|masscan|scanner|fuzz|ics|modbus],2026-06-18,2026-09-06
+192.42.116.103,intrusion,software,Docker daemon takeover,[container|docker|rce|infected|fuzz|ics|modbus],2026-06-16,2026-09-02
 192.42.116.104,intrusion,software,Docker daemon takeover,[docker|rce|ics|modbus],2026-06-24,2026-07-14
 192.42.116.109,intrusion,software,container filesystem credential extraction,[credential-harvest|docker|fuzz|ics|modbus|freepbx|http|pbx|voip],2026-06-24,2026-08-07
-192.42.116.111,intrusion,software,Docker daemon takeover,[container|docker|rce|infected|freepbx|http|pbx|voip],2026-06-14,2026-08-18
-192.42.116.112,intrusion,software,Docker daemon takeover,[container|docker|rce|infected|fuzz|ics|modbus],2026-06-14,2026-07-14
-192.76.153.253,intrusion,software,Docker daemon takeover,[container|docker|rce|infected|ics|modbus],2026-06-18,2026-10-06
+192.42.116.111,intrusion,software,Docker daemon takeover,[container|docker|rce|infected|freepbx|http|pbx|voip],2026-06-14,2026-09-04
+192.42.116.112,intrusion,software,Docker daemon takeover,[container|docker|rce|infected|fuzz|ics|modbus],2026-06-14,2026-09-04
+192.76.153.253,intrusion,software,Docker daemon takeover,[container|docker|rce|infected|ics|modbus],2026-06-18,2026-09-02
 192.129.219.219,intrusion,remote,VNC session established,[remote|vnc],2026-07-25,2026-07-25
 192.169.233.115,intrusion,remote,,[vnc|remote|nmap|rdp|scanner|zgrab],2026-05-06,2026-10-08
 192.204.25.139,intrusion,remote,VNC session established,[remote|vnc],2026-07-13,2026-07-13
@@ -11657,6 +11678,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 34.78.225.129,recon,telnet,Nmap telnet scan,[nmap|recon|scanner],2026-09-13,2026-09-13
 34.79.23.39,recon,software,Redis unauthenticated fingerprint sweep,[recon|redis|info],2026-07-06,2026-07-06
 34.79.66.84,recon,telnet,Nmap telnet scan,[nmap|scanner],2026-09-19,2026-09-19
+34.79.119.40,recon,telnet,Nmap telnet scan,[nmap|scanner],2026-10-08,2026-10-08
 34.79.144.93,recon,software,Redis unauthenticated fingerprint sweep,[recon|redis|info],2026-09-14,2026-09-14
 34.79.173.109,recon,scanner,Crusader scanner probe,[crusader|scanner|credential-theft|git],2026-09-05,2026-09-05
 34.81.20.250,recon,software,Spring Boot Actuator env probe,[actuator|http|java|spring|crusader|scanner|recon],2026-08-27,2026-08-27
@@ -14575,6 +14597,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 106.75.8.241,recon,software,Exposed AI/ML API probe (OpenAI-compatible or vector DB),[ai|api],2026-07-14,2026-07-14
 106.75.12.228,recon,software,Exposed AI/ML API probe (OpenAI-compatible or vector DB),[ai|api],2026-08-04,2026-08-04
 106.75.13.75,recon,ics,Modbus device identification,[ics|modbus],2026-10-05,2026-10-05
+106.75.16.170,recon,ics,Modbus device identification,[ics|modbus],2026-10-08,2026-10-08
 106.75.191.164,recon,voip,,[sipvicious|dns|fingerprint],2026-05-15,2026-07-02
 106.75.223.98,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-09-08,2026-09-09
 106.117.106.128,recon,pptp,Nmap PPTP scan,[nmap|pptp|scanner],2026-06-30,2026-06-30
@@ -15103,6 +15126,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 144.91.88.179,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-08-25,2026-08-27
 144.91.95.229,recon,sip,SIPVicious VoIP toll-fraud scanner,[friendly-scanner|recon|sip|sipvicious|voip],2026-08-22,2026-08-27
 144.126.139.56,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-07-08,2026-08-08
+144.172.64.19,recon,software,Redis INFO probe,[info|redis],2026-10-08,2026-10-08
 144.172.68.56,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-08-30,2026-09-02
 144.172.86.141,recon,sip,SIP VoIP toll-fraud scanner,[friendly-scanner|sip|sipvicious|voip],2026-09-30,2026-10-01
 144.172.88.59,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-08-03,2026-08-09
@@ -16767,7 +16791,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 212.47.235.5,recon,http,HTTP-only sweep (63 requests),[http|credential-harvest|actuator|java|spring|recon],2026-07-19,2026-07-19
 212.50.177.79,recon,docker,Docker Swarm secrets enumeration,[credential-harvest|docker],2026-08-11,2026-08-11
 212.83.140.90,recon,pptp,Nmap PPTP scan,[nmap|pptp|scanner],2026-08-23,2026-08-23
-212.83.170.244,recon,voip,pplsip SIP bruteforce tool,[bruteforce|pplsip|sip|voip],2026-07-02,2026-10-07
+212.83.170.244,recon,voip,pplsip SIP bruteforce tool,[bruteforce|pplsip|sip|voip],2026-07-02,2026-10-08
 212.83.176.122,recon,sip,SIPVicious VoIP toll-fraud scanner,[friendly-scanner|recon|sip|sipvicious|voip],2026-08-14,2026-08-14
 212.83.186.8,recon,voip,"SIP-only, high connect volume",[sip|voip|friendly-scanner|recon|sipvicious],2026-04-17,2026-09-04
 212.87.221.17,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-09-21,2026-10-08
