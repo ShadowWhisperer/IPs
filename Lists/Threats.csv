@@ -36,7 +36,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 14.202.87.215,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-09-25,2026-09-25
 14.232.58.9,abuse,proxy-abuse,SSH port-forward abuse (external IP-check tunnel),[abuse|proxy|ssh-tunnel],2026-09-12,2026-09-12
 14.240.187.61,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-10-12,2026-10-12
-16.5.0.234,abuse,ddos-reflector,DNS amplification query (confirmed non-spoofed via prior fingerprint/query),[amplification|ddos|dns|reflector|masscan|scanner],2026-10-04,2026-10-17
+16.5.0.234,abuse,ddos-reflector,DNS amplification query (confirmed non-spoofed via prior fingerprint/query),[amplification|ddos|dns|reflector|masscan|scanner],2026-10-04,2026-10-04
 16.5.0.254,abuse,ddos-reflector,DNS amplification query (confirmed non-spoofed via prior fingerprint/query),[amplification|ddos|dns|reflector|masscan|scanner],2026-08-28,2026-09-09
 23.30.11.253,abuse,proxy-abuse,SSH port-forward abuse (relay pivot to external host),[abuse|pivot|proxy|ssh-tunnel|ssh],2026-08-14,2026-08-14
 23.245.207.118,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-10-10,2026-10-10
@@ -98,7 +98,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 38.25.162.28,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-10-12,2026-10-12
 38.34.239.203,abuse,proxy-abuse,SSH port-forward abuse (external IP-check tunnel),[abuse|proxy|ssh-tunnel],2026-09-16,2026-09-16
 38.50.70.97,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-10-09,2026-10-09
-38.127.62.61,abuse,ddos-reflector,DNS amplification query (confirmed non-spoofed via prior fingerprint/query),[amplification|ddos|dns|reflector|fingerprint],2026-07-24,2026-07-23
+38.127.62.61,abuse,ddos-reflector,DNS amplification query (confirmed non-spoofed via prior fingerprint/query),[amplification|ddos|dns|reflector|fingerprint],2026-07-24,2026-07-24
 38.236.53.116,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-09-24,2026-09-24
 38.236.53.238,abuse,proxy-abuse,SSH port-forward abuse (external IP-check tunnel),[abuse|proxy|ssh-tunnel],2026-09-12,2026-09-12
 39.34.13.11,abuse,proxy-abuse,SSH port-forward abuse (external IP-check tunnel),[abuse|proxy|ssh-tunnel],2026-09-16,2026-09-16
@@ -241,7 +241,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 45.87.214.23,abuse,proxy-abuse,SSH port-forward abuse (external IP-check tunnel),[abuse|proxy|ssh-tunnel],2026-09-17,2026-09-17
 45.93.7.132,abuse,proxy-abuse,SSH port-forward abuse (external IP-check tunnel),[abuse|proxy|ssh-tunnel],2026-09-08,2026-09-08
 45.153.34.158,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-05-06,2026-08-13
-45.153.34.226,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[fuzz|ics|modbus|abuse|proxy|ssh|ssh-tunnel],2026-08-12,2026-08-12
+45.153.34.226,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[fuzz|ics|modbus|abuse|proxy|ssh|ssh-tunnel],2026-08-12,2026-08-11
 45.154.244.149,abuse,proxy-abuse,SSH port-forward abuse (external IP-check tunnel),[abuse|proxy|ssh-tunnel],2026-07-22,2026-08-02
 45.154.244.193,abuse,proxy-abuse,SSH port-forward abuse (external IP-check tunnel),[credential stuffing|abuse|proxy|ssh-tunnel],2026-08-03,2026-09-01
 45.156.87.146,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-09-16,2026-09-20
@@ -386,7 +386,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 74.50.211.42,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-10-03,2026-10-03
 74.78.35.30,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-10-10,2026-10-10
 75.89.213.188,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-10-12,2026-10-12
-75.127.6.2,abuse,ddos-reflector,DNS amplification query (confirmed non-spoofed via prior fingerprint/query),[scanner|zmap|dns|fingerprint|amplification|ddos|reflector],2026-08-02,2026-09-18
+75.127.6.2,abuse,ddos-reflector,DNS amplification query (confirmed non-spoofed via prior fingerprint/query),[scanner|zmap|dns|fingerprint|amplification|ddos|reflector],2026-08-02,2026-09-30
 76.87.219.84,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-09-24,2026-09-24
 77.70.12.63,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-10-12,2026-10-12
 77.90.185.17,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-03-06,2026-10-03
@@ -875,12 +875,12 @@ ip,category,detail,note,tags,first_seen,last_seen
 130.12.181.23,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-08-11,2026-09-20
 130.12.182.98,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-08-11,2026-08-11
 130.12.182.107,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-07-05,2026-09-20
-130.12.182.110,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[fuzz|ics|modbus|abuse|proxy|ssh|ssh-tunnel],2026-08-15,2026-08-15
+130.12.182.110,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[fuzz|ics|modbus|abuse|proxy|ssh|ssh-tunnel],2026-08-15,2026-09-20
 130.12.182.224,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-08-13,2026-08-13
 130.12.182.225,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-08-11,2026-08-14
 130.12.182.227,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-09-13,2026-09-13
 130.12.182.230,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-08-11,2026-08-11
-130.94.12.130,abuse,ddos-reflector,DNS amplification query (confirmed non-spoofed via prior fingerprint/query),[amplification|ddos|dns|reflector|fingerprint],2026-09-09,2026-09-08
+130.94.12.130,abuse,ddos-reflector,DNS amplification query (confirmed non-spoofed via prior fingerprint/query),[amplification|ddos|dns|reflector|fingerprint],2026-09-09,2026-09-09
 130.185.96.113,abuse,proxy-abuse,SSH port-forward abuse (relay pivot to external host),[abuse|pivot|proxy|ssh-tunnel|ssh],2026-08-14,2026-08-14
 130.185.101.86,abuse,proxy-abuse,SSH port-forward abuse (relay pivot to external host),[abuse|pivot|proxy|ssh-tunnel|ssh],2026-08-14,2026-08-14
 131.221.174.172,abuse,proxy-abuse,SSH port-forward abuse (external IP-check tunnel),[abuse|proxy|ssh-tunnel],2026-09-15,2026-09-15
@@ -1023,6 +1023,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 175.215.195.81,abuse,proxy-abuse,SSH port-forward abuse (external IP-check tunnel),[abuse|proxy|ssh-tunnel],2026-09-17,2026-09-17
 176.53.159.54,abuse,proxy-abuse,SSH port-forward abuse (external IP-check tunnel),[abuse|proxy|ssh-tunnel],2026-07-11,2026-07-29
 176.53.159.196,abuse,proxy-abuse,SSH port-forward abuse (external IP-check tunnel),[abuse|proxy|ssh-tunnel],2026-07-01,2026-10-10
+176.65.148.252,abuse,ddos-reflector,DNS amplification query (confirmed non-spoofed via prior fingerprint/query),[amplification|ddos|dns|reflector|fingerprint|scanner|zmap],2026-07-07,2026-08-31
 176.172.239.193,abuse,proxy-abuse,SSH port-forward abuse (relay pivot to external host),[abuse|pivot|proxy|ssh-tunnel|ssh],2026-08-16,2026-08-16
 177.61.137.26,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-09-26,2026-09-26
 177.69.131.171,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-09-26,2026-09-26
@@ -1291,7 +1292,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 197.219.208.58,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-09-19,2026-09-19
 197.255.201.206,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-09-26,2026-09-26
 197.255.204.50,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-09-19,2026-09-19
-198.98.53.107,abuse,ddos-reflector,DNS amplification query (confirmed non-spoofed via prior fingerprint/query),[amplification|ddos|dns|reflector|fingerprint],2026-08-11,2026-09-14
+198.98.53.107,abuse,ddos-reflector,DNS amplification query (confirmed non-spoofed via prior fingerprint/query),[amplification|ddos|dns|reflector|fingerprint],2026-08-11,2026-09-16
 199.102.154.104,abuse,proxy-abuse,SSH port-forward abuse (external IP-check tunnel),[abuse|proxy|ssh-tunnel],2026-09-12,2026-09-12
 200.3.26.3,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-09-24,2026-09-24
 200.9.163.170,abuse,proxy-abuse,SSH port-forward abuse (HTTPS proxy tunnel to external host),[abuse|proxy|ssh|ssh-tunnel],2026-10-11,2026-10-11
@@ -1605,7 +1606,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 5.77.21.39,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-09-25,2026-09-25
 5.78.56.87,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-19,2026-07-19
 5.88.119.21,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-30,2026-10-15
-5.89.75.194,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-13,2026-09-16
+5.89.75.194,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-13,2026-10-17
 5.99.196.202,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-03,2026-09-30
 5.104.176.168,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-09-06,2026-09-06
 5.129.182.33,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-07-20,2026-07-20
@@ -1912,7 +1913,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 20.124.84.235,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-24,2026-10-08
 20.141.30.9,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-29,2026-09-29
 20.153.204.5,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-09,2026-09-23
-20.157.117.15,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-22,2026-10-12
+20.157.117.15,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-22,2026-10-17
 20.160.86.7,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-24,2026-10-12
 20.184.59.236,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-08,2026-09-08
 20.192.5.254,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-21,2026-07-31
@@ -7103,6 +7104,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 187.194.139.92,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-16,2026-10-16
 187.198.222.42,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-08-11,2026-08-11
 187.200.120.150,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-08-31,2026-08-31
+187.204.177.171,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-17,2026-10-17
 187.207.48.99,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-29,2026-08-29
 187.212.1.182,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-03,2026-07-18
 187.212.17.164,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-06,2026-10-06
@@ -8188,14 +8190,14 @@ ip,category,detail,note,tags,first_seen,last_seen
 5.135.117.195,exploit,rce,CVE-2015-8103,[java|jenkins|rce|software|dlink|hnap|iot|router],2026-10-07,2026-10-07
 5.180.179.16,exploit,rce,CVE-2001-0537,[cisco|http|rce|router|dlink|hnap|iot],2026-09-01,2026-09-01
 5.180.179.95,exploit,rce,CVE-2001-0537,[cisco|http|rce|router],2026-09-01,2026-09-01
-5.187.35.26,exploit,path-traversal,Generic path traversal probe (/etc/passwd),[multi-port|nmap|recon|scanner|masscan|fuzz|ics|modbus|http|path-traversal],2026-05-21,2026-07-16
+5.187.35.26,exploit,path-traversal,Generic path traversal probe (/etc/passwd),[multi-port|nmap|recon|scanner|masscan|fuzz|ics|modbus|http|path-traversal],2026-05-21,2026-07-12
 5.187.35.142,exploit,path-traversal,Generic path traversal probe (/etc/passwd),[multi-port|http|path-traversal],2026-05-21,2026-07-11
 5.231.32.25,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal],2026-07-29,2026-07-29
 5.252.26.87,exploit,rce,FreePBX unauthenticated command injection,[http|credential-harvest|actuator|java|spring|freepbx|rce|credential-theft|database|sql],2026-09-15,2026-09-15
 8.134.112.34,exploit,rce,Redis unauthenticated persistence write (cron),[cron|persistence|rce|redis|module-load|reverse-shell|info],2026-07-18,2026-07-18
 8.134.188.179,exploit,rce,Redis replication hijack RCE (MODULE LOAD + system.exec),[module-load|rce|redis|reverse-shell|cron|persistence|info],2026-08-07,2026-08-07
 8.136.189.162,exploit,rce,CVE-2017-9841 (redtail),[infected|crypto|php|rce|redtail|software|apache|traversal],2026-06-23,2026-07-11
-8.138.19.119,exploit,rce,Redis replication hijack RCE (MODULE LOAD + system.exec),[module-load|rce|redis|reverse-shell|cron|persistence|info],2026-07-22,2026-07-22
+8.138.19.119,exploit,rce,Redis replication hijack RCE (MODULE LOAD + system.exec),[module-load|rce|redis|reverse-shell|cron|persistence|info],2026-07-22,2026-08-11
 8.147.64.214,exploit,rce,Redis replication hijack RCE (MODULE LOAD + system.exec),[module-load|rce|redis|reverse-shell|cron|persistence|info],2026-08-21,2026-08-21
 8.148.232.209,exploit,rce,Redis replication hijack RCE (MODULE LOAD + system.exec),[module-load|rce|redis|reverse-shell|cron|persistence|info],2026-07-21,2026-07-21
 8.154.38.224,exploit,rce,Redis unauthenticated persistence write (cron),[cron|persistence|rce|redis|module-load|reverse-shell|info],2026-07-23,2026-07-23
@@ -8213,14 +8215,14 @@ ip,category,detail,note,tags,first_seen,last_seen
 13.83.90.155,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|apache|software|traversal|http],2026-04-27,2026-09-13
 14.212.225.66,exploit,router,CVE-2025-34037,[router|http|linksys|cve|iot],2026-08-19,2026-08-19
 16.5.0.130,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-08-20,2026-08-20
-16.5.0.132,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|amplification|ddos|dns|reflector|masscan|scanner],2026-08-21,2026-09-06
+16.5.0.132,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|amplification|ddos|dns|reflector|masscan|scanner],2026-08-21,2026-08-26
 16.5.0.133,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|masscan|scanner],2026-08-26,2026-09-06
 16.5.0.180,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox],2026-09-29,2026-09-29
 16.5.0.183,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox],2026-09-29,2026-09-29
 16.5.0.238,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox|masscan|scanner],2026-09-21,2026-09-24
 16.5.0.239,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox|masscan|scanner],2026-09-21,2026-10-06
 16.5.0.240,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox|masscan|scanner],2026-09-21,2026-09-24
-16.5.0.241,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox|masscan|scanner],2026-10-14,2026-10-17
+16.5.0.241,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox|masscan|scanner],2026-10-14,2026-10-15
 16.5.0.242,exploit,router,CVE-2018-14847,[masscan|scanner|credential-disclosure|mikrotik|router|winbox],2026-09-05,2026-09-24
 16.5.0.244,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-09-07,2026-09-07
 16.5.0.245,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|masscan|scanner],2026-09-06,2026-09-09
@@ -8595,29 +8597,24 @@ ip,category,detail,note,tags,first_seen,last_seen
 44.248.17.4,exploit,wordpress,CVE-2026-63030,[rce|sql|wordpress|api|http],2026-08-01,2026-08-02
 45.33.12.122,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|masscan|scanner|fuzz|ics|modbus],2026-05-21,2026-10-04
 45.33.12.214,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus|credential-disclosure|winbox],2026-05-21,2026-10-10
-45.33.14.5,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus|credential-disclosure|winbox],2026-05-21,2026-10-13
-45.33.14.197,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus|credential-disclosure|winbox],2026-05-21,2026-09-19
-45.33.109.8,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus],2026-05-21,2026-10-06
-45.33.109.18,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|masscan|scanner|fuzz|ics|modbus|credential-disclosure|winbox|nmap],2026-05-21,2026-09-30
+45.33.14.5,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus|credential-disclosure|winbox],2026-05-21,2026-09-17
+45.33.14.197,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus|credential-disclosure|winbox],2026-05-21,2026-10-13
+45.33.109.8,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus],2026-05-21,2026-09-17
+45.33.109.18,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|masscan|scanner|fuzz|ics|modbus|credential-disclosure|winbox|nmap],2026-05-21,2026-08-26
 45.43.37.254,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|infected|handshake|mirai|worm],2026-03-31,2026-09-26
 45.56.79.53,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus|credential-disclosure|winbox],2026-05-21,2026-09-08
 45.61.185.200,exploit,wordpress,CVE-2026-63030,[rce|sql|wordpress|api|http],2026-07-22,2026-07-22
-45.61.188.204,exploit,router,CVE-2018-14847,[sip|voip|cve|mikrotik|router|rce|nmap|recon|scanner|bruteforce|pplsip|vnc|remote|masscan|fuzz|ics|modbus],2026-07-08,2026-10-09
+45.61.188.204,exploit,router,CVE-2018-14847,[sip|voip|cve|mikrotik|router|rce|nmap|recon|scanner|bruteforce|pplsip|vnc|remote|masscan|fuzz|ics|modbus],2026-07-08,2026-08-27
 45.79.5.11,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus|credential-disclosure|winbox],2026-05-21,2026-10-11
 45.79.8.221,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus|credential-disclosure|winbox],2026-05-21,2026-10-04
 45.79.115.59,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus],2026-05-21,2026-10-04
-45.79.115.134,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus|credential-disclosure|winbox],2026-05-21,2026-09-21
 45.79.120.189,exploit,rce,CVE-2017-9841 (redtail),[docker|crypto|php|rce|redtail|software|apache|traversal],2026-07-09,2026-07-10
-45.79.149.50,exploit,router,CVE-2018-14847,[fuzz|ics|modbus|credential-disclosure|mikrotik|router|winbox],2026-06-07,2026-09-21
-45.79.149.61,exploit,router,CVE-2018-14847,[remote|vnc|cve|mikrotik|router|rce|fuzz|ics|modbus|masscan|scanner],2026-05-27,2026-09-21
-45.79.207.71,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|nmap|recon|scanner|vnc|remote|masscan|fuzz|ics|modbus],2026-05-21,2026-09-07
+45.79.149.50,exploit,router,CVE-2018-14847,[fuzz|ics|modbus|credential-disclosure|mikrotik|router|winbox],2026-06-07,2026-10-13
 45.79.207.110,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|masscan|scanner|fuzz|ics|modbus|credential-disclosure|winbox],2026-05-21,2026-10-06
-45.79.207.111,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus],2026-05-21,2026-10-01
-45.79.207.129,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus|credential-disclosure|winbox],2026-05-21,2026-10-13
+45.79.207.111,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus],2026-05-21,2026-08-21
 45.79.207.252,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus|credential-disclosure|winbox],2026-05-21,2026-09-15
-45.79.211.97,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|nmap|recon|scanner|vnc|remote|masscan|fuzz|ics|modbus|credential-disclosure|winbox],2026-05-21,2026-10-09
 45.82.78.100,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|masscan|scanner|credential-disclosure|winbox],2026-05-21,2026-09-30
-45.82.78.102,exploit,rce,CVE-2017-0144,[multi-port|eternalblue|rce|smb|windows|masscan|scanner|credential-disclosure|mikrotik|router|winbox],2026-05-21,2026-10-12
+45.82.78.102,exploit,rce,CVE-2017-0144,[multi-port|eternalblue|rce|smb|windows|masscan|scanner|credential-disclosure|mikrotik|router|winbox],2026-05-21,2026-10-10
 45.82.78.106,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|eternalblue|smb|windows|ics|modbus|write|masscan|scanner|fuzz],2026-05-21,2026-08-23
 45.82.78.107,exploit,rce,CVE-2017-0144,[eternalblue|rce|smb|windows|cve|mikrotik|router|ics|modbus|write|masscan|scanner|fuzz],2026-05-09,2026-07-24
 45.82.78.108,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|eternalblue|smb|windows|ics|modbus|write|masscan|scanner|fuzz],2026-05-21,2026-07-23
@@ -8625,7 +8622,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 45.120.161.104,exploit,router,CVE-2018-10561,[gpon|iot|mozi|router|rce],2026-07-22,2026-07-22
 45.133.181.46,exploit,wordpress,CVE-2026-63030,[rce|sql|wordpress|api|http],2026-07-28,2026-07-28
 45.142.193.149,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|fortinet|vpn],2026-06-11,2026-10-16
-45.148.9.14,exploit,router,CVE-2018-14847,[sip|voip|cve|mikrotik|router|rce|friendly-scanner|recon|sipvicious|nmap|scanner|vnc|remote|masscan|fuzz|ics|modbus],2026-08-22,2026-09-16
+45.148.9.14,exploit,router,CVE-2018-14847,[sip|voip|cve|mikrotik|router|rce|friendly-scanner|recon|sipvicious|nmap|scanner|vnc|remote|masscan|fuzz|ics|modbus],2026-08-22,2026-09-15
 45.153.34.231,exploit,router,CVE-2020-25506,[http|dlink|iot|mozi|router|rce],2026-07-09,2026-07-09
 45.154.155.23,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-07-09,2026-07-09
 45.163.68.69,exploit,router,CVE-2016-6277,[iot|mozi|netgear|router|rce],2026-09-20,2026-09-20
@@ -8670,7 +8667,6 @@ ip,category,detail,note,tags,first_seen,last_seen
 47.236.237.107,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|credential-disclosure|winbox],2026-09-13,2026-09-13
 47.237.12.254,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-09-16,2026-09-16
 47.238.194.115,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox],2026-09-26,2026-09-26
-47.242.200.131,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox|masscan|scanner],2026-07-08,2026-07-09
 47.250.55.42,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-09-08,2026-09-08
 47.250.57.127,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox],2026-10-14,2026-10-14
 47.250.142.113,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox],2026-10-06,2026-10-06
@@ -8687,7 +8683,6 @@ ip,category,detail,note,tags,first_seen,last_seen
 49.234.51.180,exploit,rce,Redis unauthenticated persistence write (cron),[cron|persistence|rce|redis|module-load|reverse-shell|info],2026-09-05,2026-09-05
 50.6.251.8,exploit,rce,CVE-2021-41773 / CVE-2021-42013,[apache|rce|software|traversal],2026-09-01,2026-09-01
 50.116.26.161,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|masscan|scanner|fuzz|ics|modbus],2026-05-21,2026-10-10
-50.116.49.221,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|nmap|recon|scanner|vnc|remote],2026-06-17,2026-07-26
 50.116.58.253,exploit,wordpress,CVE-2026-4020,[gravitysmtp|info-disclosure|wordpress|api|http|ivanti|mdm|mobileiron],2026-10-06,2026-10-16
 54.169.78.183,exploit,wordpress,CVE-2026-63030,[rce|sql|wordpress|api|http],2026-08-02,2026-08-02
 58.59.233.137,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox],2026-08-05,2026-08-05
@@ -8703,17 +8698,18 @@ ip,category,detail,note,tags,first_seen,last_seen
 64.118.136.109,exploit,wordpress,CVE-2026-63030,[rce|sql|wordpress|api|http],2026-08-12,2026-08-12
 66.228.53.162,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|fuzz|ics|modbus],2026-05-21,2026-10-13
 66.228.53.204,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus],2026-08-15,2026-09-27
-66.228.62.150,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|masscan|scanner|fuzz|ics|modbus|nmap|credential-disclosure|winbox],2026-05-21,2026-10-16
-69.164.217.74,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus|credential-disclosure|winbox],2026-05-21,2026-10-08
-69.164.217.245,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus],2026-05-21,2026-09-17
+66.228.62.150,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|masscan|scanner|fuzz|ics|modbus|nmap|credential-disclosure|winbox],2026-05-21,2026-08-13
+69.164.217.74,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus|credential-disclosure|winbox],2026-05-21,2026-07-21
+69.164.217.245,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus],2026-05-21,2026-09-05
+71.6.134.204,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|vnc|remote|masscan|scanner|info|redis|dns|fingerprint],2026-07-01,2026-09-19
 71.6.134.229,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|masscan|scanner|dns|fingerprint|credential-disclosure|winbox],2026-08-25,2026-08-10
-71.6.134.230,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|vnc|remote|masscan|scanner|dns|fingerprint],2026-03-16,2026-08-03
+71.6.134.230,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|vnc|remote|masscan|scanner|dns|fingerprint],2026-03-16,2026-08-07
 71.6.134.231,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|credential-disclosure|winbox|masscan|scanner],2026-05-21,2026-10-13
-71.6.134.232,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|vnc|remote|masscan|scanner|dns|fingerprint],2026-05-21,2026-10-06
+71.6.134.232,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|vnc|remote|masscan|scanner|dns|fingerprint],2026-05-21,2026-10-01
 71.6.134.234,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|masscan|scanner|dns|fingerprint],2026-05-21,2026-10-15
-71.6.134.236,exploit,router,CVE-2018-14847,[remote|vnc|masscan|scanner|info|redis|dns|fingerprint|credential-disclosure|mikrotik|router|winbox],2026-07-04,2026-10-01
-71.6.134.237,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox|vnc|remote|masscan|scanner|dns|fingerprint],2026-07-14,2026-09-01
-72.14.178.148,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|masscan|scanner|fuzz|ics|modbus|credential-disclosure|winbox],2026-05-21,2026-10-12
+71.6.134.236,exploit,router,CVE-2018-14847,[remote|vnc|masscan|scanner|info|redis|dns|fingerprint|credential-disclosure|mikrotik|router|winbox],2026-07-04,2026-09-13
+71.6.134.237,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox|vnc|remote|masscan|scanner|dns|fingerprint],2026-07-14,2026-07-14
+72.14.178.148,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|masscan|scanner|fuzz|ics|modbus|credential-disclosure|winbox],2026-05-21,2026-10-06
 72.173.80.89,exploit,router,CVE-2016-6277,[iot|mozi|netgear|router|rce],2026-08-31,2026-08-31
 72.217.109.13,exploit,rce,CVE-2021-41773 / CVE-2021-42013,[apache|rce|software|traversal],2026-08-31,2026-08-31
 72.255.18.47,exploit,rce,HTTP path command injection (Mirai-family router RCE),[iot|mirai|rce|router|download|infected|worm],2026-10-13,2026-10-13
@@ -8724,7 +8720,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 77.40.53.84,exploit,router,Tenda router unauthenticated debug config,[rce|router|tenda],2026-08-24,2026-08-24
 77.83.240.70,exploit,router,CVE-2018-14847,[sip|voip|cve|mikrotik|router|rce|friendly-scanner|recon|sipvicious|nmap|scanner|vnc|remote|masscan|fuzz|ics|modbus|credential-disclosure|winbox],2026-04-08,2026-10-04
 77.90.185.93,exploit,router,CVE-2018-14847,[ics|modbus|fuzz|credential-disclosure|mikrotik|router|winbox],2026-10-04,2026-10-04
-77.91.71.3,exploit,router,CVE-2024-23108 (SonicWall SSL-VPN RCE),[cve|router|sonicwall|vpn|fortinet|recon],2026-08-05,2026-08-05
+77.91.71.3,exploit,router,CVE-2024-23108 (SonicWall SSL-VPN RCE),[cve|router|sonicwall|vpn|fortinet|recon],2026-08-05,2026-08-06
 77.96.157.88,exploit,xss,CVE-2005-3955,[cve|http|magpierss|xss],2026-08-12,2026-08-12
 77.102.232.57,exploit,rce,CVE-2010-0738 / CVE-2015-7501 (JBoss jmx-console/invoker RCE),[deserialization|http|jboss|rce],2026-08-12,2026-08-12
 77.103.62.195,exploit,rce,CVE-2010-0738 / CVE-2015-7501 (JBoss jmx-console/invoker RCE),[deserialization|http|jboss|rce],2026-08-12,2026-08-12
@@ -8890,8 +8886,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 118.89.120.186,exploit,rce,Redis unauthenticated persistence write (cron),[cron|persistence|rce|redis|module-load|reverse-shell|info],2026-07-17,2026-07-17
 118.179.19.31,exploit,wordpress,CVE-2026-63030,[rce|sql|wordpress|api|http],2026-07-28,2026-07-28
 118.193.47.114,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|credential-disclosure|winbox],2026-08-25,2026-08-25
-118.193.59.194,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|credential-disclosure|winbox|info|redis],2026-04-16,2026-07-27
-118.194.248.4,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|config|credential-theft|http|dns|fingerprint],2026-03-29,2026-10-14
+118.194.248.4,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|config|credential-theft|http|dns|fingerprint],2026-03-29,2026-08-03
 118.196.56.74,exploit,rce,CVE-2012-1823 (PHP-CGI argument injection),[php|rce|software|infected|apache|traversal],2026-05-02,2026-08-03
 119.160.215.115,exploit,rce,Redis replication hijack RCE (MODULE LOAD + system.exec),[module-load|rce|redis|reverse-shell|cron|persistence|info],2026-09-15,2026-09-15
 120.26.225.191,exploit,rce,Redis replication hijack RCE (MODULE LOAD + system.exec),[module-load|rce|redis|reverse-shell|cron|persistence|info],2026-07-29,2026-07-29
@@ -8960,7 +8955,6 @@ ip,category,detail,note,tags,first_seen,last_seen
 146.148.125.103,exploit,rce,CVE-2017-0144,[eternalblue|rce|smb|windows],2026-07-14,2026-07-14
 146.190.100.196,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|actuator|http|java|spring|recon],2026-07-20,2026-07-20
 148.101.41.95,exploit,rce,CVE-2010-0738 / CVE-2015-7501 (JBoss jmx-console/invoker RCE),[deserialization|http|jboss|rce],2026-10-13,2026-10-13
-148.153.56.170,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox|dns|fingerprint],2026-05-12,2026-08-18
 149.104.110.163,exploit,wordpress,CVE-2026-63030,[http|rce|sql|wordpress|api],2026-08-13,2026-08-14
 149.255.175.138,exploit,rce,CVE-2017-10271,[deserialization|rce|weblogic],2026-08-12,2026-08-12
 151.15.246.141,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-08-19,2026-08-19
@@ -9004,7 +8998,6 @@ ip,category,detail,note,tags,first_seen,last_seen
 151.245.151.241,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox],2026-10-06,2026-10-06
 152.32.133.206,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|credential-disclosure|winbox],2026-08-30,2026-10-07
 152.32.157.92,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-08-30,2026-08-30
-152.32.160.252,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|credential-disclosure|winbox|dns|fingerprint],2026-05-03,2026-09-12
 152.32.170.42,exploit,router,CVE-2018-14847,[sipvicious|cve|mikrotik|router|rce|credential-disclosure|winbox],2026-05-15,2026-07-13
 152.32.172.234,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|credential-disclosure|winbox],2026-08-21,2026-08-21
 152.32.175.45,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http],2026-07-20,2026-07-20
@@ -9031,15 +9024,15 @@ ip,category,detail,note,tags,first_seen,last_seen
 156.225.1.18,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|credential-disclosure|winbox],2026-08-22,2026-08-22
 156.225.1.30,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox],2026-09-18,2026-09-18
 156.225.1.32,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|credential-disclosure|winbox],2026-08-30,2026-08-30
-156.225.1.34,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|credential-disclosure|winbox|nmap|pptp|scanner],2026-08-02,2026-08-27
+156.225.1.34,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|credential-disclosure|winbox|nmap|pptp|scanner],2026-08-02,2026-08-02
 156.225.1.38,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|credential-disclosure|winbox],2026-07-14,2026-07-14
-156.225.1.39,exploit,router,CVE-2018-14847,[dns|fingerprint|credential-disclosure|mikrotik|router|winbox],2026-07-10,2026-07-10
+156.225.1.39,exploit,router,CVE-2018-14847,[dns|fingerprint|credential-disclosure|mikrotik|router|winbox],2026-07-10,2026-10-06
 156.225.1.90,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|credential-disclosure|winbox|ai|api],2026-07-24,2026-07-20
 156.225.1.91,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|credential-disclosure|winbox],2026-09-09,2026-09-09
 156.225.1.92,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox],2026-09-26,2026-09-26
 156.225.1.101,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|credential-disclosure|winbox],2026-08-11,2026-08-11
 156.225.1.105,exploit,router,CVE-2018-14847,[ai|api|credential-disclosure|mikrotik|router|winbox],2026-08-11,2026-08-11
-156.225.1.109,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|credential-disclosure|winbox|dns|fingerprint],2026-08-03,2026-07-26
+156.225.1.109,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|credential-disclosure|winbox|dns|fingerprint],2026-08-03,2026-08-03
 156.225.1.115,exploit,router,CVE-2018-14847,[ai|api|credential-disclosure|mikrotik|router|winbox],2026-09-22,2026-10-16
 157.51.86.199,exploit,wordpress,CVE-2026-63030,[rce|sql|wordpress|api|http],2026-07-28,2026-07-28
 157.245.77.241,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-08-26,2026-08-26
@@ -9058,7 +9051,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 165.154.50.248,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|credential-disclosure|winbox],2026-09-16,2026-09-16
 165.154.104.88,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|credential-disclosure|winbox],2026-08-18,2026-08-18
 165.154.133.163,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-09-15,2026-09-15
-165.154.163.10,exploit,router,CVE-2018-14847,[multi-port|masscan|scanner|ics|modbus|fuzz|nmap|pptp|dns|fingerprint|credential-disclosure|mikrotik|router|winbox],2026-05-21,2026-08-23
+165.154.163.10,exploit,router,CVE-2018-14847,[multi-port|masscan|scanner|ics|modbus|fuzz|nmap|pptp|dns|fingerprint|credential-disclosure|mikrotik|router|winbox],2026-05-21,2026-08-26
 165.154.218.226,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal],2026-09-26,2026-09-26
 165.245.172.73,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal],2026-08-22,2026-08-31
 166.0.100.70,exploit,rce,Redis unauthenticated persistence write (cron),[cron|persistence|rce|redis|info|human|ssh],2026-10-04,2026-10-15
@@ -9077,22 +9070,22 @@ ip,category,detail,note,tags,first_seen,last_seen
 172.235.41.110,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|fuzz|ics|modbus|masscan|scanner],2026-06-10,2026-10-16
 172.236.17.214,exploit,rce,CVE-2021-41773 / CVE-2021-42013,[apache|rce|software|traversal|http|globalprotect|paloalto|vpn|credential-harvest|nextjs|ssrf|ai|api|credential-theft|php|symfony|phpinfo|cisco|database|sql|rds|rdweb|windows|docker|registry|aws|azure|cloud|git|fortinet|actuator|java|spring|server-status|recon],2026-09-17,2026-09-19
 172.236.28.161,exploit,wordpress,CVE-2026-4020,[api|http|wordpress|gravitysmtp|info-disclosure],2026-10-04,2026-10-04
-172.236.127.133,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|vnc|remote|fuzz|ics|modbus|masscan|scanner],2026-05-21,2026-07-19
 172.236.228.38,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox|nmap|scanner|masscan|fuzz|ics|modbus],2026-05-21,2026-10-03
-172.236.228.39,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus|credential-disclosure|winbox],2026-07-22,2026-08-23
+172.236.228.39,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus|credential-disclosure|winbox],2026-07-22,2026-08-03
 172.236.228.86,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus],2026-05-21,2026-10-01
-172.236.228.111,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|vnc|remote|masscan|scanner|ics|modbus|fuzz],2026-05-21,2026-09-22
-172.236.228.115,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus|credential-disclosure|winbox],2026-07-26,2026-09-15
-172.236.228.202,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|nmap|recon|scanner|vnc|remote|masscan|fuzz|ics|modbus],2026-07-07,2026-10-09
-172.236.228.220,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|masscan|scanner|ics|modbus],2026-05-13,2026-10-13
-172.236.228.245,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|masscan|scanner|fuzz|ics|modbus|vnc|remote],2026-05-21,2026-08-10
-172.236.239.55,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|vnc|remote|fuzz|ics|modbus],2026-06-21,2026-08-23
+172.236.228.111,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|vnc|remote|masscan|scanner|ics|modbus|fuzz],2026-05-21,2026-10-01
+172.236.228.115,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus|credential-disclosure|winbox],2026-07-26,2026-07-28
+172.236.228.193,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|nmap|recon|scanner|vnc|remote|masscan|fuzz|ics|modbus],2026-07-28,2026-09-14
+172.236.228.208,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|fuzz|ics|modbus|nmap|scanner|masscan],2026-05-21,2026-08-18
+172.236.228.220,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|masscan|scanner|ics|modbus],2026-05-13,2026-08-26
+172.236.228.227,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|nmap|recon|scanner|vnc|remote|masscan|fuzz|ics|modbus],2026-06-10,2026-09-12
+172.236.228.245,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|masscan|scanner|fuzz|ics|modbus|vnc|remote],2026-05-21,2026-10-03
 172.239.64.155,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|credential-disclosure|winbox|nmap|scanner|masscan|fuzz|ics|modbus],2026-06-10,2026-07-14
 172.239.71.244,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox|nmap|scanner|masscan|fuzz|ics|modbus],2026-06-29,2026-08-30
 173.239.201.22,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|ics|modbus|write],2026-07-09,2026-07-09
 173.239.247.7,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-07-15,2026-07-15
 173.244.56.190,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce],2026-08-12,2026-08-12
-173.255.221.189,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|vnc|remote|masscan|scanner|fuzz|ics|modbus|credential-disclosure|winbox|nmap],2026-05-21,2026-10-10
+173.255.221.189,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|vnc|remote|masscan|scanner|fuzz|ics|modbus|credential-disclosure|winbox|nmap],2026-05-21,2026-09-30
 173.255.225.15,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus],2026-09-05,2026-08-17
 175.27.227.106,exploit,rce,CVE-2012-1823 (PHP-CGI argument injection),[php|rce|software|apache|traversal],2026-07-27,2026-07-27
 175.107.233.227,exploit,rce,HTTP path command injection (Mirai-family router RCE),[download|infected|iot|worm|mirai|rce|router],2026-09-03,2026-09-03
@@ -9100,7 +9093,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 176.65.139.206,exploit,router,CVE-2023-1389 (TP-Link Archer Luci RCE),[iot|luci|rce|router|tplink],2026-08-31,2026-09-23
 176.65.148.2,exploit,rce,CVE-2021-21985,[http|rce|ssrf|vmware|vsphere],2026-09-19,2026-09-20
 176.108.126.238,exploit,router,Tenda router unauthenticated debug config,[rce|router|tenda],2026-08-24,2026-08-24
-176.125.242.75,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|nmap|recon|scanner|vnc|remote|masscan|credential-disclosure|winbox|tomcat],2026-09-12,2026-09-20
+176.125.242.75,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|nmap|recon|scanner|vnc|remote|masscan|credential-disclosure|winbox|tomcat],2026-09-12,2026-09-12
 177.22.44.30,exploit,router,CVE-2025-34037,[router|http|telnet|linksys|cve|iot|scanner],2026-08-19,2026-08-06
 178.20.210.136,exploit,router,CVE-2024-23108 (SonicWall SSL-VPN RCE),[cve|router|sonicwall|vpn],2026-09-27,2026-09-27
 178.20.210.183,exploit,router,CVE-2024-23108 (SonicWall SSL-VPN RCE),[cve|router|sonicwall|vpn],2026-09-27,2026-09-27
@@ -9130,7 +9123,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 185.220.100.240,exploit,rce,FreePBX unauthenticated command injection,[docker|rce|freepbx|vnc|remote|http|pbx|voip],2026-06-24,2026-08-26
 185.220.100.255,exploit,rce,FreePBX unauthenticated command injection,[freepbx|rce|http|pbx|voip],2026-08-14,2026-08-14
 185.231.33.46,exploit,router,CVE-2024-21762 (Fortinet SSL-VPN path traversal),[cve|fortinet|path-traversal|vpn|cisco],2026-04-12,2026-09-27
-185.233.247.245,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|freepbx|sql|friendly-scanner|recon|sip|sipvicious|voip|nmap|scanner|vnc|remote|masscan|fuzz|ics|modbus|credential-disclosure|winbox],2026-08-17,2026-09-30
+185.233.247.245,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|freepbx|sql|friendly-scanner|recon|sip|sipvicious|voip|nmap|scanner|vnc|remote|masscan|fuzz|ics|modbus|credential-disclosure|winbox],2026-08-17,2026-09-18
 185.242.3.87,exploit,wordpress,CVE-2026-63030,[container|docker|rce|alpine|sql|wordpress],2026-07-13,2026-07-13
 185.242.3.191,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail],2026-07-27,2026-07-27
 185.242.3.233,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail],2026-07-31,2026-07-31
@@ -9146,14 +9139,13 @@ ip,category,detail,note,tags,first_seen,last_seen
 190.167.169.205,exploit,rce,CVE-2010-0738 / CVE-2015-7501 (JBoss jmx-console/invoker RCE),[deserialization|http|jboss|rce],2026-07-28,2026-07-28
 190.211.252.4,exploit,router,CVE-2018-14847,[sip|voip|credential-disclosure|mikrotik|router|winbox],2026-09-29,2026-09-30
 191.83.175.237,exploit,wordpress,CVE-2026-63030,[rce|sql|wordpress|api|http],2026-07-28,2026-07-28
-192.42.116.61,exploit,rce,CVE-2012-1823 (PHP-CGI argument injection),[php|rce|software|credential-harvest|docker|freepbx|http|pbx|voip],2026-06-24,2026-08-13
-192.42.116.116,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox|docker|rce|vnc|remote|masscan|scanner|fuzz|ics|modbus|infected],2026-06-17,2026-08-07
+192.42.116.116,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox|docker|rce|vnc|remote|masscan|scanner|fuzz|ics|modbus|infected],2026-06-17,2026-07-21
 192.42.116.145,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus|freepbx|http|pbx|voip],2026-06-27,2026-08-07
 192.99.0.154,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|friendly-scanner|recon|sip|sipvicious|voip|nmap|scanner],2026-09-01,2026-08-10
 193.8.186.31,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|nmap|scanner],2026-06-01,2026-10-05
 193.32.162.203,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|masscan|scanner|ics|modbus|credential-disclosure|winbox],2026-05-31,2026-09-20
 193.32.204.131,exploit,router,CVE-2024-23108 (SonicWall SSL-VPN RCE),[cve|router|sonicwall|vpn],2026-09-27,2026-09-27
-193.46.255.112,exploit,router,CVE-2018-14847,[http|cve|mikrotik|router|rce|friendly-scanner|recon|sip|sipvicious|voip|nmap|scanner|vnc|remote|masscan|fuzz|ics|modbus],2026-07-28,2026-07-30
+193.46.255.112,exploit,router,CVE-2018-14847,[http|cve|mikrotik|router|rce|friendly-scanner|recon|sip|sipvicious|voip|nmap|scanner|vnc|remote|masscan|fuzz|ics|modbus],2026-07-28,2026-08-29
 193.46.255.140,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|vnc|remote|masscan|scanner|info|redis|dns|fingerprint],2026-07-26,2026-07-26
 193.47.62.167,exploit,wordpress,CVE-2026-4020,[gravitysmtp|info-disclosure|wordpress],2026-08-02,2026-08-02
 193.141.65.199,exploit,rce,CVE-2017-9841 (redtail),[docker|crypto|php|rce|redtail|software|apache|traversal],2026-07-24,2026-08-17
@@ -9162,11 +9154,12 @@ ip,category,detail,note,tags,first_seen,last_seen
 193.187.110.153,exploit,router,CVE-2024-23108 (SonicWall SSL-VPN RCE),[cve|router|sonicwall|vpn],2026-09-28,2026-09-28
 193.189.100.205,exploit,rce,FreePBX unauthenticated command injection,[freepbx|rce|http|pbx|voip],2026-08-24,2026-08-31
 194.50.16.198,exploit,router,CVE-2018-14847,[multi-port|nmap|recon|scanner|vnc|remote|masscan|fuzz|ics|modbus|freepbx|http|pbx|voip|fortinet|sonicwall|vpn|credential-disclosure|mikrotik|router|winbox|friendly-scanner|sip|sipvicious],2026-05-21,2026-10-17
-194.164.107.4,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|vnc|remote|masscan|scanner|dns|fingerprint|credential-disclosure|winbox],2026-05-21,2026-09-05
+194.164.107.4,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|vnc|remote|masscan|scanner|dns|fingerprint|credential-disclosure|winbox],2026-05-21,2026-10-15
+194.164.107.6,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|vnc|remote|masscan|scanner|dns|fingerprint],2026-05-21,2026-07-30
 194.187.176.100,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox],2026-08-17,2026-08-17
 194.187.176.188,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox],2026-08-17,2026-08-17
 194.187.179.131,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox],2026-09-28,2026-09-28
-194.195.210.47,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus|credential-disclosure|winbox],2026-05-21,2026-10-03
+194.195.210.47,exploit,router,CVE-2018-14847,[multi-port|cve|mikrotik|router|rce|nmap|recon|scanner|masscan|fuzz|ics|modbus|credential-disclosure|winbox],2026-05-21,2026-08-08
 194.233.84.90,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http],2026-09-20,2026-09-20
 195.26.249.98,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http],2026-08-22,2026-08-22
 195.178.110.28,exploit,wordpress,CVE-2026-63030,[http|ftp|rdp|dnp3|pptp|rce|sql|wordpress|credential-theft|database|api|git],2026-07-28,2026-08-25
@@ -9185,10 +9178,9 @@ ip,category,detail,note,tags,first_seen,last_seen
 202.61.130.55,exploit,wordpress,CVE-2026-63030,[rce|sql|wordpress|api|http],2026-08-02,2026-08-22
 202.61.130.107,exploit,wordpress,CVE-2026-63030,[rce|sql|wordpress|api|http],2026-07-20,2026-07-26
 202.63.202.84,exploit,router,CVE-2016-6277,[iot|mozi|netgear|router|rce],2026-09-30,2026-09-30
-203.55.131.3,exploit,router,CVE-2018-14847,[multi-port|vnc|remote|masscan|scanner|info|redis|dns|fingerprint|credential-disclosure|mikrotik|router|winbox],2026-05-21,2026-09-21
-203.55.131.5,exploit,router,CVE-2018-14847,[multi-port|remote|vnc|cve|mikrotik|router|rce|masscan|scanner|info|redis],2026-05-21,2026-10-12
+203.55.131.3,exploit,router,CVE-2018-14847,[multi-port|vnc|remote|masscan|scanner|info|redis|dns|fingerprint|credential-disclosure|mikrotik|router|winbox],2026-05-21,2026-09-06
 203.101.186.117,exploit,router,CVE-2016-6277,[iot|mozi|netgear|router|rce],2026-08-14,2026-08-14
-204.76.203.7,exploit,rce,CVE-2021-28799,[nmap|recon|scanner|nas|qnap|rce],2026-08-12,2026-08-12
+204.76.203.7,exploit,rce,CVE-2021-28799,[nmap|recon|scanner|nas|qnap|rce],2026-08-12,2026-09-13
 204.76.203.11,exploit,rce,CVE-2021-28799,[nas|qnap|rce],2026-09-13,2026-09-15
 204.76.203.21,exploit,rce,CVE-2021-44228,[java|log4shell|rce|software],2026-08-14,2026-08-19
 204.76.203.31,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|actuator|http|java|spring|credential-theft|git|credential-harvest|nextjs|nodejs|info|redis|recon],2026-09-18,2026-09-20
@@ -9233,11 +9225,11 @@ ip,category,detail,note,tags,first_seen,last_seen
 213.111.155.75,exploit,rce,CVE-2012-1823 (PHP-CGI argument injection),[php|rce|software],2026-10-15,2026-10-15
 213.209.159.154,exploit,rce,CVE-2017-9841 (redtail),[http|credential-harvest|crypto|php|rce|redtail|phpinfo|credential-theft|symfony|aws|azure|cloud|traversal],2026-07-13,2026-09-25
 216.106.179.159,exploit,rce,HTTP path command injection (Mirai-family router RCE),[huawei|iot|router|mirai|rce],2026-07-30,2026-07-30
-216.226.76.20,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|vnc|remote|masscan|scanner],2026-06-17,2026-09-30
-216.226.76.30,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|masscan|scanner|info|redis|dns|fingerprint|vnc|remote|credential-disclosure|winbox],2026-08-25,2026-09-25
-216.226.77.20,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|vnc|remote|masscan|scanner|info|redis|dns|fingerprint|credential-disclosure|winbox],2026-07-14,2026-07-15
-216.226.77.30,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|vnc|remote|masscan|scanner|info|redis],2026-07-31,2026-07-16
-216.226.78.30,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox|info|redis],2026-10-14,2026-10-17
+216.226.76.30,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|masscan|scanner|info|redis|dns|fingerprint|vnc|remote|credential-disclosure|winbox],2026-08-25,2026-09-26
+216.226.77.10,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|vnc|remote|masscan|scanner|info|redis],2026-07-16,2026-09-14
+216.226.77.20,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|vnc|remote|masscan|scanner|info|redis|dns|fingerprint|credential-disclosure|winbox],2026-07-14,2026-10-09
+216.226.77.30,exploit,router,CVE-2018-14847,[cve|mikrotik|router|rce|vnc|remote|masscan|scanner|info|redis],2026-07-31,2026-09-29
+216.226.78.30,exploit,router,CVE-2018-14847,[credential-disclosure|mikrotik|router|winbox|info|redis],2026-10-14,2026-10-14
 218.13.227.220,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http],2026-08-31,2026-08-31
 218.94.35.250,exploit,rce,Redis replication hijack RCE (MODULE LOAD + system.exec),[module-load|rce|redis|reverse-shell|cron|persistence|info],2026-08-01,2026-08-01
 218.236.255.132,exploit,rce,CVE-2017-9841 (redtail),[crypto|php|rce|redtail|software|apache|traversal|http],2026-09-22,2026-09-22
@@ -9275,7 +9267,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 5.181.86.188,intrusion,remote,VNC session established,[vnc|remote],2026-10-01,2026-10-01
 5.249.162.88,intrusion,remote,VNC session established,[remote|vnc],2026-09-14,2026-09-14
 5.253.38.204,intrusion,remote,VNC session established,[remote|vnc],2026-10-02,2026-10-02
-8.131.74.250,intrusion,remote,VNC session established,[remote|vnc],2026-08-15,2026-10-16
+8.131.74.250,intrusion,remote,VNC session established,[remote|vnc],2026-08-15,2026-10-17
 8.134.62.175,intrusion,remote,VNC session established,[remote|vnc],2026-09-16,2026-09-16
 8.134.79.38,intrusion,remote,VNC session established,[remote|vnc],2026-10-12,2026-10-12
 8.134.203.138,intrusion,remote,VNC session established,[vnc|remote],2026-05-06,2026-10-12
@@ -9454,7 +9446,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 31.59.220.26,intrusion,remote,VNC session established,[remote|vnc],2026-10-12,2026-10-16
 31.77.219.118,intrusion,connect,PPTP tunnel established,[pptp],2026-09-28,2026-10-16
 31.140.198.167,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce],2026-08-21,2026-08-21
-31.184.195.246,intrusion,remote,VNC session established,[info|redis|vnc|remote],2026-10-13,2026-10-17
+31.184.195.246,intrusion,remote,VNC session established,[info|redis|vnc|remote],2026-10-13,2026-10-15
 34.31.193.237,intrusion,remote,VNC session established,[remote|vnc],2026-07-17,2026-07-18
 34.96.255.240,intrusion,remote,VNC session established,[remote|vnc],2026-09-07,2026-09-07
 34.159.18.221,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce],2026-07-24,2026-07-24
@@ -9595,7 +9587,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 45.62.172.83,intrusion,software,Docker daemon takeover,[container|docker|rce|image-enum],2026-09-04,2026-09-04
 45.74.7.235,intrusion,connect,PPTP tunnel established,[pptp],2026-08-29,2026-09-08
 45.79.175.6,intrusion,remote,VNC session established,[vnc|remote],2026-07-22,2026-07-22
-45.79.207.181,intrusion,ics,Modbus coil register polling (unauthorized ICS read),[multi-port|masscan|scanner|fuzz|ics|modbus|nmap],2026-05-21,2026-08-16
+45.79.207.181,intrusion,ics,Modbus coil register polling (unauthorized ICS read),[multi-port|masscan|scanner|fuzz|ics|modbus|nmap],2026-05-21,2026-09-27
 45.82.56.217,intrusion,software,Docker daemon takeover,[container|docker|rce],2026-07-09,2026-07-13
 45.82.56.218,intrusion,software,Docker daemon takeover,[container|docker|rce|alpine],2026-07-09,2026-07-09
 45.84.222.80,intrusion,software,Docker daemon takeover,[docker|container|rce],2026-08-19,2026-08-19
@@ -9630,9 +9622,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 45.207.199.206,intrusion,remote,VNC session established,[remote|vnc],2026-07-29,2026-07-29
 45.207.210.12,intrusion,software,Docker daemon takeover,[container|docker|rce],2026-09-09,2026-09-09
 45.227.254.132,intrusion,remote,,[vnc|remote],2026-05-06,2026-08-05
-45.227.254.152,intrusion,remote,VNC session established,[multi-port|vnc|remote|fuzz|ics|modbus],2026-05-21,2026-07-20
-45.227.254.155,intrusion,remote,VNC session established,[multi-port|vnc|remote|fuzz|ics|modbus],2026-05-21,2026-07-20
-45.227.254.156,intrusion,remote,VNC session established,[multi-port|vnc|remote|fuzz|ics|modbus],2026-05-21,2026-07-21
+45.227.254.156,intrusion,remote,VNC session established,[multi-port|vnc|remote|fuzz|ics|modbus],2026-05-21,2026-07-20
 46.8.245.94,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce],2026-07-02,2026-08-01
 46.39.239.86,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce],2026-04-20,2026-08-09
 46.63.40.252,intrusion,ssh,Interactive SSH session (5+ distinct commands),[human|ssh],2026-09-18,2026-09-18
@@ -9649,7 +9639,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 47.92.114.84,intrusion,software,Docker daemon takeover,[container|docker|rce|credential-harvest],2026-05-28,2026-08-27
 47.103.36.53,intrusion,remote,,[vnc|remote|info|redis],2026-05-06,2026-10-14
 47.117.3.109,intrusion,remote,VNC session established,[vnc|remote],2026-05-06,2026-08-05
-47.237.20.150,intrusion,remote,VNC session established,[ics|modbus|vnc|remote],2026-07-25,2026-07-25
+47.237.20.150,intrusion,remote,VNC session established,[ics|modbus|vnc|remote],2026-07-25,2026-10-01
 47.242.232.174,intrusion,connect,,[pptp],2026-05-06,2026-09-01
 47.245.132.3,intrusion,remote,VNC session established,[remote|vnc],2026-09-19,2026-09-19
 47.245.141.129,intrusion,remote,VNC session established,[remote|vnc],2026-09-01,2026-09-01
@@ -9690,7 +9680,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 62.60.226.150,intrusion,connect,PPTP tunnel established,[pptp],2026-08-23,2026-08-26
 62.60.246.1,intrusion,software,Docker daemon takeover,[container|docker|rce|image-enum],2026-07-14,2026-07-15
 62.101.160.198,intrusion,remote,VNC session established,[remote|vnc],2026-08-31,2026-08-31
-62.133.46.19,intrusion,remote,VNC session established,[remote|vnc|fuzz|ics|modbus],2026-08-27,2026-09-01
+62.133.46.19,intrusion,remote,VNC session established,[remote|vnc|fuzz|ics|modbus],2026-08-27,2026-08-27
 62.164.177.70,intrusion,remote,VNC session established,[remote|vnc],2026-09-22,2026-09-22
 62.169.22.53,intrusion,remote,VNC session established,[remote|vnc],2026-08-30,2026-08-30
 62.169.22.67,intrusion,remote,VNC session established,[remote|vnc],2026-08-30,2026-08-30
@@ -9720,19 +9710,18 @@ ip,category,detail,note,tags,first_seen,last_seen
 66.94.122.104,intrusion,remote,VNC session established,[remote|vnc],2026-07-31,2026-10-13
 66.163.115.133,intrusion,connect,PPTP tunnel established,[pptp],2026-07-26,2026-09-07
 66.179.10.139,intrusion,remote,,[vnc|remote|nmap|rdp|scanner|zgrab],2026-05-06,2026-10-17
-66.228.53.157,intrusion,remote,VNC session established,[multi-port|vnc|remote|fuzz|ics|modbus],2026-05-21,2026-10-01
 66.235.168.219,intrusion,remote,VNC session established,[remote|vnc],2026-07-24,2026-07-24
 67.205.171.77,intrusion,remote,VNC session established,[remote|vnc],2026-08-21,2026-08-24
 68.183.14.43,intrusion,remote,VNC session established,[remote|vnc],2026-08-18,2026-08-18
 68.183.80.103,intrusion,remote,VNC session established,[remote|vnc],2026-07-12,2026-07-12
 68.183.108.203,intrusion,remote,VNC session established,[remote|vnc],2026-07-16,2026-10-17
-68.183.117.156,intrusion,remote,VNC session established,[friendly-scanner|recon|sip|sipvicious|voip|nmap|scanner|vnc|remote|masscan|fuzz|ics|modbus|info|redis],2026-07-09,2026-07-09
-68.183.136.57,intrusion,remote,VNC session established,[nmap|recon|scanner|vnc|remote|masscan|fuzz|ics|modbus|info|redis],2026-08-30,2026-08-29
+68.183.117.156,intrusion,remote,VNC session established,[friendly-scanner|recon|sip|sipvicious|voip|nmap|scanner|vnc|remote|masscan|fuzz|ics|modbus|info|redis],2026-07-09,2026-07-10
+68.183.136.57,intrusion,remote,VNC session established,[nmap|recon|scanner|vnc|remote|masscan|fuzz|ics|modbus|info|redis],2026-08-30,2026-08-30
 69.10.60.130,intrusion,software,Docker daemon takeover,[docker|container|rce],2026-09-14,2026-09-14
 69.33.212.76,intrusion,software,Docker daemon takeover,[container|docker|rce],2026-10-01,2026-10-01
 69.55.62.54,intrusion,remote,VNC session established,[remote|vnc],2026-08-09,2026-10-17
 69.165.65.63,intrusion,remote,VNC session established,[remote|vnc],2026-07-29,2026-07-29
-71.6.134.228,intrusion,remote,VNC session established,[vnc|remote|info|redis|masscan|scanner],2026-08-30,2026-08-26
+71.6.134.228,intrusion,remote,VNC session established,[vnc|remote|info|redis|masscan|scanner],2026-08-30,2026-10-07
 71.28.72.249,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce],2026-08-18,2026-08-18
 71.30.205.149,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce],2026-09-05,2026-09-05
 71.230.72.124,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce],2026-07-06,2026-07-11
@@ -9772,7 +9761,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 80.66.197.100,intrusion,remote,VNC session established,[remote|vnc],2026-09-25,2026-09-25
 80.70.96.143,intrusion,remote,VNC session established,[remote|vnc],2026-07-31,2026-07-31
 80.70.96.149,intrusion,remote,VNC session established,[remote|vnc],2026-07-31,2026-07-31
-80.94.93.9,intrusion,remote,VNC session established,[nmap|recon|scanner|vnc|remote|masscan|fuzz|ics|modbus],2026-08-29,2026-09-01
+80.94.93.9,intrusion,remote,VNC session established,[nmap|recon|scanner|vnc|remote|masscan|fuzz|ics|modbus],2026-08-29,2026-09-03
 80.94.95.43,intrusion,remote,VNC session established,[vnc|remote],2026-08-18,2026-08-20
 80.94.95.83,intrusion,remote,,[vnc|remote],2026-05-06,2026-09-14
 80.225.241.76,intrusion,remote,VNC session established,[remote|vnc],2026-07-04,2026-10-13
@@ -9789,7 +9778,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 82.223.97.204,intrusion,remote,VNC session established,[remote|vnc],2026-07-27,2026-08-03
 83.138.53.157,intrusion,remote,VNC session established,[remote|vnc],2026-07-12,2026-07-12
 83.145.42.126,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce],2026-04-24,2026-08-30
-83.171.227.54,intrusion,software,Docker daemon takeover,[docker|rce|info|redis],2026-07-24,2026-08-12
+83.171.227.54,intrusion,software,Docker daemon takeover,[docker|rce|info|redis],2026-07-24,2026-09-26
 83.177.199.127,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce|human|ssh|ddns|persistence],2026-09-18,2026-09-18
 83.226.235.157,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce],2026-08-09,2026-08-09
 83.233.86.22,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce],2026-09-01,2026-09-01
@@ -9817,15 +9806,15 @@ ip,category,detail,note,tags,first_seen,last_seen
 86.107.168.38,intrusion,connect,PPTP tunnel established,[pptp],2026-08-13,2026-08-13
 87.49.45.173,intrusion,software,Docker daemon takeover,[container|docker|rce],2026-07-17,2026-07-17
 87.68.46.172,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce],2026-09-08,2026-09-12
-87.251.64.19,intrusion,remote,VNC session established,[nmap|scanner|vnc|remote],2026-09-17,2026-09-17
+87.251.64.19,intrusion,remote,VNC session established,[nmap|scanner|vnc|remote],2026-09-17,2026-09-30
 87.251.64.131,intrusion,ics,Modbus coil register polling (unauthorized ICS read),[nmap|recon|scanner|ics|modbus|fuzz],2026-09-16,2026-10-14
 88.76.179.222,intrusion,software,Docker daemon takeover,[container|docker|rce|alpine],2026-07-09,2026-07-09
 88.99.82.221,intrusion,software,Docker daemon takeover,[docker|container|rce],2026-08-02,2026-08-02
-88.214.25.121,intrusion,remote,VNC session established,[vnc|remote|fuzz|ics|modbus|masscan|scanner],2026-07-01,2026-08-15
-88.214.25.123,intrusion,remote,VNC session established,[vnc|remote|fuzz|ics|modbus],2026-04-21,2026-08-15
-88.214.25.124,intrusion,remote,VNC session established,[multi-port|vnc|remote|fuzz|ics|modbus],2026-05-21,2026-08-15
-88.214.25.125,intrusion,remote,VNC session established,[vnc|remote|fuzz|ics|modbus],2026-06-26,2026-08-15
-89.19.215.95,intrusion,remote,VNC session established,[friendly-scanner|sip|sipvicious|voip|fuzz|ics|modbus|vnc|remote|masscan|scanner|nmap],2026-09-28,2026-09-28
+88.214.25.121,intrusion,remote,VNC session established,[vnc|remote|fuzz|ics|modbus|masscan|scanner],2026-07-01,2026-09-11
+88.214.25.123,intrusion,remote,VNC session established,[vnc|remote|fuzz|ics|modbus],2026-04-21,2026-08-21
+88.214.25.124,intrusion,remote,VNC session established,[multi-port|vnc|remote|fuzz|ics|modbus],2026-05-21,2026-08-02
+88.214.25.125,intrusion,remote,VNC session established,[vnc|remote|fuzz|ics|modbus],2026-06-26,2026-08-12
+89.19.215.95,intrusion,remote,VNC session established,[friendly-scanner|sip|sipvicious|voip|fuzz|ics|modbus|vnc|remote|masscan|scanner|nmap],2026-09-28,2026-09-29
 89.32.243.133,intrusion,remote,VNC session established,[remote|vnc],2026-07-09,2026-08-22
 89.33.8.196,intrusion,remote,VNC session established,[remote|vnc],2026-09-24,2026-09-24
 89.39.107.197,intrusion,software,Docker daemon takeover,[container|docker|rce],2026-07-24,2026-07-24
@@ -9851,9 +9840,9 @@ ip,category,detail,note,tags,first_seen,last_seen
 91.191.209.9,intrusion,remote,VNC session established,[vnc|remote],2026-05-06,2026-09-22
 91.207.115.249,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce|human|ssh|ddns|persistence],2026-10-06,2026-10-06
 91.218.183.122,intrusion,remote,,[vnc|remote|nmap|rdp|scanner|zgrab],2026-05-06,2026-09-16
-91.238.181.72,intrusion,remote,VNC session established,[remote|vnc|fuzz|ics|modbus],2026-07-10,2026-09-14
-91.238.181.92,intrusion,remote,VNC session established,[vnc|remote|fuzz|ics|modbus|masscan|scanner],2026-07-11,2026-08-29
-91.238.181.94,intrusion,remote,VNC session established,[vnc|remote|masscan|scanner|fuzz|ics|modbus],2026-08-07,2026-08-15
+91.238.181.72,intrusion,remote,VNC session established,[remote|vnc|fuzz|ics|modbus],2026-07-10,2026-07-11
+91.238.181.92,intrusion,remote,VNC session established,[vnc|remote|fuzz|ics|modbus|masscan|scanner],2026-07-11,2026-07-28
+91.238.181.94,intrusion,remote,VNC session established,[vnc|remote|masscan|scanner|fuzz|ics|modbus],2026-08-07,2026-08-11
 92.60.77.225,intrusion,remote,VNC session established,[remote|vnc],2026-08-16,2026-08-16
 92.62.120.116,intrusion,remote,VNC session established,[remote|vnc],2026-09-26,2026-09-26
 92.62.121.244,intrusion,remote,VNC session established,[remote|vnc],2026-09-09,2026-09-09
@@ -9864,7 +9853,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 93.152.224.102,intrusion,connect,PPTP tunnel established,[pptp],2026-06-17,2026-09-19
 93.158.213.230,intrusion,remote,VNC session established,[remote|vnc],2026-08-08,2026-08-08
 94.75.223.245,intrusion,software,Docker daemon takeover,[docker|rce],2026-08-18,2026-09-25
-94.154.43.36,intrusion,remote,VNC session established,[nmap|recon|scanner|vnc|remote],2026-07-02,2026-09-06
+94.154.43.36,intrusion,remote,VNC session established,[nmap|recon|scanner|vnc|remote],2026-07-02,2026-09-01
 94.154.43.43,intrusion,software,Docker daemon takeover,[docker|rce|vnc|remote],2026-07-31,2026-08-23
 94.154.43.103,intrusion,remote,VNC session established,[remote|vnc],2026-09-19,2026-09-19
 94.154.43.191,intrusion,remote,VNC session established,[remote|vnc],2026-08-23,2026-08-26
@@ -9940,7 +9929,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 103.241.42.234,intrusion,remote,VNC session established,[remote|vnc],2026-08-04,2026-08-04
 103.249.201.41,intrusion,remote,,[vnc|remote],2026-05-06,2026-08-26
 103.250.11.156,intrusion,remote,VNC session established,[worm|crypto|infected|backdoor|vnc|remote],2026-03-14,2026-08-17
-103.252.72.150,intrusion,software,Docker daemon takeover,[container|docker|rce|info|redis],2026-09-10,2026-09-13
+103.252.72.150,intrusion,software,Docker daemon takeover,[container|docker|rce|info|redis],2026-09-10,2026-09-10
 104.28.156.13,intrusion,software,Docker daemon takeover,[container|docker|rce],2026-07-21,2026-07-21
 104.28.206.119,intrusion,software,Docker daemon takeover,[container|docker|rce|alpine],2026-07-15,2026-07-15
 104.28.211.28,intrusion,software,container filesystem credential extraction,[credential-harvest|docker],2026-09-19,2026-09-19
@@ -10170,9 +10159,9 @@ ip,category,detail,note,tags,first_seen,last_seen
 134.122.107.213,intrusion,remote,VNC session established,[remote|vnc],2026-10-05,2026-10-05
 134.175.222.132,intrusion,remote,VNC session established,[remote|vnc],2026-07-02,2026-10-04
 134.209.69.7,intrusion,remote,VNC session established,[remote|vnc],2026-07-09,2026-07-15
-134.209.70.227,intrusion,remote,VNC session established,[friendly-scanner|recon|sip|sipvicious|voip|nmap|scanner|vnc|remote|masscan|fuzz|ics|modbus],2026-09-03,2026-09-03
+134.209.70.227,intrusion,remote,VNC session established,[friendly-scanner|recon|sip|sipvicious|voip|nmap|scanner|vnc|remote|masscan|fuzz|ics|modbus],2026-09-03,2026-09-04
 134.209.207.62,intrusion,remote,VNC session established,[remote|vnc],2026-08-18,2026-08-18
-134.209.217.177,intrusion,remote,VNC session established,[nmap|recon|scanner|vnc|remote|masscan|fuzz|ics|modbus],2026-09-15,2026-09-15
+134.209.217.177,intrusion,remote,VNC session established,[nmap|recon|scanner|vnc|remote|masscan|fuzz|ics|modbus],2026-09-15,2026-09-14
 135.125.226.234,intrusion,software,Docker daemon takeover,[container|docker|rce|credential-harvest],2026-08-18,2026-09-25
 135.136.19.78,intrusion,remote,VNC session established,[remote|vnc],2026-08-29,2026-08-29
 135.136.39.67,intrusion,ssh,Interactive SSH session (5+ distinct commands),[human|ssh],2026-07-15,2026-07-15
@@ -10276,6 +10265,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 147.182.130.233,intrusion,remote,VNC session established,[remote|vnc],2026-08-06,2026-09-07
 147.182.146.14,intrusion,remote,VNC session established,[remote|vnc],2026-07-08,2026-08-02
 147.224.162.134,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce|human|ssh|ddns|persistence],2026-08-31,2026-09-28
+148.153.56.174,intrusion,remote,VNC session established,[vnc|remote|nmap|pptp|scanner],2026-08-05,2026-08-05
 148.216.108.65,intrusion,software,Docker daemon takeover,[container|docker|rce|credential-harvest],2026-06-05,2026-10-06
 149.34.245.22,intrusion,remote,VNC session established,[remote|vnc],2026-09-24,2026-09-24
 149.40.62.42,intrusion,software,Docker daemon takeover,[container|docker|rce],2026-07-14,2026-07-14
@@ -10324,7 +10314,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 151.245.151.170,intrusion,remote,VNC session established,[remote|vnc],2026-08-30,2026-08-30
 151.245.151.174,intrusion,remote,VNC session established,[remote|vnc],2026-09-14,2026-09-17
 151.245.151.180,intrusion,remote,VNC session established,[remote|vnc],2026-09-06,2026-09-06
-151.245.151.196,intrusion,remote,VNC session established,[nmap|recon|scanner|vnc|remote],2026-09-01,2026-09-01
+151.245.151.196,intrusion,remote,VNC session established,[nmap|recon|scanner|vnc|remote],2026-09-01,2026-09-29
 151.245.151.219,intrusion,remote,VNC session established,[vnc|remote],2026-10-06,2026-10-06
 151.245.151.228,intrusion,remote,VNC session established,[vnc|remote],2026-10-13,2026-10-13
 151.245.151.229,intrusion,remote,VNC session established,[remote|vnc],2026-09-10,2026-09-10
@@ -10346,8 +10336,8 @@ ip,category,detail,note,tags,first_seen,last_seen
 155.117.5.172,intrusion,ssh,Post-access system profiler (###OS### / speedtest-cli check),[profiler|ssh],2026-09-19,2026-09-19
 156.67.31.88,intrusion,remote,,[vnc|remote|nmap|rdp|scanner|zgrab],2026-05-06,2026-10-17
 156.146.54.195,intrusion,remote,VNC session established,[remote|vnc],2026-09-06,2026-09-06
-156.225.1.46,intrusion,remote,VNC session established,[vnc|remote|nmap|pptp|scanner],2026-08-13,2026-07-30
-156.239.42.225,intrusion,software,Docker daemon takeover,[docker|rce|image-enum|ics|modbus],2026-09-04,2026-10-15
+156.225.1.46,intrusion,remote,VNC session established,[vnc|remote|nmap|pptp|scanner],2026-08-13,2026-08-13
+156.239.42.225,intrusion,software,Docker daemon takeover,[docker|rce|image-enum|ics|modbus],2026-09-04,2026-09-04
 157.10.45.192,intrusion,remote,,[vnc|remote|nmap|rdp|scanner|zgrab],2026-05-06,2026-10-16
 157.10.52.53,intrusion,remote,VNC session established,[remote|vnc],2026-09-08,2026-09-08
 157.10.252.110,intrusion,remote,VNC session established,[remote|vnc],2026-08-04,2026-10-13
@@ -10359,7 +10349,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 157.228.131.101,intrusion,connect,PPTP tunnel established,[pptp],2026-09-14,2026-09-20
 157.230.56.131,intrusion,remote,VNC session established,[remote|vnc],2026-07-02,2026-07-11
 157.230.91.199,intrusion,remote,VNC session established,[remote|vnc],2026-07-02,2026-07-26
-157.230.220.152,intrusion,remote,VNC session established,[friendly-scanner|recon|sip|sipvicious|voip|nmap|scanner|vnc|remote|masscan|fuzz|ics|modbus],2026-07-24,2026-07-24
+157.230.220.152,intrusion,remote,VNC session established,[friendly-scanner|recon|sip|sipvicious|voip|nmap|scanner|vnc|remote|masscan|fuzz|ics|modbus],2026-07-24,2026-07-25
 157.230.231.224,intrusion,remote,VNC session established,[remote|vnc],2026-08-06,2026-09-07
 157.245.68.188,intrusion,remote,VNC session established,[remote|vnc],2026-08-19,2026-08-19
 157.245.114.249,intrusion,remote,VNC session established,[remote|vnc],2026-06-27,2026-08-09
@@ -10384,7 +10374,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 159.223.216.48,intrusion,remote,VNC session established,[remote|vnc],2026-08-01,2026-08-12
 160.119.76.10,intrusion,connect,,[pptp],2026-05-06,2026-07-09
 160.119.76.123,intrusion,connect,PPTP tunnel established,[pptp],2026-09-20,2026-09-20
-160.119.76.210,intrusion,remote,VNC session established,[nmap|recon|scanner|vnc|remote|masscan|fuzz|ics|modbus],2026-07-23,2026-07-25
+160.119.76.210,intrusion,remote,VNC session established,[nmap|recon|scanner|vnc|remote|masscan|fuzz|ics|modbus],2026-07-23,2026-07-23
 161.33.230.48,intrusion,remote,VNC session established,[remote|vnc],2026-07-05,2026-10-13
 161.35.4.115,intrusion,remote,VNC session established,[remote|vnc],2026-07-29,2026-07-29
 161.35.39.68,intrusion,remote,VNC session established,[remote|vnc],2026-09-03,2026-09-03
@@ -10499,13 +10489,12 @@ ip,category,detail,note,tags,first_seen,last_seen
 172.110.223.96,intrusion,connect,PPTP tunnel established,[pptp],2026-07-21,2026-10-14
 172.216.244.35,intrusion,remote,VNC session established,[remote|vnc],2026-10-01,2026-10-01
 172.234.113.166,intrusion,remote,VNC session established,[remote|vnc],2026-07-23,2026-07-23
-172.235.40.131,intrusion,ics,Modbus coil register polling (unauthorized ICS read),[multi-port|masscan|scanner|fuzz|ics|modbus],2026-05-21,2026-09-27
+172.235.40.131,intrusion,ics,Modbus coil register polling (unauthorized ICS read),[multi-port|masscan|scanner|fuzz|ics|modbus],2026-05-21,2026-07-26
 172.236.17.175,intrusion,remote,VNC session established,[remote|vnc],2026-09-16,2026-09-16
-172.236.228.197,intrusion,ics,Modbus coil register polling (unauthorized ICS read),[multi-port|fuzz|ics|modbus|masscan|scanner],2026-05-21,2026-09-11
-172.236.228.218,intrusion,ics,Modbus coil register polling (unauthorized ICS read),[fuzz|ics|modbus|nmap|scanner],2026-03-31,2026-08-02
-172.236.228.224,intrusion,remote,VNC session established,[multi-port|vnc|remote|masscan|scanner|ics|modbus],2026-05-21,2026-09-09
-172.236.228.229,intrusion,remote,VNC session established,[multi-port|vnc|remote|fuzz|ics|modbus],2026-05-21,2026-08-13
-172.239.71.245,intrusion,remote,VNC session established,[vnc|remote|fuzz|ics|modbus],2026-06-06,2026-09-15
+172.236.228.197,intrusion,ics,Modbus coil register polling (unauthorized ICS read),[multi-port|fuzz|ics|modbus|masscan|scanner],2026-05-21,2026-09-22
+172.236.228.218,intrusion,ics,Modbus coil register polling (unauthorized ICS read),[fuzz|ics|modbus|nmap|scanner],2026-03-31,2026-10-14
+172.236.228.224,intrusion,remote,VNC session established,[multi-port|vnc|remote|masscan|scanner|ics|modbus],2026-05-21,2026-08-09
+172.236.228.229,intrusion,remote,VNC session established,[multi-port|vnc|remote|fuzz|ics|modbus],2026-05-21,2026-08-31
 172.245.195.21,intrusion,remote,VNC session established,[remote|vnc],2026-08-01,2026-10-04
 172.245.209.145,intrusion,connect,PPTP tunnel established,[pptp],2026-08-23,2026-08-23
 173.44.62.244,intrusion,remote,VNC session established,[remote|vnc],2026-09-01,2026-09-01
@@ -10532,7 +10521,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 176.119.150.126,intrusion,remote,VNC session established,[remote|vnc],2026-08-17,2026-08-17
 176.119.150.219,intrusion,remote,VNC session established,[remote|vnc],2026-08-12,2026-08-12
 176.119.150.248,intrusion,remote,VNC session established,[remote|vnc],2026-09-08,2026-09-16
-176.120.22.240,intrusion,remote,VNC session established,[fortinet|recon|vpn|vnc|remote],2026-09-03,2026-09-03
+176.120.22.240,intrusion,remote,VNC session established,[fortinet|recon|vpn|vnc|remote],2026-09-03,2026-07-10
 176.193.4.96,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce|ddns|persistence|human|ssh],2026-09-14,2026-09-14
 176.193.251.31,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce|human|ssh|ddns|persistence],2026-09-24,2026-09-24
 176.195.81.145,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce|human|ssh|ddns|persistence],2026-10-08,2026-10-08
@@ -10594,7 +10583,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 185.141.216.167,intrusion,connect,PPTP tunnel established,[pptp],2026-07-21,2026-08-13
 185.146.113.123,intrusion,remote,,[vnc|remote],2026-05-06,2026-10-07
 185.148.240.112,intrusion,remote,VNC session established,[remote|vnc],2026-08-08,2026-08-18
-185.165.171.21,intrusion,software,Docker daemon takeover,[docker|rce|image-enum|info|redis],2026-09-22,2026-10-07
+185.165.171.21,intrusion,software,Docker daemon takeover,[docker|rce|image-enum|info|redis],2026-09-22,2026-09-22
 185.173.144.90,intrusion,connect,PPTP tunnel established,[pptp],2026-07-14,2026-07-14
 185.177.124.191,intrusion,software,Docker daemon takeover,[container|docker|rce],2026-07-29,2026-07-29
 185.177.124.214,intrusion,software,Docker daemon takeover,[container|docker|rce],2026-08-05,2026-08-05
@@ -10637,7 +10626,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 185.214.96.155,intrusion,software,Docker daemon takeover,[docker|rce|container],2026-07-26,2026-07-26
 185.219.41.92,intrusion,remote,VNC session established,[remote|vnc],2026-08-14,2026-08-14
 185.219.41.132,intrusion,remote,VNC session established,[remote|vnc],2026-08-14,2026-08-14
-185.220.100.247,intrusion,software,Docker daemon takeover,[container|docker|rce|fuzz|ics|modbus],2026-07-31,2026-10-06
+185.220.100.247,intrusion,software,Docker daemon takeover,[container|docker|rce|fuzz|ics|modbus],2026-07-31,2026-09-27
 185.220.100.251,intrusion,ics,Modbus coil register polling (unauthorized ICS read),[fuzz|ics|modbus],2026-08-07,2026-08-07
 185.220.100.253,intrusion,ics,Modbus coil register polling (unauthorized ICS read),[fuzz|ics|modbus],2026-07-14,2026-07-14
 185.225.28.10,intrusion,ics,Modbus coil write (confirmed ICS write),[ics|modbus|write],2026-07-09,2026-07-09
@@ -10699,20 +10688,21 @@ ip,category,detail,note,tags,first_seen,last_seen
 191.101.59.133,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce],2026-08-12,2026-08-12
 191.101.130.221,intrusion,remote,VNC session established,[remote|vnc],2026-07-18,2026-07-18
 191.209.31.253,intrusion,remote,VNC session established,[remote|vnc],2026-08-13,2026-09-06
-192.42.116.12,intrusion,software,Docker daemon takeover,[container|docker|rce|infected|freepbx|http|pbx|voip],2026-06-16,2026-08-18
-192.42.116.20,intrusion,ics,Modbus coil register polling (unauthorized ICS read),[infected|fuzz|ics|modbus],2026-04-21,2026-07-13
-192.42.116.21,intrusion,software,Docker daemon takeover,[container|docker|rce|infected|freepbx|http|pbx|voip],2026-06-16,2026-09-13
-192.42.116.56,intrusion,software,Docker daemon takeover,[container|docker|rce|alpine|infected|fuzz|ics|modbus],2026-06-17,2026-08-07
+192.42.116.12,intrusion,software,Docker daemon takeover,[container|docker|rce|infected|freepbx|http|pbx|voip],2026-06-16,2026-09-04
+192.42.116.18,intrusion,software,container filesystem credential extraction,[credential-harvest|docker|fuzz|ics|modbus|rce],2026-06-24,2026-10-16
+192.42.116.20,intrusion,ics,Modbus coil register polling (unauthorized ICS read),[infected|fuzz|ics|modbus],2026-04-21,2026-08-07
+192.42.116.21,intrusion,software,Docker daemon takeover,[container|docker|rce|infected|freepbx|http|pbx|voip],2026-06-16,2026-09-06
+192.42.116.56,intrusion,software,Docker daemon takeover,[container|docker|rce|alpine|infected|fuzz|ics|modbus],2026-06-17,2026-09-04
 192.42.116.64,intrusion,software,Docker daemon takeover,[container|docker|rce|fuzz|ics|modbus],2026-06-16,2026-07-13
 192.42.116.66,intrusion,software,Docker daemon takeover,[container|docker|rce|infected],2026-06-14,2026-09-06
 192.42.116.68,intrusion,software,Docker daemon takeover,[docker|rce|fuzz|ics|modbus],2026-06-17,2026-08-07
 192.42.116.92,intrusion,software,Docker daemon takeover,[container|docker|rce|ics|modbus],2026-06-14,2026-07-14
-192.42.116.99,intrusion,software,Docker daemon takeover,[container|docker|rce|alpine|fuzz|ics|modbus],2026-06-15,2026-07-13
+192.42.116.99,intrusion,software,Docker daemon takeover,[container|docker|rce|alpine|fuzz|ics|modbus],2026-06-15,2026-10-16
 192.42.116.100,intrusion,software,Docker daemon takeover,[container|docker|rce|alpine|infected|vnc|remote|masscan|scanner|fuzz|ics|modbus],2026-06-18,2026-07-13
-192.42.116.103,intrusion,software,Docker daemon takeover,[container|docker|rce|infected|fuzz|ics|modbus],2026-06-16,2026-07-13
+192.42.116.103,intrusion,software,Docker daemon takeover,[container|docker|rce|infected|fuzz|ics|modbus],2026-06-16,2026-08-07
 192.42.116.104,intrusion,software,Docker daemon takeover,[docker|rce|ics|modbus],2026-06-24,2026-07-14
-192.42.116.109,intrusion,software,container filesystem credential extraction,[credential-harvest|docker|fuzz|ics|modbus|freepbx|http|pbx|voip],2026-06-24,2026-08-07
-192.42.116.111,intrusion,software,Docker daemon takeover,[container|docker|rce|infected|freepbx|http|pbx|voip],2026-06-14,2026-08-18
+192.42.116.109,intrusion,software,container filesystem credential extraction,[credential-harvest|docker|fuzz|ics|modbus|freepbx|http|pbx|voip],2026-06-24,2026-09-08
+192.42.116.111,intrusion,software,Docker daemon takeover,[container|docker|rce|infected|freepbx|http|pbx|voip],2026-06-14,2026-07-21
 192.42.116.112,intrusion,software,Docker daemon takeover,[container|docker|rce|infected|fuzz|ics|modbus],2026-06-14,2026-07-14
 192.76.153.253,intrusion,software,Docker daemon takeover,[container|docker|rce|infected|ics|modbus],2026-06-18,2026-10-06
 192.129.219.219,intrusion,remote,VNC session established,[remote|vnc],2026-07-25,2026-07-25
@@ -10736,7 +10726,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 193.90.12.62,intrusion,ssh,Full SSH compromise chain (credential theft + sudoers backdoor + dual key persistence + payload execution),[backdoor|credential-theft|persistence|rce|ssh-key|sudoers],2026-08-19,2026-08-19
 193.138.7.176,intrusion,software,Docker daemon takeover,[container|docker|rce],2026-08-03,2026-08-03
 193.142.147.92,intrusion,remote,,[vnc|remote|rds|rdweb|windows],2026-05-06,2026-07-11
-193.142.147.109,intrusion,remote,VNC session established,[cisco|recon|vpn|vnc|remote|fuzz|ics|modbus],2026-07-25,2026-08-26
+193.142.147.109,intrusion,remote,VNC session established,[cisco|recon|vpn|vnc|remote|fuzz|ics|modbus],2026-07-25,2026-08-21
 193.142.147.110,intrusion,remote,,[vnc|remote|rds|rdweb|windows],2026-05-06,2026-07-11
 193.142.147.111,intrusion,remote,,[vnc|remote|rds|rdweb|windows],2026-05-06,2026-07-11
 193.163.187.107,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce|human|ssh|ddns|persistence],2026-10-13,2026-10-13
@@ -10749,16 +10739,16 @@ ip,category,detail,note,tags,first_seen,last_seen
 194.60.93.186,intrusion,connect,PPTP tunnel established,[pptp],2026-07-20,2026-10-14
 194.110.115.142,intrusion,remote,VNC session established,[remote|vnc],2026-09-10,2026-09-10
 194.127.166.98,intrusion,software,Docker daemon takeover,[container|docker|rce],2026-07-22,2026-07-22
-194.165.16.121,intrusion,remote,VNC session established,[vnc|remote|fuzz|ics|modbus],2026-08-27,2026-08-14
-194.165.16.122,intrusion,remote,VNC session established,[vnc|remote|fuzz|ics|modbus],2026-07-22,2026-08-15
-194.165.16.123,intrusion,remote,VNC session established,[vnc|remote|fuzz|ics|modbus],2026-07-29,2026-08-15
-194.165.16.161,intrusion,remote,VNC session established,[multi-port|vnc|remote|fuzz|ics|modbus],2026-05-21,2026-08-15
-194.165.16.162,intrusion,remote,VNC session established,[multi-port|vnc|remote|masscan|scanner|fuzz|ics|modbus],2026-05-21,2026-08-15
-194.165.16.163,intrusion,remote,VNC session established,[multi-port|vnc|remote|fuzz|ics|modbus],2026-05-21,2026-08-15
-194.165.16.164,intrusion,remote,VNC session established,[multi-port|vnc|remote|fuzz|ics|modbus],2026-05-21,2026-08-15
-194.165.16.165,intrusion,remote,VNC session established,[multi-port|vnc|remote|fuzz|ics|modbus|masscan|scanner],2026-05-21,2026-08-15
-194.165.16.166,intrusion,remote,VNC session established,[multi-port|vnc|remote|fuzz|ics|modbus],2026-05-21,2026-08-29
-194.165.16.167,intrusion,remote,VNC session established,[multi-port|vnc|remote|fuzz|ics|modbus],2026-05-21,2026-08-15
+194.165.16.121,intrusion,remote,VNC session established,[vnc|remote|fuzz|ics|modbus],2026-08-27,2026-08-27
+194.165.16.122,intrusion,remote,VNC session established,[vnc|remote|fuzz|ics|modbus],2026-07-22,2026-09-15
+194.165.16.123,intrusion,remote,VNC session established,[vnc|remote|fuzz|ics|modbus],2026-07-29,2026-07-29
+194.165.16.161,intrusion,remote,VNC session established,[multi-port|vnc|remote|fuzz|ics|modbus],2026-05-21,2026-08-16
+194.165.16.162,intrusion,remote,VNC session established,[multi-port|vnc|remote|masscan|scanner|fuzz|ics|modbus],2026-05-21,2026-08-10
+194.165.16.163,intrusion,remote,VNC session established,[multi-port|vnc|remote|fuzz|ics|modbus],2026-05-21,2026-08-13
+194.165.16.164,intrusion,remote,VNC session established,[multi-port|vnc|remote|fuzz|ics|modbus],2026-05-21,2026-08-30
+194.165.16.165,intrusion,remote,VNC session established,[multi-port|vnc|remote|fuzz|ics|modbus|masscan|scanner],2026-05-21,2026-08-18
+194.165.16.166,intrusion,remote,VNC session established,[multi-port|vnc|remote|fuzz|ics|modbus],2026-05-21,2026-08-06
+194.165.16.167,intrusion,remote,VNC session established,[multi-port|vnc|remote|fuzz|ics|modbus],2026-05-21,2026-09-13
 194.187.178.123,intrusion,connect,,[pptp|nmap|recon|scanner],2026-05-06,2026-07-29
 195.86.24.99,intrusion,remote,VNC session established,[remote|vnc],2026-09-26,2026-09-26
 195.96.138.104,intrusion,remote,VNC session established,[vnc|remote],2026-08-26,2026-08-26
@@ -10779,7 +10769,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 201.79.47.26,intrusion,remote,VNC session established,[remote|vnc],2026-09-29,2026-09-29
 202.44.237.245,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce|ddns|persistence],2026-10-12,2026-10-12
 203.25.223.151,intrusion,software,Docker daemon takeover,[container|docker|rce],2026-04-01,2026-09-24
-203.55.131.4,intrusion,connect,,[openvpn|vnc|remote|masscan|scanner|info|redis|dns|fingerprint],2026-04-15,2026-07-17
+203.55.131.4,intrusion,connect,,[openvpn|vnc|remote|masscan|scanner|info|redis|dns|fingerprint],2026-04-15,2026-08-30
 203.96.226.38,intrusion,remote,VNC session established,[remote|vnc],2026-07-20,2026-10-16
 203.96.226.51,intrusion,remote,VNC session established,[remote|vnc],2026-07-26,2026-08-02
 203.195.212.191,intrusion,remote,VNC session established,[remote|vnc],2026-09-16,2026-09-16
@@ -10805,7 +10795,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 207.180.215.35,intrusion,remote,VNC session established,[remote|vnc],2026-08-30,2026-08-30
 207.180.224.231,intrusion,remote,VNC session established,[remote|vnc],2026-08-30,2026-08-30
 207.180.253.181,intrusion,remote,VNC session established,[remote|vnc],2026-08-30,2026-08-30
-207.180.254.251,intrusion,remote,VNC session established,[sip|voip|friendly-scanner|recon|sipvicious|vnc|remote],2026-08-27,2026-09-07
+207.180.254.251,intrusion,remote,VNC session established,[sip|voip|friendly-scanner|recon|sipvicious|vnc|remote],2026-08-27,2026-09-03
 209.97.135.113,intrusion,remote,VNC session established,[remote|vnc],2026-07-15,2026-08-07
 209.99.184.95,intrusion,connect,,[pptp],2026-05-06,2026-09-15
 209.99.187.35,intrusion,connect,PPTP tunnel established,[pptp],2026-05-27,2026-08-16
@@ -11116,7 +11106,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 20.98.132.156,recon,ics,Modbus device identification,[ics|modbus|fuzz],2026-09-23,2026-09-23
 20.98.162.219,recon,ics,Modbus device identification,[ics|modbus|fuzz|info|redis],2026-09-30,2026-10-12
 20.98.164.243,recon,ics,Modbus device identification,[ics|modbus|fuzz],2026-10-05,2026-10-05
-20.102.45.133,recon,ics,Modbus device identification,[ics|modbus|fuzz|tomcat],2026-09-03,2026-09-03
+20.102.45.133,recon,ics,Modbus device identification,[ics|modbus|fuzz|tomcat],2026-09-03,2026-09-01
 20.106.39.215,recon,software,Spring Boot Actuator endpoint probe,[http|recon|spring],2026-09-24,2026-09-24
 20.106.59.151,recon,software,Spring Boot Actuator endpoint probe,[http|recon|spring],2026-09-14,2026-09-14
 20.111.19.114,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-09-15,2026-10-07
@@ -11841,7 +11831,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 45.146.10.242,recon,docker,Docker image enumeration sweep,[docker|image-enum],2026-07-19,2026-07-19
 45.146.11.193,recon,docker,Docker daemon recon sweep,[docker],2026-07-30,2026-07-30
 45.148.9.11,recon,sip,SIPVicious VoIP toll-fraud scanner,[friendly-scanner|recon|sip|sipvicious|voip],2026-09-01,2026-09-01
-45.148.10.5,recon,http,HTTP-only sweep (46 requests),[http|credential-harvest|nmap|recon|scanner|aws|azure|cloud|credential-theft|traversal|git],2026-09-14,2026-09-11
+45.148.10.5,recon,http,HTTP-only sweep (46 requests),[http|credential-harvest|nmap|recon|scanner|aws|azure|cloud|credential-theft|traversal|git],2026-09-14,2026-09-14
 45.148.10.125,recon,http,HTTP-only sweep (22 requests),[http|credential-harvest|credential-theft|git],2026-08-01,2026-08-01
 45.148.10.175,recon,telnet,Nmap telnet scan,[nmap|scanner],2026-10-14,2026-10-14
 45.148.10.200,recon,http,HTTP-only sweep (56 requests),[http|credential-harvest|php|phpinfo],2026-05-28,2026-07-25
@@ -11877,6 +11867,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 45.205.1.232,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-10-04,2026-10-17
 45.205.1.240,recon,scanner,Internet-wide multi-protocol mass scanner,[masscan|scanner],2026-05-29,2026-09-01
 45.225.135.20,recon,docker,Docker daemon recon sweep,[docker],2026-09-17,2026-09-17
+45.225.135.153,recon,vpn,Fortinet SSL-VPN login page recon,[fortinet|recon|vpn|rds|rdweb|windows],2026-07-08,2026-07-24
 45.227.253.156,recon,vpn,Fortinet SSL-VPN login page recon,[fortinet|vpn],2026-09-26,2026-09-28
 45.227.253.158,recon,vpn,Fortinet SSL-VPN login page recon,[fortinet|vpn],2026-09-26,2026-09-28
 45.227.254.154,recon,ics,Modbus function code fuzzing,[fuzz|ics|modbus],2026-04-18,2026-08-14
@@ -13286,6 +13277,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 80.94.92.238,recon,software,Redis INFO probe,[info|redis],2026-07-22,2026-07-22
 80.94.93.57,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-08-08,2026-08-08
 80.94.93.166,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-08-04,2026-08-06
+80.94.95.34,recon,,6+ Protocols,[multi-port|fuzz|ics|modbus|rds|rdweb|windows],2026-05-21,2026-07-13
 80.94.95.45,recon,vpn,Fortinet SSL-VPN login page recon,[fortinet|vpn],2026-10-07,2026-10-07
 80.94.95.88,recon,rdp,Microsoft RDS web client probe,[rds|rdweb|windows],2026-08-01,2026-08-01
 80.94.95.146,recon,rdp,Microsoft RDS web client probe,[rds|rdweb|windows|cisco|vpn|fortinet|globalprotect|paloalto],2026-09-23,2026-09-23
@@ -13334,6 +13326,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 81.19.216.119,recon,router,Zyxel gateway info disclosure probe,[router|zyxel],2026-09-15,2026-09-15
 81.19.216.122,recon,ics,Modbus device identification,[ics|modbus],2026-07-05,2026-10-02
 81.22.193.161,recon,sip,SIP VoIP toll-fraud scanner,[friendly-scanner|sip|sipvicious|voip],2026-10-01,2026-10-01
+81.29.154.238,recon,software,Redis INFO probe,[info|redis],2026-10-17,2026-10-17
 81.31.194.72,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-08-30,2026-09-09
 81.78.38.82,recon,docker,Docker Swarm secrets enumeration,[credential-harvest|docker],2026-07-31,2026-07-31
 81.78.144.117,recon,docker,Docker daemon recon sweep,[docker],2026-07-29,2026-07-29
@@ -14578,6 +14571,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 103.63.24.43,recon,docker,Docker daemon recon sweep,[docker],2026-09-22,2026-09-22
 103.70.77.226,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-08-11,2026-08-11
 103.70.167.24,recon,router,Boa httpd default-credential login sweep,[boaform|iot|recon|router],2026-07-11,2026-07-11
+103.72.147.224,recon,pptp,Nmap PPTP scan,[nmap|pptp|scanner|ai|api],2026-05-25,2026-07-12
 103.73.65.219,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-08-25,2026-08-28
 103.74.237.114,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-08-25,2026-08-26
 103.76.203.207,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-06-05,2026-09-09
@@ -14714,7 +14708,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 107.150.96.116,recon,telnet,Nmap telnet scan,[nmap|recon|scanner],2026-08-09,2026-08-09
 107.150.101.128,recon,docker,Docker daemon recon sweep,[docker],2026-04-22,2026-08-29
 107.150.106.220,recon,telnet,Nmap telnet scan,[nmap|recon|scanner],2026-07-04,2026-07-28
-107.150.117.121,recon,dns,DNS server version fingerprint (CHAOS TXT query),[dns|fingerprint|config|credential-theft|http],2026-09-02,2026-09-02
+107.150.117.121,recon,dns,DNS server version fingerprint (CHAOS TXT query),[dns|fingerprint|config|credential-theft|http],2026-09-02,2026-08-12
 107.155.116.46,recon,sip,SIPVicious VoIP toll-fraud scanner,[friendly-scanner|recon|sip|sipvicious|voip],2026-07-28,2026-07-30
 107.170.9.99,recon,dns,DNS server version fingerprint (CHAOS TXT query),[dns|fingerprint],2026-09-29,2026-09-29
 107.172.95.94,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-05-24,2026-08-20
@@ -14931,6 +14925,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 123.52.229.145,recon,wordpress,WordPress REST API root fingerprint,[api|http|wordpress],2026-10-12,2026-10-15
 123.54.215.78,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-07-03,2026-09-09
 123.58.196.49,recon,,,[tftp|config|credential-theft|http],2026-05-27,2026-08-17
+123.58.200.21,recon,dns,DNS server version fingerprint (CHAOS TXT query),[dns|fingerprint|config|credential-theft|http],2026-06-30,2026-09-14
 123.58.209.112,recon,dns,DNS server version fingerprint (CHAOS TXT query),[dns|fingerprint],2026-08-22,2026-08-23
 123.58.209.194,recon,pptp,Nmap PPTP scan,[nmap|pptp|scanner],2026-08-19,2026-08-19
 123.58.210.106,recon,credential-theft,Config file credential sweep,[config|credential-theft|http],2026-03-10,2026-07-18
@@ -14938,7 +14933,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 123.58.213.22,recon,pptp,Nmap PPTP scan,[nmap|pptp|scanner],2026-09-06,2026-09-06
 123.58.213.117,recon,ics,Modbus device identification,[ics|modbus|fuzz],2026-07-27,2026-07-27
 123.58.219.98,recon,software,Exposed AI/ML API probe (OpenAI-compatible or vector DB),[ai|api],2026-07-29,2026-07-29
-123.58.219.233,recon,software,Exposed AI/ML API probe (OpenAI-compatible or vector DB),[ai|api|nmap|pptp|scanner],2026-08-19,2026-10-03
+123.58.219.233,recon,software,Exposed AI/ML API probe (OpenAI-compatible or vector DB),[ai|api|nmap|pptp|scanner],2026-08-19,2026-08-19
 123.145.36.43,recon,dns,DNS server version fingerprint (CHAOS TXT query),[dns|fingerprint],2026-07-17,2026-07-17
 124.29.223.165,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-08-25,2026-09-09
 124.29.226.103,recon,router,Boa httpd default-credential login sweep,[boaform|iot|recon|router],2026-08-16,2026-08-16
@@ -14962,13 +14957,13 @@ ip,category,detail,note,tags,first_seen,last_seen
 128.14.233.156,recon,docker,Docker daemon recon sweep,[docker],2026-09-16,2026-09-16
 128.185.94.42,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-08-30,2026-09-02
 128.199.173.164,recon,http,HTTP-only sweep (34 requests),[http],2026-07-14,2026-07-14
-128.199.255.160,recon,pptp,Nmap PPTP scan,[nmap|pptp|scanner|dlink|hnap|iot|router],2026-07-22,2026-07-22
+128.199.255.160,recon,pptp,Nmap PPTP scan,[nmap|pptp|scanner|dlink|hnap|iot|router],2026-07-22,2026-07-26
 128.203.190.122,recon,http,HTTP-only sweep (24 requests),[http|credential-harvest],2026-08-10,2026-08-10
 129.121.75.86,recon,software,.git/config exposure sweep,[credential-theft|git],2026-09-24,2026-09-24
 129.121.129.159,recon,docker,Docker daemon recon sweep,[docker],2026-09-30,2026-09-30
 129.213.151.234,recon,http,HTTP-only sweep (66 requests),[http|credential-harvest|actuator|java|spring|aws|azure|cloud|credential-theft|traversal|git|php|phpinfo|config|recon],2026-08-16,2026-09-30
 130.12.115.26,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-06-18,2026-07-11
-130.12.180.19,recon,vpn,Fortinet SSL-VPN login page recon,[fortinet|recon|vpn|sonicwall],2026-09-07,2026-09-07
+130.12.180.19,recon,vpn,Fortinet SSL-VPN login page recon,[fortinet|recon|vpn|sonicwall],2026-09-07,2026-09-26
 130.12.180.121,recon,vpn,SSL-VPN login page probe,[fortinet|sonicwall|vpn],2026-09-01,2026-09-01
 130.78.189.172,recon,software,Exposed AI/ML API probe (OpenAI-compatible or vector DB),[ai|api],2026-09-29,2026-09-29
 130.94.15.80,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-07-18,2026-07-23
@@ -15337,7 +15332,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 150.5.28.49,recon,docker,Docker daemon recon sweep,[docker],2026-09-10,2026-09-10
 150.40.126.53,recon,ddos,,[amplification|ddos|dns],2026-05-16,2026-10-11
 150.107.36.236,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab|pptp|dns|fingerprint],2026-06-27,2026-09-01
-150.107.38.40,recon,,5+ Protocols,[multi-port|dns|fingerprint|config|credential-theft|http],2026-05-21,2026-07-20
+150.107.38.40,recon,,5+ Protocols,[multi-port|dns|fingerprint|config|credential-theft|http],2026-05-21,2026-10-07
 150.109.82.227,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-10-12,2026-10-17
 150.109.245.99,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-10-08,2026-10-09
 150.109.247.106,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-09-30,2026-10-09
@@ -15376,9 +15371,9 @@ ip,category,detail,note,tags,first_seen,last_seen
 152.32.151.39,recon,credential-theft,Config file credential sweep,[config|credential-theft|http],2026-04-11,2026-08-11
 152.32.158.248,recon,credential-theft,Config file credential sweep,[config|credential-theft|http],2026-09-24,2026-09-24
 152.32.172.191,recon,pptp,Nmap PPTP scan,[nmap|pptp|scanner],2026-08-17,2026-08-17
-152.32.183.163,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-06-05,2026-10-16
+152.32.183.163,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-06-05,2026-10-17
 152.32.183.236,recon,dns,DNS server version fingerprint (CHAOS TXT query),[dns|fingerprint],2026-09-08,2026-09-08
-152.32.188.12,recon,dns,DNS server version fingerprint (CHAOS TXT query),[dns|fingerprint|ai|api],2026-08-21,2026-08-21
+152.32.188.12,recon,dns,DNS server version fingerprint (CHAOS TXT query),[dns|fingerprint|ai|api],2026-08-21,2026-08-28
 152.32.188.242,recon,dns,DNS server version fingerprint (CHAOS TXT query),[dns|fingerprint],2026-07-19,2026-07-19
 152.32.189.202,recon,pptp,Nmap PPTP scan,[nmap|pptp|scanner],2026-08-08,2026-08-08
 152.32.197.121,recon,software,Redis INFO probe,[info|redis],2026-08-12,2026-08-12
@@ -15396,7 +15391,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 152.32.215.244,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab|dns|fingerprint],2026-06-12,2026-10-07
 152.32.217.163,recon,credential-theft,Config file credential sweep,[config|credential-theft|http],2026-07-02,2026-08-30
 152.32.219.77,recon,credential-theft,Config file credential sweep,[config|credential-theft|http],2026-04-11,2026-08-09
-152.32.226.138,recon,dns,DNS server version fingerprint (CHAOS TXT query),[dns|fingerprint|ai|api],2026-08-29,2026-08-29
+152.32.226.138,recon,dns,DNS server version fingerprint (CHAOS TXT query),[dns|fingerprint|ai|api],2026-08-29,2026-09-14
 152.32.234.184,recon,ics,Modbus device identification,[ics|modbus|fuzz],2026-09-17,2026-09-17
 152.32.236.171,recon,docker,Docker daemon recon sweep,[docker],2026-09-15,2026-09-15
 152.37.118.88,recon,docker,Docker daemon recon sweep,[docker],2026-07-25,2026-07-25
@@ -15698,6 +15693,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 165.140.166.152,recon,docker,Docker daemon recon sweep,[docker],2026-08-29,2026-08-29
 165.154.6.224,recon,dns,DNS server version fingerprint (CHAOS TXT query),[dns|fingerprint],2026-09-05,2026-09-05
 165.154.11.149,recon,credential-theft,Config file credential sweep,[config|credential-theft|http],2026-08-03,2026-08-03
+165.154.11.172,recon,dns,DNS server version fingerprint (CHAOS TXT query),[dns|fingerprint|config|credential-theft|http],2026-06-06,2026-10-12
 165.154.11.210,recon,credential-theft,Config file credential sweep,[config|credential-theft|http],2026-06-09,2026-09-14
 165.154.23.177,recon,dns,DNS server version fingerprint (CHAOS TXT query),[dns|fingerprint],2026-09-25,2026-09-25
 165.154.51.221,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-07-17,2026-07-17
@@ -16362,7 +16358,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 185.219.142.165,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-07-17,2026-07-20
 185.220.100.254,recon,docker,Docker daemon recon sweep,[docker],2026-06-24,2026-07-31
 185.223.78.112,recon,docker,Docker daemon recon sweep,[docker],2026-07-27,2026-07-27
-185.224.128.252,recon,scanner,Internet-wide multi-protocol mass scanner,[masscan|scanner|fortinet|sonicwall|vpn],2026-09-20,2026-10-06
+185.224.128.252,recon,scanner,Internet-wide multi-protocol mass scanner,[masscan|scanner|fortinet|sonicwall|vpn],2026-09-20,2026-10-03
 185.226.198.4,recon,router,Router CGI auth endpoint probe,[cgi|http|router],2026-09-01,2026-09-01
 185.226.198.7,recon,router,Router CGI auth endpoint probe,[cgi|http|router],2026-07-30,2026-07-30
 185.231.102.30,recon,docker,Docker daemon recon sweep,[docker],2026-10-12,2026-10-15
@@ -16911,6 +16907,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 217.155.17.253,recon,docker,Docker daemon recon sweep,[docker],2026-07-25,2026-07-25
 217.156.66.57,recon,voip,"SIP-only, high connect volume",[sip|voip|friendly-scanner|recon|sipvicious],2026-08-13,2026-08-13
 217.160.58.58,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-04-11,2026-09-05
+217.160.120.169,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-10-17,2026-10-17
 217.160.232.177,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-08-25,2026-08-26
 217.160.254.235,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-07-18,2026-07-20
 217.181.90.20,recon,docker,Docker daemon recon sweep,[docker|credential-harvest],2026-07-21,2026-07-21
