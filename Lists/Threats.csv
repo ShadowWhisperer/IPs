@@ -1805,6 +1805,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 14.103.115.25,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-14,2026-10-07
 14.103.115.115,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-08,2026-10-17
 14.103.115.181,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-17,2026-10-25
+14.103.115.182,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-21,2026-11-01
 14.103.115.250,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-11-02,2026-11-09
 14.103.115.253,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-15,2026-11-17
 14.103.117.81,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-14,2026-10-12
@@ -1830,7 +1831,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 14.103.120.124,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-08,2026-10-14
 14.103.123.67,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-25,2026-10-18
 14.103.123.169,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-08,2026-10-17
-14.103.126.104,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-13,2026-11-20
+14.103.126.104,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-13,2026-11-03
 14.103.140.39,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-22,2026-10-07
 14.103.159.154,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-28,2026-10-21
 14.103.213.5,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-20,2026-09-20
@@ -1874,7 +1875,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 20.106.202.68,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-21,2026-09-21
 20.115.209.228,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-31,2026-11-06
 20.116.34.103,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-30,2026-10-25
-20.124.84.235,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-24,2026-10-08
+20.124.84.235,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-24,2026-11-03
 20.141.30.9,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-29,2026-09-29
 20.153.204.5,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-09,2026-09-23
 20.157.117.15,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-22,2026-10-17
@@ -1961,7 +1962,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 27.122.61.182,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-01,2026-10-01
 27.124.65.25,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-11-20,2026-11-20
 27.128.171.39,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-10,2026-10-19
-27.128.240.75,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-30,2026-10-09
+27.128.240.75,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-30,2026-11-03
 27.130.182.136,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-30,2026-11-04
 27.147.225.2,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-11-08,2026-11-08
 27.150.188.148,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-18,2026-10-08
@@ -2001,12 +2002,13 @@ ip,category,detail,note,tags,first_seen,last_seen
 31.76.28.231,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-08-04,2026-08-23
 31.76.34.47,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-20,2026-11-11
 31.76.50.219,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-11-14,2026-11-14
-31.76.57.198,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-28,2026-11-18
+31.76.57.198,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-28,2026-11-01
 31.76.249.194,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-30,2026-09-30
 31.77.78.252,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-12,2026-10-12
 31.77.192.7,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-15,2026-10-12
 31.169.53.44,botnet node,,,[cron|download|dropper|persistence|rce|worm],2026-09-20,2026-09-20
 31.170.143.21,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-14,2026-10-14
+31.173.247.254,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-12,2026-11-03
 31.179.197.26,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-16,2026-10-23
 31.200.234.27,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-09-28,2026-09-28
 31.202.40.144,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-08-13,2026-08-13
@@ -2026,7 +2028,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 34.140.65.171,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-22,2026-10-28
 34.142.110.144,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-11,2026-10-02
 34.180.46.44,botnet node,,,[infected],2026-08-13,2026-08-13
-35.130.192.180,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-21,2026-11-20
+35.130.192.180,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-21,2026-11-04
 35.184.63.14,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-20,2026-09-20
 35.188.112.111,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-07,2026-09-05
 35.210.61.208,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-06,2026-10-27
@@ -2133,6 +2135,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 38.7.20.28,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-16,2026-10-08
 38.9.1.41,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-31,2026-10-31
 38.9.86.97,botnet node,gafgyt,Gafgyt/BASHLITE bot identification marker (GAYFGT hex echo),[bashlite|fingerprint|gafgyt|telnet|worm],2026-09-04,2026-09-04
+38.22.170.10,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-21,2026-11-01
 38.25.84.20,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-09,2026-09-09
 38.43.213.195,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-11-15,2026-11-15
 38.46.30.4,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-11-03,2026-11-03
@@ -2193,7 +2196,9 @@ ip,category,detail,note,tags,first_seen,last_seen
 40.82.214.8,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-22,2026-09-24
 40.83.182.122,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-07,2026-10-27
 40.112.183.29,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-11,2026-10-21
+40.117.97.0,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-17,2026-11-01
 40.121.179.100,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-25,2026-10-27
+40.121.200.75,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-21,2026-11-01
 40.125.42.10,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-05,2026-09-05
 41.33.91.226,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-14,2026-09-07
 41.38.91.188,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-06,2026-10-12
@@ -2293,7 +2298,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 43.128.67.6,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-19,2026-10-19
 43.128.133.75,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-22,2026-10-22
 43.129.33.101,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-09,2026-09-23
-43.129.44.66,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-11-01,2026-11-19
+43.129.44.66,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-11-01,2026-11-01
 43.129.53.19,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-05,2026-09-09
 43.129.56.70,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-29,2026-11-01
 43.129.193.109,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-18,2026-10-26
@@ -2729,6 +2734,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 49.70.229.253,botnet node,gafgyt,Gafgyt/BASHLITE bot identification marker (GAYFGT hex echo),[bashlite|fingerprint|gafgyt|telnet|worm],2026-08-14,2026-08-14
 49.71.101.99,botnet node,,,[infected],2026-10-14,2026-10-14
 49.72.212.22,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-20,2026-10-16
+49.75.185.71,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-10,2026-11-01
 49.79.57.169,botnet node,gafgyt,Gafgyt/BASHLITE bot identification marker (GAYFGT hex echo),[bashlite|fingerprint|gafgyt|telnet|worm],2026-08-14,2026-08-14
 49.112.146.72,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-08-18,2026-08-18
 49.117.130.103,botnet node,gafgyt,Gafgyt/BASHLITE bot identification marker (GAYFGT hex echo),[bashlite|fingerprint|gafgyt|telnet|worm],2026-08-13,2026-08-13
@@ -2889,7 +2895,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 52.141.2.20,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-17,2026-11-07
 52.142.222.187,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-22,2026-10-29
 52.168.141.47,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-13,2026-11-16
-52.172.177.191,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-15,2026-11-18
+52.172.177.191,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-15,2026-11-02
 52.176.211.73,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-16,2026-10-15
 52.187.9.8,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-08,2026-10-29
 52.224.109.126,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-22,2026-10-19
@@ -2924,7 +2930,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 58.33.97.119,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-13,2026-10-31
 58.42.8.7,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-09,2026-10-20
 58.47.66.78,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-28,2026-10-28
-58.49.26.202,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-06,2026-11-20
+58.49.26.202,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-06,2026-11-04
 58.50.17.103,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-26,2026-10-26
 58.50.194.204,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-26,2026-10-26
 58.51.79.43,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-24,2026-10-24
@@ -3532,6 +3538,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 91.90.123.18,botnet node,,,[cron|download|dropper|persistence|rce|worm],2026-10-26,2026-10-26
 91.92.40.65,botnet node,mirai,Mirai-family shell-verification (SHELL_TEST + busybox),[busybox|handshake|mirai|telnet|worm],2026-10-26,2026-10-26
 91.92.42.242,botnet node,,,[telnet|wget],2026-10-14,2026-10-14
+91.92.199.36,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-16,2026-11-01
 91.99.127.125,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-12,2026-10-12
 91.103.248.232,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-11-15,2026-11-15
 91.106.39.176,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-31,2026-10-31
@@ -3573,6 +3580,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 91.242.214.189,botnet node,mirai,Mirai-family shell-verification (SHELL_TEST + busybox),[busybox|handshake|mirai|telnet|worm],2026-09-12,2026-09-12
 91.244.29.134,botnet node,gafgyt,Gafgyt/BASHLITE bot identification marker (GAYFGT hex echo),[bashlite|fingerprint|gafgyt|telnet|worm],2026-10-03,2026-10-03
 91.244.60.184,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-08-15,2026-08-15
+92.27.101.99,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-10,2026-11-02
 92.27.157.252,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-28,2026-10-28
 92.40.48.116,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-24,2026-10-24
 92.47.27.174,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-20,2026-10-19
@@ -3582,6 +3590,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 92.112.126.183,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-02,2026-08-29
 92.112.127.220,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-30,2026-08-30
 92.118.112.176,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-24,2026-08-24
+92.207.4.157,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-21,2026-11-05
 92.222.189.15,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-04,2026-09-04
 92.242.198.105,botnet node,,,[docker|infected],2026-10-01,2026-10-15
 92.249.61.163,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-25,2026-10-26
@@ -3700,6 +3709,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 101.19.93.167,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-09-29,2026-09-29
 101.24.157.98,botnet node,gafgyt,Gafgyt/BASHLITE bot identification marker (GAYFGT hex echo),[bashlite|fingerprint|gafgyt|telnet|worm],2026-08-21,2026-08-21
 101.32.98.228,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-24,2026-09-30
+101.32.240.31,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-10,2026-11-02
 101.32.243.200,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-19,2026-08-19
 101.33.55.172,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-25,2026-10-13
 101.33.213.67,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-25,2026-10-25
@@ -3855,6 +3865,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 103.67.162.139,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-06,2026-10-26
 103.67.236.8,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-01,2026-10-24
 103.69.96.120,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-15,2026-10-23
+103.70.40.36,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-27,2026-11-02
 103.70.157.192,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-11-10,2026-11-10
 103.71.176.25,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-26,2026-11-01
 103.71.176.30,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-23,2026-10-28
@@ -3886,7 +3897,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 103.84.236.222,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-25,2026-09-16
 103.84.236.242,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-18,2026-11-05
 103.86.180.10,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-10,2026-10-17
-103.86.197.214,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-11-03,2026-11-17
+103.86.197.214,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-11-03,2026-11-03
 103.86.198.162,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-08,2026-11-11
 103.86.198.253,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-12,2026-09-26
 103.88.76.27,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-12,2026-10-28
@@ -3948,6 +3959,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 103.143.11.150,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-02,2026-10-11
 103.143.72.165,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-06,2026-10-05
 103.143.197.58,botnet node,,,[infected],2026-10-01,2026-10-01
+103.143.231.24,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-17,2026-11-04
 103.143.238.100,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-04,2026-09-27
 103.143.239.201,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-21,2026-10-13
 103.144.3.181,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-06,2026-10-26
@@ -4025,11 +4037,13 @@ ip,category,detail,note,tags,first_seen,last_seen
 103.186.101.231,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-05,2026-08-30
 103.187.146.107,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-06,2026-10-02
 103.187.147.71,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-28,2026-08-29
+103.187.147.214,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-14,2026-11-01
 103.187.165.26,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-18,2026-10-27
 103.187.178.26,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-29,2026-09-29
 103.189.88.55,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-02,2026-10-02
 103.189.89.145,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-19,2026-10-29
 103.189.89.196,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-19,2026-10-26
+103.189.208.13,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-18,2026-11-02
 103.189.234.27,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-30,2026-10-30
 103.189.234.57,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-27,2026-08-28
 103.189.234.85,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-09,2026-09-20
@@ -4168,6 +4182,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 106.12.84.220,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-27,2026-10-14
 106.12.86.201,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-18,2026-10-17
 106.12.106.232,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-02,2026-10-02
+106.12.121.26,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-07,2026-11-04
 106.12.124.63,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-23,2026-09-23
 106.12.127.250,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-20,2026-11-08
 106.12.128.184,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-25,2026-10-04
@@ -4196,6 +4211,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 106.13.186.96,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-22,2026-10-15
 106.13.190.191,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-15,2026-10-13
 106.13.194.13,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-02,2026-10-02
+106.13.228.234,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-03,2026-11-04
 106.13.234.209,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-24,2026-10-31
 106.35.128.198,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-24,2026-10-24
 106.38.195.164,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-22,2026-09-03
@@ -4313,7 +4329,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 110.24.36.3,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-11-08,2026-11-08
 110.24.36.55,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-11-12,2026-11-12
 110.25.117.219,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-11-06,2026-11-06
-110.38.234.222,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-05,2026-11-17
+110.38.234.222,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-05,2026-11-01
 110.41.55.216,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-28,2026-08-28
 110.42.49.242,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-14,2026-10-28
 110.42.110.223,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-20,2026-09-20
@@ -4343,6 +4359,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 111.29.38.32,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-18,2026-10-24
 111.32.153.180,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-28,2026-10-28
 111.36.20.102,botnet node,gafgyt,Gafgyt/BASHLITE bot identification marker (GAYFGT hex echo),[bashlite|fingerprint|gafgyt|telnet|worm],2026-08-14,2026-08-14
+111.42.183.124,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-12,2026-11-02
 111.42.247.5,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-09-02,2026-09-02
 111.43.194.86,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-08-21,2026-08-21
 111.47.243.219,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-07,2026-10-28
@@ -4547,6 +4564,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 113.120.195.189,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-08-22,2026-08-22
 113.125.188.52,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-27,2026-10-27
 113.137.40.250,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-12,2026-10-20
+113.141.171.139,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-10,2026-11-03
 113.160.150.99,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-26,2026-10-11
 113.161.79.218,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-20,2026-10-26
 113.161.149.20,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-29,2026-10-24
@@ -4611,6 +4629,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 114.188.77.81,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-11-18,2026-11-18
 114.216.152.246,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-25,2026-10-25
 114.217.10.60,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-22,2026-10-28
+114.220.176.69,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-06,2026-11-03
 114.220.238.21,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-25,2026-11-19
 114.220.238.224,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-08,2026-11-08
 114.224.83.112,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-24,2026-10-30
@@ -4681,6 +4700,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 115.190.243.73,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-11,2026-11-01
 115.190.243.99,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-30,2026-09-28
 115.190.245.176,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-12,2026-10-20
+115.190.248.214,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-24,2026-11-04
 115.190.249.177,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-29,2026-10-13
 115.190.253.92,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-31,2026-11-20
 115.190.255.67,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-26,2026-09-01
@@ -4764,6 +4784,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 117.50.51.119,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-01,2026-10-15
 117.50.51.198,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-18,2026-10-25
 117.50.70.125,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-06,2026-10-21
+117.50.70.169,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-06,2026-11-03
 117.50.119.17,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-27,2026-10-14
 117.50.122.20,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-07,2026-10-25
 117.50.137.84,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-17,2026-10-25
@@ -4920,6 +4941,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 119.96.157.188,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-14,2026-10-28
 119.96.158.87,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-10,2026-10-25
 119.96.158.238,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-17,2026-11-17
+119.96.159.237,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-01,2026-11-02
 119.96.173.169,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-07,2026-10-13
 119.96.174.235,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-09,2026-10-28
 119.98.212.238,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-29,2026-10-29
@@ -4929,6 +4951,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 119.114.62.78,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-14,2026-10-14
 119.152.232.170,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-11-04,2026-11-04
 119.154.28.54,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-28,2026-10-28
+119.156.28.157,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-17,2026-11-01
 119.157.51.2,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-11,2026-10-11
 119.163.0.93,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-11-16,2026-11-16
 119.165.198.175,botnet node,gafgyt,Gafgyt/BASHLITE bot identification marker (GAYFGT hex echo),[bashlite|fingerprint|gafgyt|telnet|worm],2026-09-27,2026-09-27
@@ -5279,6 +5302,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 124.174.32.95,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-14,2026-10-24
 124.174.39.136,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-23,2026-10-23
 124.174.82.178,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-25,2026-11-12
+124.193.81.23,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-30,2026-11-02
 124.207.165.138,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-27,2026-10-29
 124.220.78.244,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-19,2026-09-26
 124.221.64.62,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-08-21,2026-08-21
@@ -5371,7 +5395,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 129.121.100.53,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-17,2026-10-26
 129.121.101.28,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-27,2026-10-27
 129.121.101.56,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-28,2026-09-30
-129.121.101.166,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-25,2026-11-18
+129.121.101.166,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-25,2026-11-04
 129.121.101.179,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-13,2026-10-17
 129.121.101.230,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-28,2026-10-30
 129.121.102.54,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-11-01,2026-11-05
@@ -5639,6 +5663,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 144.31.185.241,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-30,2026-10-30
 144.31.234.189,botnet node,,,[infected],2026-09-29,2026-09-29
 144.48.132.25,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-08,2026-10-08
+144.48.243.18,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-20,2026-11-04
 144.52.143.255,botnet node,gafgyt,Gafgyt/BASHLITE bot identification marker (GAYFGT hex echo),[bashlite|fingerprint|gafgyt|telnet|worm],2026-09-29,2026-09-29
 144.79.166.53,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-28,2026-08-28
 144.79.249.123,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-30,2026-08-31
@@ -5736,7 +5761,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 152.32.171.213,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-19,2026-10-12
 152.32.172.154,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-27,2026-10-29
 152.32.173.46,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-25,2026-10-25
-152.32.174.171,botnet node,,,[infected|worm|crypto|backdoor],2026-05-17,2026-10-06
+152.32.174.171,botnet node,,,[infected|worm|crypto|backdoor],2026-05-17,2026-11-01
 152.32.175.168,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-21,2026-10-13
 152.32.175.179,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-16,2026-10-02
 152.32.182.8,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-27,2026-10-18
@@ -5812,6 +5837,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 153.126.214.105,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-28,2026-09-28
 153.203.76.43,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-08-27,2026-08-27
 153.239.192.5,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-09-27,2026-09-27
+154.18.197.35,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-03,2026-11-01
 154.18.238.98,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-20,2026-10-24
 154.51.40.141,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-16,2026-09-16
 154.51.59.118,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-26,2026-10-26
@@ -6043,7 +6069,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 164.163.189.151,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-24,2026-10-24
 165.16.183.173,botnet node,gafgyt,Gafgyt/BASHLITE bot identification marker (GAYFGT hex echo),[bashlite|fingerprint|gafgyt|telnet|worm],2026-09-12,2026-09-12
 165.22.18.19,botnet node,,,[infected],2026-09-27,2026-10-01
-165.22.218.95,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-18,2026-11-19
+165.22.218.95,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-18,2026-11-04
 165.73.201.216,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-31,2026-10-19
 165.98.242.52,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-21,2026-10-21
 165.99.16.135,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-09,2026-08-31
@@ -6087,6 +6113,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 165.154.156.67,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-25,2026-10-16
 165.154.162.74,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-11,2026-10-18
 165.154.199.128,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-11-05,2026-11-17
+165.154.200.214,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-10,2026-11-04
 165.154.202.254,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-06,2026-11-01
 165.154.203.20,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-23,2026-11-01
 165.154.207.2,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-30,2026-11-01
@@ -6114,6 +6141,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 166.0.253.128,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-25,2026-10-26
 166.62.41.13,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-24,2026-10-14
 166.62.41.96,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-05-20,2026-08-27
+166.62.41.190,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-16,2026-11-03
 166.88.33.16,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-26,2026-10-28
 166.114.162.121,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-11-09,2026-11-09
 166.114.162.130,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-20,2026-10-20
@@ -6279,6 +6307,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 172.160.227.37,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-13,2026-10-13
 172.166.156.163,botnet node,,,[infected],2026-09-10,2026-09-10
 172.171.233.230,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-05,2026-10-27
+172.172.131.149,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-13,2026-11-04
 172.172.170.199,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-10,2026-10-27
 172.172.180.124,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-20,2026-10-22
 172.172.186.3,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-12,2026-10-29
@@ -6293,6 +6322,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 172.190.51.254,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-29,2026-10-27
 172.190.89.127,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-29,2026-10-11
 172.190.220.228,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-16,2026-11-17
+172.191.94.172,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-25,2026-11-03
 172.191.132.202,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-31,2026-10-15
 172.191.178.196,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-13,2026-11-01
 172.191.239.155,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-08,2026-11-01
@@ -6628,7 +6658,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 181.46.185.226,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-19,2026-10-19
 181.48.105.218,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-24,2026-10-28
 181.49.8.57,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-17,2026-10-26
-181.62.56.67,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-25,2026-11-19
+181.62.56.67,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-25,2026-11-03
 181.78.234.67,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-11-19,2026-11-19
 181.78.234.70,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-18,2026-09-18
 181.79.159.3,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-22,2026-10-22
@@ -6645,7 +6675,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 181.174.142.172,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-11-12,2026-11-12
 181.188.148.74,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-17,2026-10-28
 181.188.172.6,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-13,2026-10-28
-181.188.176.242,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-25,2026-11-18
+181.188.176.242,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-25,2026-11-01
 181.188.237.219,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-27,2026-10-14
 181.188.237.221,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-10,2026-10-24
 181.189.81.244,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-03,2026-10-05
@@ -6674,6 +6704,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 182.10.168.194,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-27,2026-09-27
 182.10.168.206,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-11-17,2026-11-17
 182.37.91.141,botnet node,gafgyt,Gafgyt/BASHLITE bot identification marker (GAYFGT hex echo),[bashlite|fingerprint|gafgyt|telnet|worm],2026-09-14,2026-09-14
+182.40.195.233,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-08,2026-11-04
 182.42.93.139,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-08,2026-10-10
 182.43.76.81,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-22,2026-10-28
 182.43.164.191,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-21,2026-10-24
@@ -6685,7 +6716,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 182.44.26.211,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-30,2026-10-10
 182.44.116.87,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-13,2026-09-23
 182.46.130.101,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-29,2026-10-29
-182.48.80.240,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-14,2026-11-19
+182.48.80.240,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-14,2026-11-02
 182.52.90.106,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-08,2026-08-27
 182.53.160.212,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-30,2026-10-30
 182.53.180.211,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-26,2026-10-26
@@ -6730,6 +6761,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 182.246.159.211,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-15,2026-10-15
 182.253.79.194,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-18,2026-10-27
 182.253.79.195,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-31,2026-08-30
+182.253.156.184,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-10,2026-11-02
 182.253.168.2,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-11-16,2026-11-16
 182.253.168.82,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-21,2026-08-21
 182.253.171.213,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-18,2026-09-18
@@ -6750,7 +6782,9 @@ ip,category,detail,note,tags,first_seen,last_seen
 183.82.111.224,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-27,2026-10-30
 183.83.219.132,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-11-15,2026-11-15
 183.88.232.183,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-11,2026-09-20
+183.91.11.36,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-08,2026-11-01
 183.91.186.36,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-10,2026-10-18
+183.94.33.245,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-26,2026-11-01
 183.96.175.150,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-24,2026-10-24
 183.99.209.88,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-11-15,2026-11-15
 183.104.212.232,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-09-28,2026-09-28
@@ -6798,6 +6832,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 185.30.203.64,botnet node,gafgyt,Gafgyt/BASHLITE bot identification marker (GAYFGT hex echo),[bashlite|fingerprint|gafgyt|telnet|worm],2026-10-12,2026-10-12
 185.32.44.21,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-11-07,2026-11-07
 185.41.177.56,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-11-12,2026-11-12
+185.42.21.94,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-13,2026-11-02
 185.48.180.8,botnet node,,Sent windows files on a debian marked system,[windows executable|ssh],2026-09-17,2026-09-17
 185.64.25.226,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-21,2026-08-21
 185.66.128.64,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-11-01,2026-11-01
@@ -6887,6 +6922,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 186.139.251.57,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-18,2026-10-28
 186.148.224.83,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-31,2026-09-22
 186.158.170.42,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-08,2026-10-08
+186.158.183.66,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-06-25,2026-11-01
 186.176.11.79,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-29,2026-10-29
 186.182.105.49,botnet node,,,[infected],2026-10-17,2026-10-17
 186.188.104.230,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-23,2026-10-23
@@ -7107,6 +7143,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 190.196.253.59,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-20,2026-10-20
 190.210.239.99,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-31,2026-10-31
 190.220.172.154,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-26,2026-10-26
+190.223.60.209,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-26,2026-11-03
 190.230.219.208,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-23,2026-11-04
 190.237.43.142,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-11-01,2026-11-01
 190.238.105.148,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-21,2026-09-21
@@ -7214,7 +7251,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 195.239.40.213,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-20,2026-10-18
 195.239.97.254,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-13,2026-10-19
 195.242.119.58,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-01,2026-10-01
-196.0.3.188,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-23,2026-11-19
+196.0.3.188,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-23,2026-11-03
 196.49.7.116,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-22,2026-09-22
 196.50.29.16,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-30,2026-10-30
 196.65.238.152,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-27,2026-10-27
@@ -7283,7 +7320,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 199.241.120.131,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-15,2026-10-25
 200.6.88.134,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-11-09,2026-11-09
 200.8.109.18,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-11-06,2026-11-06
-200.32.41.145,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-11-01,2026-11-20
+200.32.41.145,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-11-01,2026-11-01
 200.37.103.36,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-07-20,2026-10-25
 200.38.73.241,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-20,2026-10-20
 200.39.143.244,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-11-09,2026-11-09
@@ -7458,6 +7495,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 202.141.8.66,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-09-28,2026-09-28
 202.141.8.255,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-31,2026-10-31
 202.145.0.18,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-05-20,2026-10-19
+202.145.0.61,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-10,2026-11-01
 202.150.138.153,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-20,2026-10-20
 202.152.148.27,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-22,2026-09-05
 202.152.148.30,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-08-24,2026-09-18
@@ -7479,7 +7517,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 202.165.28.182,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-11-07,2026-11-07
 202.184.148.229,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-21,2026-10-26
 202.188.47.66,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-11-14,2026-11-14
-203.6.227.164,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-11-01,2026-11-19
+203.6.227.164,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-11-01,2026-11-01
 203.6.235.51,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-28,2026-10-04
 203.17.87.209,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-18,2026-10-18
 203.25.208.110,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-31,2026-10-27
@@ -7635,6 +7673,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 211.251.11.198,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-09-26,2026-09-26
 211.251.245.88,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-16,2026-10-28
 211.253.2.115,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-28,2026-10-28
+211.253.9.49,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-31,2026-11-01
 211.253.31.30,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-07,2026-10-28
 211.253.37.225,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-18,2026-11-01
 211.254.212.59,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-14,2026-10-26
@@ -7832,7 +7871,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 221.155.46.238,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-25,2026-10-25
 221.155.176.120,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-09-25,2026-09-25
 221.156.21.112,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-19,2026-10-19
-221.156.126.1,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-07,2026-10-05
+221.156.126.1,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-07,2026-11-03
 221.156.173.44,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-19,2026-10-19
 221.157.45.78,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-26,2026-10-26
 221.157.130.150,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-09-29,2026-09-29
@@ -7847,6 +7886,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 221.168.220.91,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-25,2026-10-25
 221.205.171.61,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-25,2026-10-25
 221.213.129.46,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-12,2026-09-26
+221.229.218.50,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-09,2026-11-03
 221.229.220.180,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-28,2026-10-25
 221.230.34.225,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-09-26,2026-09-26
 221.233.30.62,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-25,2026-10-25
@@ -7914,6 +7954,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 223.137.168.222,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-11-01,2026-11-01
 223.151.73.86,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-20,2026-10-20
 223.151.73.195,botnet node,mirai,Mirai-family shell-verification handshake,[handshake|mirai|worm],2026-10-13,2026-10-13
+223.197.186.7,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-03-29,2026-11-01
 223.207.96.23,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-11-17,2026-11-17
 223.221.38.226,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-04-01,2026-10-28
 223.233.82.0,botnet node,cryptominer,outlaw/mdrfckr,[worm|crypto|infected|backdoor],2026-10-06,2026-10-06
@@ -9855,6 +9896,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 118.212.215.220,intrusion,software,container filesystem credential extraction,[credential-harvest|docker],2026-11-05,2026-11-05
 119.13.188.249,intrusion,remote,VNC session established,[remote|vnc],2026-09-12,2026-09-12
 119.13.189.108,intrusion,remote,VNC session established,[remote|vnc],2026-07-27,2026-11-21
+119.18.55.118,intrusion,remote,VNC session established,[worm|crypto|infected|backdoor|vnc|remote],2026-03-13,2026-11-04
 119.28.238.164,intrusion,remote,VNC session established,[remote|vnc],2026-08-04,2026-10-25
 119.29.154.86,intrusion,remote,VNC session established,[remote|vnc],2026-07-31,2026-10-21
 119.29.247.220,intrusion,software,Docker daemon takeover,[container|docker|rce],2026-04-22,2026-10-29
@@ -10086,7 +10128,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 147.78.241.228,intrusion,remote,VNC session established,[remote|vnc],2026-10-16,2026-10-16
 147.90.234.118,intrusion,ics,Modbus coil write (confirmed ICS write),[ics|modbus|write],2026-11-19,2026-11-19
 147.90.241.4,intrusion,software,Docker daemon takeover,[container|docker|rce|image-enum],2026-10-15,2026-10-15
-147.93.144.116,intrusion,remote,,[rdp|nmap|scanner|zgrab],2026-05-15,2026-11-20
+147.93.144.116,intrusion,remote,,[rdp|nmap|scanner|zgrab],2026-05-15,2026-11-21
 147.182.130.233,intrusion,remote,VNC session established,[remote|vnc],2026-08-06,2026-09-07
 147.182.149.146,intrusion,remote,VNC session established,[remote|vnc],2026-11-19,2026-11-19
 147.224.162.134,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce|human|ssh|ddns|persistence],2026-08-31,2026-09-28
@@ -10197,7 +10239,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 158.174.210.97,intrusion,ics,Modbus coil write (confirmed ICS write),[ics|modbus|write],2026-11-19,2026-11-19
 158.179.164.202,intrusion,remote,VNC session established,[vnc|remote],2026-05-06,2026-11-07
 158.193.61.102,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce|human|ssh|ddns|persistence],2026-10-10,2026-10-10
-158.220.86.73,intrusion,remote,,[vnc|remote|nmap|rdp|scanner|zgrab],2026-05-06,2026-11-20
+158.220.86.73,intrusion,remote,,[vnc|remote|nmap|rdp|scanner|zgrab],2026-05-06,2026-11-21
 159.26.101.131,intrusion,software,Docker daemon takeover,[container|docker|rce|image-enum],2026-11-02,2026-11-03
 159.26.108.171,intrusion,ics,Modbus coil register polling (unauthorized ICS read),[ics|modbus],2026-11-18,2026-11-18
 159.26.109.84,intrusion,ics,Modbus coil register polling (unauthorized ICS read),[ics|modbus],2026-11-19,2026-11-19
@@ -10354,7 +10396,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 175.178.248.198,intrusion,remote,VNC session established,[vnc|remote],2026-05-06,2026-11-07
 175.205.195.27,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce],2026-08-31,2026-08-31
 176.53.96.96,intrusion,remote,VNC session established,[remote|vnc],2026-09-04,2026-09-04
-176.65.144.5,intrusion,software,Docker daemon takeover,[container|docker|rce],2026-11-09,2026-11-20
+176.65.144.5,intrusion,software,Docker daemon takeover,[container|docker|rce],2026-11-09,2026-11-21
 176.65.144.6,intrusion,connect,PPTP tunnel established,[pptp],2026-10-22,2026-10-25
 176.65.148.103,intrusion,remote,VNC session established,[fuzz|ics|modbus|vnc|remote],2026-09-20,2026-09-20
 176.77.9.242,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce|human|ssh|ddns|persistence],2026-11-16,2026-11-16
@@ -10705,7 +10747,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 220.124.227.154,intrusion,router,MikroTik RouterOS hijack,[mikrotik|router|rce|human|ssh|ddns|persistence],2026-09-20,2026-09-28
 220.168.82.154,intrusion,software,Docker daemon takeover,[container|docker|rce],2026-08-16,2026-08-23
 220.168.85.66,intrusion,remote,VNC session established,[remote|vnc],2026-09-16,2026-10-25
-220.177.133.191,intrusion,remote,VNC session established,[vnc|remote],2026-09-19,2026-11-20
+220.177.133.191,intrusion,remote,VNC session established,[vnc|remote],2026-09-19,2026-11-21
 220.181.1.163,intrusion,software,Docker daemon takeover,[container|docker|rce],2026-03-27,2026-11-20
 220.197.85.184,intrusion,remote,VNC session established,[remote|vnc],2026-10-01,2026-10-01
 220.246.52.229,intrusion,software,Docker daemon takeover,[container|docker|rce|image-enum],2026-09-25,2026-09-25
@@ -11874,7 +11916,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 45.133.159.232,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-11-21,2026-11-21
 45.133.173.96,recon,ics,Modbus device identification,[ics|modbus],2026-08-28,2026-08-28
 45.134.79.72,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-11-06,2026-11-06
-45.135.193.115,recon,ddos,,[amplification|ddos|dns],2026-07-27,2026-11-20
+45.135.193.115,recon,ddos,,[amplification|ddos|dns],2026-07-27,2026-11-21
 45.135.193.212,recon,ddos,,[amplification|ddos|dns],2026-10-28,2026-10-28
 45.135.193.215,recon,dns,DNS server version fingerprint (CHAOS TXT query),[dns|fingerprint],2026-10-28,2026-10-28
 45.137.194.154,recon,docker,Docker daemon recon sweep,[docker],2026-10-19,2026-10-19
@@ -12293,7 +12335,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 66.78.5.183,recon,docker,Docker daemon recon sweep,[docker|credential-harvest],2026-08-23,2026-08-23
 66.94.101.40,recon,sip,SIP VoIP toll-fraud scanner,[friendly-scanner|sip|sipvicious|voip],2026-11-15,2026-11-16
 66.96.91.238,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-08-09,2026-08-20
-66.150.198.186,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-05-17,2026-11-20
+66.150.198.186,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-05-17,2026-11-21
 66.165.247.30,recon,voip,"SIP-only, high connect volume",[sip|voip|friendly-scanner|recon|sipvicious],2026-08-19,2026-08-27
 66.177.14.11,recon,docker,Docker image enumeration sweep,[docker|image-enum],2026-09-10,2026-09-10
 66.179.249.162,recon,docker,Docker daemon recon sweep,[docker],2026-11-03,2026-11-03
@@ -15583,7 +15625,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 109.102.204.93,recon,docker,Docker daemon recon sweep,[docker],2026-11-14,2026-11-14
 109.102.237.177,recon,docker,Docker image enumeration sweep,[docker|image-enum],2026-11-08,2026-11-08
 109.122.6.138,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-10-30,2026-10-31
-109.123.237.213,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-06-16,2026-11-20
+109.123.237.213,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-06-16,2026-11-21
 109.123.238.248,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-06-16,2026-11-21
 109.146.16.92,recon,docker,Docker daemon recon sweep,[docker],2026-11-16,2026-11-16
 109.150.67.162,recon,docker,Docker daemon recon sweep,[docker],2026-11-17,2026-11-17
@@ -17213,7 +17255,7 @@ ip,category,detail,note,tags,first_seen,last_seen
 192.99.212.130,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-08-30,2026-08-30
 192.141.253.56,recon,sip,SIPVicious VoIP toll-fraud scanner,[friendly-scanner|recon|sip|sipvicious|voip],2026-08-13,2026-09-29
 192.154.213.99,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-11-20,2026-11-21
-192.154.213.106,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-11-20,2026-11-20
+192.154.213.106,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-11-20,2026-11-21
 192.154.213.110,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-11-21,2026-11-21
 192.187.110.234,recon,voip,"SIP-only, high connect volume",[sip|voip],2026-09-23,2026-09-29
 192.210.185.95,recon,rdp,RDP scanner tool fingerprint (nmap/zgrab/placeholder credential),[nmap|rdp|scanner|zgrab],2026-10-27,2026-10-28
